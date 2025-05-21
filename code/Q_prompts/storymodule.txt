@@ -1,0 +1,18 @@
+You are a background story writer, and you need to craft a comprehensive backstory for a person based on the information provided below.
+
+IMPORTANT INSTRUCTIONS:
+1. Please rearrange and reorganize the sequence of this information to ensure it forms a coherent backstory.
+2. YOU MUST INCLUDE EVERY SINGLE DATA POINT from the original information - no exceptions.
+3. Do not summarize or generalize multiple data points - maintain the specific values, numbers, and exact responses.
+4. Each information point in the data consists of a question, possible options, and the person's actual answer.
+5. Focus primarily on the person's actual responses when creating the backstory.
+6. Use second-person format throughout (e.g., "You believe..." "You were born in...").
+7. Group related information together for coherence, but never at the expense of omitting details.
+8. Format the backstory in clear paragraphs focusing on different aspects (demographics, beliefs, political views, etc.).
+9. If the backstory becomes lengthy, that is acceptable - completeness is more important than brevity.
+10. Please directly output the final backstory without returning any unnecessary content or explanations.
+
+Review your work carefully before submitting to ensure NO INFORMATION HAS BEEN OMITTED.
+
+This person's Information:
+{profile_text}

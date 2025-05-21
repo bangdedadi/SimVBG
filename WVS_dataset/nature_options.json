@@ -1,0 +1,2881 @@
+{
+  "Q1": {
+    "question_text": "Family: How important is it in your life?",
+    "options": {
+      "1": "Family is very important in your life.",
+      "2": "Family is rather important in your life.",
+      "3": "Family is not very important in your life.",
+      "4": "Family is not at all important in your life."
+    }
+  },
+  "Q2": {
+    "question_text": "Friends: How important is it in your life?",
+    "options": {
+      "1": "Friends are very important in your life.",
+      "2": "Friends are rather important in your life.",
+      "3": "Friends are not very important in your life.",
+      "4": "Friends are not at all important in your life."
+    }
+  },
+  "Q3": {
+    "question_text": "Leisure time: How important is it in your life?",
+    "options": {
+      "1": "Leisure time is very important in your life.",
+      "2": "Leisure time is rather important in your life.",
+      "3": "Leisure time is not very important in your life.",
+      "4": "Leisure time is not at all important in your life."
+    }
+  },
+  "Q4": {
+    "question_text": "Politics: How important is it in your life?",
+    "options": {
+      "1": "Politics is very important in your life.",
+      "2": "Politics is rather important in your life.",
+      "3": "Politics is not very important in your life.",
+      "4": "Politics is not at all important in your life."
+    }
+  },
+  "Q5": {
+    "question_text": "Work: How important is it in your life?",
+    "options": {
+      "1": "Work is very important in your life.",
+      "2": "Work is rather important in your life.",
+      "3": "Work is not very important in your life.",
+      "4": "Work is not at all important in your life."
+    }
+  },
+  "Q6": {
+    "question_text": "Religion: How important is it in your life?",
+    "options": {
+      "1": "Religion is very important in your life.",
+      "2": "Religion is rather important in your life.",
+      "3": "Religion is not very important in your life.",
+      "4": "Religion is not at all important in your life."
+    }
+  },
+"Q7": {
+  "question_text": "Good manners: Do you consider it an important quality for children to learn?",
+  "options": {
+    "1": "You consider good manners an important quality for children to learn.",
+    "2": "You do not consider good manners an important quality for children to learn."
+  }
+},
+"Q8": {
+  "question_text": "Independence: Do you consider it an important quality for children to learn?",
+  "options": {
+    "1": "You consider independence an important quality for children to learn.",
+    "2": "You do not consider independence an important quality for children to learn."
+  }
+},
+"Q9": {
+  "question_text": "Hard work: Do you consider it an important quality for children to learn?",
+  "options": {
+    "1": "You consider hard work an important quality for children to learn.",
+    "2": "You do not consider hard work an important quality for children to learn."
+  }
+},
+"Q10": {
+  "question_text": "Feeling of responsibility: Do you consider it an important quality for children to learn?",
+  "options": {
+    "1": "You consider feeling of responsibility an important quality for children to learn.",
+    "2": "You do not consider feeling of responsibility an important quality for children to learn."
+  }
+},
+"Q11": {
+  "question_text": "Imagination: Do you consider it an important quality for children to learn?",
+  "options": {
+    "1": "You consider imagination an important quality for children to learn.",
+    "2": "You do not consider imagination an important quality for children to learn."
+  }
+},
+"Q12": {
+  "question_text": "Tolerance and respect for other people: Do you consider it an important quality for children to learn?",
+  "options": {
+    "1": "You consider tolerance and respect for other people an important quality for children to learn.",
+    "2": "You do not consider tolerance and respect for other people an important quality for children to learn."
+  }
+},
+"Q13": {
+  "question_text": "Thrift, saving money and things: Do you consider it an important quality for children to learn?",
+  "options": {
+    "1": "You consider thrift, saving money and things an important quality for children to learn.",
+    "2": "You do not consider thrift, saving money and things an important quality for children to learn."
+  }
+},
+"Q14": {
+  "question_text": "Determination, perseverance: Do you consider it an important quality for children to learn?",
+  "options": {
+    "1": "You consider determination, perseverance an important quality for children to learn.",
+    "2": "You do not consider determination, perseverance an important quality for children to learn."
+  }
+},
+"Q15": {
+  "question_text": "Religious faith: Do you consider it an important quality for children to learn?",
+  "options": {
+    "1": "You consider religious faith an important quality for children to learn.",
+    "2": "You do not consider religious faith an important quality for children to learn."
+  }
+},
+"Q16": {
+  "question_text": "Not being selfish (unselfishness): Do you consider it an important quality for children to learn?",
+  "options": {
+    "1": "You consider not being selfish (unselfishness) an important quality for children to learn.",
+    "2": "You do not consider not being selfish (unselfishness) an important quality for children to learn."
+  }
+},
+"Q17": {
+  "question_text": "Obedience: Do you consider it an important quality for children to learn?",
+  "options": {
+    "1": "You consider obedience an important quality for children to learn.",
+    "2": "You do not consider obedience an important quality for children to learn."
+  }
+},
+"Q18": {
+  "question_text": "Would you not like to have drug addicts as neighbors?",
+  "options": {
+    "1": "You would not like to have drug addicts as neighbors.",
+    "2": "You do not mind having drug addicts as neighbors."
+  }
+},
+"Q19": {
+  "question_text": "Would you not like to have people of a different race as neighbors?",
+  "options": {
+    "1": "You would not like to have people of a different race as neighbors.",
+    "2": "You do not mind having people of a different race as neighbors."
+  }
+},
+"Q20": {
+  "question_text": "Would you not like to have people who have AIDS as neighbors?",
+  "options": {
+    "1": "You would not like to have people who have AIDS as neighbors.",
+    "2": "You do not mind having people who have AIDS as neighbors."
+  }
+},
+"Q21": {
+  "question_text": "Would you not like to have immigrants/foreign workers as neighbors?",
+  "options": {
+    "1": "You would not like to have immigrants/foreign workers as neighbors.",
+    "2": "You do not mind having immigrants/foreign workers as neighbors."
+  }
+},
+"Q22": {
+  "question_text": "Would you not like to have homosexuals as neighbors?",
+  "options": {
+    "1": "You would not like to have homosexuals as neighbors.",
+    "2": "You do not mind having homosexuals as neighbors."
+  }
+},
+"Q23": {
+  "question_text": "Would you not like to have people of a different religion as neighbors?",
+  "options": {
+    "1": "You would not like to have people of a different religion as neighbors.",
+    "2": "You do not mind having people of a different religion as neighbors."
+  }
+},
+"Q24": {
+  "question_text": "Would you not like to have heavy drinkers as neighbors?",
+  "options": {
+    "1": "You would not like to have heavy drinkers as neighbors.",
+    "2": "You do not mind having heavy drinkers as neighbors."
+  }
+},
+"Q25": {
+  "question_text": "Would you not like to have unmarried couples living together as neighbors?",
+  "options": {
+    "1": "You would not like to have unmarried couples living together as neighbors.",
+    "2": "You do not mind having unmarried couples living together as neighbors."
+  }
+},
+"Q26": {
+  "question_text": "Would you not like to have people who speak a different language as neighbors?",
+  "options": {
+    "1": "You would not like to have people who speak a different language as neighbors.",
+    "2": "You do not mind having people who speak a different language as neighbors."
+  }
+},
+"Q27": {
+  "question_text": "One of my main goals in life has been to make my parents proud.",
+  "options": {
+    "1": "You strongly agree that one of your main goals in life has been to make your parents proud.",
+    "2": "You agree that one of your main goals in life has been to make your parents proud.",
+    "3": "You disagree that one of your main goals in life has been to make your parents proud.",
+    "4": "You strongly disagree that one of your main goals in life has been to make your parents proud."
+  }
+},
+"Q28": {
+  "question_text": "When a mother works for pay, the children suffer.",
+  "options": {
+    "1": "You strongly agree that when a mother works for pay, the children suffer.",
+    "2": "You agree that when a mother works for pay, the children suffer.",
+    "3": "You disagree that when a mother works for pay, the children suffer.",
+    "4": "You strongly disagree that when a mother works for pay, the children suffer."
+  }
+},
+"Q29": {
+  "question_text": "On the whole, men make better political leaders than women do.",
+  "options": {
+    "1": "You strongly agree that on the whole, men make better political leaders than women do.",
+    "2": "You agree that on the whole, men make better political leaders than women do.",
+    "3": "You disagree that on the whole, men make better political leaders than women do.",
+    "4": "You strongly disagree that on the whole, men make better political leaders than women do."
+  }
+},
+"Q30": {
+  "question_text": "A university education is more important for a boy than for a girl.",
+  "options": {
+    "1": "You strongly agree that a university education is more important for a boy than for a girl.",
+    "2": "You agree that a university education is more important for a boy than for a girl.",
+    "3": "You disagree that a university education is more important for a boy than for a girl.",
+    "4": "You strongly disagree that a university education is more important for a boy than for a girl."
+  }
+},
+"Q31": {
+  "question_text": "On the whole, men make better business executives than women do.",
+  "options": {
+    "1": "You strongly agree that on the whole, men make better business executives than women do.",
+    "2": "You agree that on the whole, men make better business executives than women do.",
+    "3": "You disagree that on the whole, men make better business executives than women do.",
+    "4": "You strongly disagree that on the whole, men make better business executives than women do."
+  }
+},
+"Q32": {
+  "question_text": "Being a housewife is just as fulfilling as working for pay.",
+  "options": {
+    "1": "You strongly agree that being a housewife is just as fulfilling as working for pay.",
+    "2": "You agree that being a housewife is just as fulfilling as working for pay.",
+    "3": "You disagree that being a housewife is just as fulfilling as working for pay.",
+    "4": "You strongly disagree that being a housewife is just as fulfilling as working for pay."
+  }
+},
+"Q33": {
+  "question_text": "When jobs are scarce, men should have more right to a job than women.",
+  "options": {
+    "1": "You strongly agree that when jobs are scarce, men should have more right to a job than women.",
+    "2": "You agree that when jobs are scarce, men should have more right to a job than women.",
+    "3": "You neither agree nor disagree that when jobs are scarce, men should have more right to a job than women.",
+    "4": "You disagree that when jobs are scarce, men should have more right to a job than women.",
+    "5": "You strongly disagree that when jobs are scarce, men should have more right to a job than women."
+  }
+},
+"Q34": {
+  "question_text": "When jobs are scarce, employers should give priority to people of this country over immigrants.",
+  "options": {
+    "1": "You strongly agree that when jobs are scarce, employers should give priority to people of this country over immigrants.",
+    "2": "You agree that when jobs are scarce, employers should give priority to people of this country over immigrants.",
+    "3": "You neither agree nor disagree that when jobs are scarce, employers should give priority to people of this country over immigrants.",
+    "4": "You disagree that when jobs are scarce, employers should give priority to people of this country over immigrants.",
+    "5": "You strongly disagree that when jobs are scarce, employers should give priority to people of this country over immigrants."
+  }
+},
+"Q35": {
+  "question_text": "If a woman earns more money than her husband, it's almost certain to cause problems.",
+  "options": {
+    "1": "You strongly agree that if a woman earns more money than her husband, it's almost certain to cause problems.",
+    "2": "You agree that if a woman earns more money than her husband, it's almost certain to cause problems.",
+    "3": "You neither agree nor disagree that if a woman earns more money than her husband, it's almost certain to cause problems.",
+    "4": "You disagree that if a woman earns more money than her husband, it's almost certain to cause problems.",
+    "5": "You strongly disagree that if a woman earns more money than her husband, it's almost certain to cause problems."
+  }
+},
+"Q36": {
+  "question_text": "Homosexual couples are as good parents as other couples.",
+  "options": {
+    "1": "You strongly agree that homosexual couples are as good parents as other couples.",
+    "2": "You agree that homosexual couples are as good parents as other couples.",
+    "3": "You neither agree nor disagree that homosexual couples are as good parents as other couples.",
+    "4": "You disagree that homosexual couples are as good parents as other couples.",
+    "5": "You strongly disagree that homosexual couples are as good parents as other couples."
+  }
+},
+"Q37": {
+  "question_text": "It is a duty towards society to have children.",
+  "options": {
+    "1": "You strongly agree that it is a duty towards society to have children.",
+    "2": "You agree that it is a duty towards society to have children.",
+    "3": "You neither agree nor disagree that it is a duty towards society to have children.",
+    "4": "You disagree that it is a duty towards society to have children.",
+    "5": "You strongly disagree that it is a duty towards society to have children."
+  }
+},
+"Q38": {
+  "question_text": "Adult children have the duty to provide long-term care for their parents.",
+  "options": {
+    "1": "You strongly agree that adult children have the duty to provide long-term care for their parents.",
+    "2": "You agree that adult children have the duty to provide long-term care for their parents.",
+    "3": "You neither agree nor disagree that adult children have the duty to provide long-term care for their parents.",
+    "4": "You disagree that adult children have the duty to provide long-term care for their parents.",
+    "5": "You strongly disagree that adult children have the duty to provide long-term care for their parents."
+  }
+},
+"Q39": {
+  "question_text": "People who don't work turn lazy.",
+  "options": {
+    "1": "You strongly agree that people who don't work turn lazy.",
+    "2": "You agree that people who don't work turn lazy.",
+    "3": "You neither agree nor disagree that people who don't work turn lazy.",
+    "4": "You disagree that people who don't work turn lazy.",
+    "5": "You strongly disagree that people who don't work turn lazy."
+  }
+},
+"Q40": {
+  "question_text": "Work is a duty towards society.",
+  "options": {
+    "1": "You strongly agree that work is a duty towards society.",
+    "2": "You agree that work is a duty towards society.",
+    "3": "You neither agree nor disagree that work is a duty towards society.",
+    "4": "You disagree that work is a duty towards society.",
+    "5": "You strongly disagree that work is a duty towards society."
+  }
+},
+"Q41": {
+  "question_text": "Work should always come first, even if it means less spare time.",
+  "options": {
+    "1": "You strongly agree that work should always come first, even if it means less spare time.",
+    "2": "You agree that work should always come first, even if it means less spare time.",
+    "3": "You neither agree nor disagree that work should always come first, even if it means less spare time.",
+    "4": "You disagree that work should always come first, even if it means less spare time.",
+    "5": "You strongly disagree that work should always come first, even if it means less spare time."
+  }
+},
+"Q42": {
+  "question_text": "Which of the following best describes your opinion about society? ",
+  "options": {
+    "1": "Your opinion about society is that the entire way our society is organized must be radically changed by revolutionary action.",
+    "2": "Your opinion about society is that our society must be gradually improved by reforms.",
+    "3": "Your opinion about society is that our present society must be valiantly defended against all subversive forces."
+  }
+},
+"Q43": {
+  "question_text": "Would it be a good thing, bad thing, or don't you mind if there was less importance placed on work in our lives?",
+  "options": {
+    "1": "You think it would be a good thing if there was less importance placed on work in our lives.",
+    "2": "You don't mind if there was less importance placed on work in our lives.",
+    "3": "You think it would be a bad thing if there was less importance placed on work in our lives."
+  }
+},
+"Q44": {
+  "question_text": "Would it be a good thing, bad thing, or don't you mind if there was more emphasis on the development of technology?",
+  "options": {
+    "1": "You think it would be a good thing if there was more emphasis on the development of technology.",
+    "2": "You don't mind if there was more emphasis on the development of technology.",
+    "3": "You think it would be a bad thing if there was more emphasis on the development of technology."
+  }
+},
+"Q45": {
+  "question_text": "Would it be a good thing, bad thing, or don't you mind if there was greater respect for authority?",
+  "options": {
+    "1": "You think it would be a good thing if there was greater respect for authority.",
+    "2": "You don't mind if there was greater respect for authority.",
+    "3": "You think it would be a bad thing if there was greater respect for authority."
+  }
+},
+"Q46": {
+  "question_text": "Taking all things together, would you say you are:",
+  "options": {
+    "1": "Taking all things together, you would say you are very happy.",
+    "2": "Taking all things together, you would say you are rather happy.",
+    "3": "Taking all things together, you would say you are not very happy.",
+    "4": "Taking all things together, you would say you are not at all happy."
+  }
+},
+"Q47": {
+  "question_text": "All in all, how would you describe your state of health these days?",
+  "options": {
+    "1": "All in all, you would describe your state of health these days as very good.",
+    "2": "All in all, you would describe your state of health these days as good.",
+    "3": "All in all, you would describe your state of health these days as fair.",
+    "4": "All in all, you would describe your state of health these days as poor.",
+    "5": "All in all, you would describe your state of health these days as very poor."
+  }
+},
+"Q48": {
+  "question_text": "How much freedom of choice and control do you feel you have over the way your life turns out?",
+  "options": {
+    "1": "You feel you have no choice at all over the way your life turns out (level 1 on a scale of 1-10).",
+    "2": "You feel you have very little freedom of choice and control over the way your life turns out (level 2 on a scale of 1-10).",
+    "3": "You feel you have limited freedom of choice and control over the way your life turns out (level 3 on a scale of 1-10).",
+    "4": "You feel you have somewhat limited freedom of choice and control over the way your life turns out (level 4 on a scale of 1-10).",
+    "5": "You feel you have a moderate amount of freedom of choice and control over the way your life turns out (level 5 on a scale of 1-10).",
+    "6": "You feel you have a fair amount of freedom of choice and control over the way your life turns out (level 6 on a scale of 1-10).",
+    "7": "You feel you have considerable freedom of choice and control over the way your life turns out (level 7 on a scale of 1-10).",
+    "8": "You feel you have substantial freedom of choice and control over the way your life turns out (level 8 on a scale of 1-10).",
+    "9": "You feel you have extensive freedom of choice and control over the way your life turns out (level 9 on a scale of 1-10).",
+    "10": "You feel you have a great deal of choice over the way your life turns out (level 10 on a scale of 1-10)."
+  }
+},
+"Q49": {
+  "question_text": "All things considered, how satisfied are you with your life as a whole these days?",
+  "options": {
+    "1": "All things considered, you are completely dissatisfied with your life as a whole these days (level 1 on a scale of 1-10).",
+    "2": "All things considered, you are very dissatisfied with your life as a whole these days (level 2 on a scale of 1-10).",
+    "3": "All things considered, you are largely dissatisfied with your life as a whole these days (level 3 on a scale of 1-10).",
+    "4": "All things considered, you are somewhat dissatisfied with your life as a whole these days (level 4 on a scale of 1-10).",
+    "5": "All things considered, you are neither satisfied nor dissatisfied with your life as a whole these days (level 5 on a scale of 1-10).",
+    "6": "All things considered, you are somewhat satisfied with your life as a whole these days (level 6 on a scale of 1-10).",
+    "7": "All things considered, you are moderately satisfied with your life as a whole these days (level 7 on a scale of 1-10).",
+    "8": "All things considered, you are largely satisfied with your life as a whole these days (level 8 on a scale of 1-10).",
+    "9": "All things considered, you are very satisfied with your life as a whole these days (level 9 on a scale of 1-10).",
+    "10": "All things considered, you are completely satisfied with your life as a whole these days (level 10 on a scale of 1-10)."
+  }
+},
+"Q50": {
+  "question_text": "How satisfied are you with the financial situation of your household?",
+  "options": {
+    "1": "You are completely dissatisfied with the financial situation of your household (level 1 on a scale of 1-10).",
+    "2": "You are very dissatisfied with the financial situation of your household (level 2 on a scale of 1-10).",
+    "3": "You are largely dissatisfied with the financial situation of your household (level 3 on a scale of 1-10).",
+    "4": "You are somewhat dissatisfied with the financial situation of your household (level 4 on a scale of 1-10).",
+    "5": "You are neither satisfied nor dissatisfied with the financial situation of your household (level 5 on a scale of 1-10).",
+    "6": "You are somewhat satisfied with the financial situation of your household (level 6 on a scale of 1-10).",
+    "7": "You are moderately satisfied with the financial situation of your household (level 7 on a scale of 1-10).",
+    "8": "You are largely satisfied with the financial situation of your household (level 8 on a scale of 1-10).",
+    "9": "You are very satisfied with the financial situation of your household (level 9 on a scale of 1-10).",
+    "10": "You are completely satisfied with the financial situation of your household (level 10 on a scale of 1-10)."
+  }
+},
+    "Q51": {
+        "question_text": "In the last 12 months, how often have you or your family gone without enough food to eat?",
+        "options": {
+          "1": "You or your family often went without enough food to eat in the last 12 months.",
+          "2": "You or your family sometimes went without enough food to eat in the last 12 months.",
+          "3": "You or your family rarely went without enough food to eat in the last 12 months.",
+          "4": "You or your family never went without enough food to eat in the last 12 months."
+        }
+      },
+      "Q52": {
+        "question_text": "In the last 12 months, how often have you or your family felt unsafe from crime in your home?",
+        "options": {
+          "1": "You or your family often felt unsafe from crime in your home in the last 12 months.",
+          "2": "You or your family sometimes felt unsafe from crime in your home in the last 12 months.",
+          "3": "You or your family rarely felt unsafe from crime in your home in the last 12 months.",
+          "4": "You or your family never felt unsafe from crime in your home in the last 12 months."
+        }
+      },
+      "Q53": {
+        "question_text": "In the last 12 months, how often have you or your family gone without medicine or medical treatment that you needed?",
+        "options": {
+          "1": "You or your family often went without needed medicine or medical treatment in the last 12 months.",
+          "2": "You or your family sometimes went without needed medicine or medical treatment in the last 12 months.",
+          "3": "You or your family rarely went without needed medicine or medical treatment in the last 12 months.",
+          "4": "You or your family never went without needed medicine or medical treatment in the last 12 months."
+        }
+      },
+      "Q54": {
+        "question_text": "In the last 12 months, how often have you or your family gone without a cash income?",
+        "options": {
+          "1": "You or your family often went without a cash income in the last 12 months.",
+          "2": "You or your family sometimes went without a cash income in the last 12 months.",
+          "3": "You or your family rarely went without a cash income in the last 12 months.",
+          "4": "You or your family never went without a cash income in the last 12 months."
+        }
+      },
+      "Q55": {
+        "question_text": "In the last 12 months, how often have you or your family gone without a safe shelter over your head?",
+        "options": {
+          "1": "You or your family often went without a safe shelter in the last 12 months.",
+          "2": "You or your family sometimes went without a safe shelter in the last 12 months.",
+          "3": "You or your family rarely went without a safe shelter in the last 12 months.",
+          "4": "You or your family never went without a safe shelter in the last 12 months."
+        }
+      },
+"Q56": {
+  "question_text": "Comparing your standard of living with your parents' when they were about your age, would you say that you are:",
+  "options": {
+    "1": "Comparing your standard of living with your parents' when they were about your age, you would say that you are better off.",
+    "2": "Comparing your standard of living with your parents' when they were about your age, you would say that you are worse off.",
+    "3": "Comparing your standard of living with your parents' when they were about your age, you would say that you are about the same."
+  }
+},
+"Q57": {
+  "question_text": "Generally speaking, would you say that most people can be trusted or that you need to be very careful in dealing with people?",
+  "options": {
+    "1": "Generally speaking, you would say that most people can be trusted.",
+    "2": "Generally speaking, you would say that you need to be very careful in dealing with people."
+  }
+},
+      "Q58": {
+        "question_text": "How much do you trust your family?",
+        "options": {
+          "1": "You trust your family completely.",
+          "2": "You trust your family somewhat.",
+          "3": "You do not trust your family very much.",
+          "4": "You do not trust your family at all."
+        }
+      },
+      "Q59": {
+        "question_text": "How much do you trust your neighborhood?",
+        "options": {
+          "1": "You trust your neighborhood completely.",
+          "2": "You trust your neighborhood somewhat.",
+          "3": "You do not trust your neighborhood very much.",
+          "4": "You do not trust your neighborhood at all."
+        }
+      },
+      "Q60": {
+        "question_text": "How much do you trust people you know personally?",
+        "options": {
+          "1": "You trust people you know personally completely.",
+          "2": "You trust people you know personally somewhat.",
+          "3": "You do not trust people you know very much.",
+          "4": "You do not trust people you know at all."
+        }
+      },
+      "Q61": {
+        "question_text": "How much do you trust people you meet for the first time?",
+        "options": {
+          "1": "You trust people you meet for the first time completely.",
+          "2": "You trust people you meet for the first time somewhat.",
+          "3": "You do not trust people you meet for the first time very much.",
+          "4": "You do not trust people you meet for the first time at all."
+        }
+      },
+      "Q62": {
+        "question_text": "How much do you trust people of another religion?",
+        "options": {
+          "1": "You trust people of another religion completely.",
+          "2": "You trust people of another religion somewhat.",
+          "3": "You do not trust people of another religion very much.",
+          "4": "You do not trust people of another religion at all."
+        }
+      },
+      "Q63": {
+        "question_text": "How much do you trust people of another nationality?",
+        "options": {
+          "1": "You trust people of another nationality completely.",
+          "2": "You trust people of another nationality somewhat.",
+          "3": "You do not trust people of another nationality very much.",
+          "4": "You do not trust people of another nationality at all."
+        }
+      },
+      "Q64": {
+        "question_text": "How much confidence do you have in the churches?",
+        "options": {
+          "1": "You have a great deal of confidence in the churches.",
+          "2": "You have quite a lot of confidence in the churches.",
+          "3": "You do not have very much confidence in the churches.",
+          "4": "You have no confidence in the churches at all."
+        }
+      },
+      "Q65": {
+        "question_text": "How much confidence do you have in the armed forces?",
+        "options": {
+          "1": "You have a great deal of confidence in the armed forces.",
+          "2": "You have quite a lot of confidence in the armed forces.",
+          "3": "You do not have very much confidence in the armed forces.",
+          "4": "You have no confidence in the armed forces at all."
+        }
+      },
+      "Q66": {
+        "question_text": "How much confidence do you have in the press?",
+        "options": {
+          "1": "You have a great deal of confidence in the press.",
+          "2": "You have quite a lot of confidence in the press.",
+          "3": "You do not have very much confidence in the press.",
+          "4": "You have no confidence in the press at all."
+        }
+      },
+      "Q67": {
+        "question_text": "How much confidence do you have in television?",
+        "options": {
+          "1": "You have a great deal of confidence in television.",
+          "2": "You have quite a lot of confidence in television.",
+          "3": "You do not have very much confidence in television.",
+          "4": "You have no confidence in television at all."
+        }
+      },
+      "Q68": {
+        "question_text": "How much confidence do you have in labor unions?",
+        "options": {
+          "1": "You have a great deal of confidence in labor unions.",
+          "2": "You have quite a lot of confidence in labor unions.",
+          "3": "You do not have very much confidence in labor unions.",
+          "4": "You have no confidence in labor unions at all."
+        }
+      },
+      "Q69": {
+        "question_text": "How much confidence do you have in the police?",
+        "options": {
+          "1": "You have a great deal of confidence in the police.",
+          "2": "You have quite a lot of confidence in the police.",
+          "3": "You do not have very much confidence in the police.",
+          "4": "You have no confidence in the police at all."
+        }
+      },
+      "Q70": {
+        "question_text": "How much confidence do you have in the courts?",
+        "options": {
+          "1": "You have a great deal of confidence in the courts.",
+          "2": "You have quite a lot of confidence in the courts.",
+          "3": "You do not have very much confidence in the courts.",
+          "4": "You have no confidence in the courts at all."
+        }
+      },
+      "Q71": {
+        "question_text": "How much confidence do you have in the government?",
+        "options": {
+          "1": "You have a great deal of confidence in the government.",
+          "2": "You have quite a lot of confidence in the government.",
+          "3": "You do not have very much confidence in the government.",
+          "4": "You have no confidence in the government at all."
+        }
+      },
+      "Q72": {
+        "question_text": "How much confidence do you have in political parties?",
+        "options": {
+          "1": "You have a great deal of confidence in political parties.",
+          "2": "You have quite a lot of confidence in political parties.",
+          "3": "You do not have very much confidence in political parties.",
+          "4": "You have no confidence in political parties at all."
+        }
+      },
+      "Q73": {
+        "question_text": "How much confidence do you have in parliament?",
+        "options": {
+          "1": "You have a great deal of confidence in parliament.",
+          "2": "You have quite a lot of confidence in parliament.",
+          "3": "You do not have very much confidence in parliament.",
+          "4": "You have no confidence in parliament at all."
+        }
+      },
+      "Q74": {
+        "question_text": "How much confidence do you have in the civil service?",
+        "options": {
+          "1": "You have a great deal of confidence in the civil service.",
+          "2": "You have quite a lot of confidence in the civil service.",
+          "3": "You do not have very much confidence in the civil service.",
+          "4": "You have no confidence in the civil service at all."
+        }
+      },
+      "Q75": {
+        "question_text": "How much confidence do you have in universities?",
+        "options": {
+          "1": "You have a great deal of confidence in universities.",
+          "2": "You have quite a lot of confidence in universities.",
+          "3": "You do not have very much confidence in universities.",
+          "4": "You have no confidence in universities at all."
+        }
+      },
+      "Q76": {
+        "question_text": "How much confidence do you have in elections?",
+        "options": {
+          "1": "You have a great deal of confidence in elections.",
+          "2": "You have quite a lot of confidence in elections.",
+          "3": "You do not have very much confidence in elections.",
+          "4": "You have no confidence in elections at all."
+        }
+      },
+      "Q77": {
+        "question_text": "How much confidence do you have in major companies?",
+        "options": {
+          "1": "You have a great deal of confidence in major companies.",
+          "2": "You have quite a lot of confidence in major companies.",
+          "3": "You do not have very much confidence in major companies.",
+          "4": "You have no confidence in major companies at all."
+        }
+      },
+      "Q78": {
+        "question_text": "How much confidence do you have in banks?",
+        "options": {
+          "1": "You have a great deal of confidence in banks.",
+          "2": "You have quite a lot of confidence in banks.",
+          "3": "You do not have very much confidence in banks.",
+          "4": "You have no confidence in banks at all."
+        }
+      },
+      "Q79": {
+        "question_text": "How much confidence do you have in environmental organizations?",
+        "options": {
+          "1": "You have a great deal of confidence in environmental organizations.",
+          "2": "You have quite a lot of confidence in environmental organizations.",
+          "3": "You do not have very much confidence in environmental organizations.",
+          "4": "You have no confidence in environmental organizations at all."
+        }
+      },
+      "Q80": {
+        "question_text": "How much confidence do you have in women's organizations?",
+        "options": {
+          "1": "You have a great deal of confidence in women's organizations.",
+          "2": "You have quite a lot of confidence in women's organizations.",
+          "3": "You do not have very much confidence in women's organizations.",
+          "4": "You have no confidence in women's organizations at all."
+        }
+      },
+      "Q81": {
+        "question_text": "How much confidence do you have in charitable or humanitarian organizations?",
+        "options": {
+          "1": "You have a great deal of confidence in charitable or humanitarian organizations.",
+          "2": "You have quite a lot of confidence in charitable or humanitarian organizations.",
+          "3": "You do not have very much confidence in charitable or humanitarian organizations.",
+          "4": "You have no confidence in charitable or humanitarian organizations at all."
+        }
+      },
+      "Q82": {
+        "question_text": "How much confidence do you have in the European Union (or relevant regional organization)?",
+        "options": {
+          "1": "You have a great deal of confidence in the European Union or the relevant regional organization.",
+          "2": "You have quite a lot of confidence in the European Union or the relevant regional organization.",
+          "3": "You do not have very much confidence in the European Union or the relevant regional organization.",
+          "4": "You have no confidence in the European Union or the relevant regional organization at all."
+        }
+      },
+      "Q83": {
+        "question_text": "How much confidence do you have in the United Nations?",
+        "options": {
+          "1": "You have a great deal of confidence in the United Nations.",
+          "2": "You have quite a lot of confidence in the United Nations.",
+          "3": "You do not have very much confidence in the United Nations.",
+          "4": "You have no confidence in the United Nations at all."
+        }
+      },
+      "Q84": {
+        "question_text": "How much confidence do you have in the International Monetary Fund (IMF)?",
+        "options": {
+          "1": "You have a great deal of confidence in the International Monetary Fund.",
+          "2": "You have quite a lot of confidence in the International Monetary Fund.",
+          "3": "You do not have very much confidence in the International Monetary Fund.",
+          "4": "You have no confidence in the International Monetary Fund at all."
+        }
+      },
+      "Q85": {
+        "question_text": "How much confidence do you have in the International Criminal Court (ICC)?",
+        "options": {
+          "1": "You have a great deal of confidence in the International Criminal Court.",
+          "2": "You have quite a lot of confidence in the International Criminal Court.",
+          "3": "You do not have very much confidence in the International Criminal Court.",
+          "4": "You have no confidence in the International Criminal Court at all."
+        }
+      },
+      "Q86": {
+        "question_text": "How much confidence do you have in the North Atlantic Treaty Organization (NATO)?",
+        "options": {
+          "1": "You have a great deal of confidence in the North Atlantic Treaty Organization.",
+          "2": "You have quite a lot of confidence in the North Atlantic Treaty Organization.",
+          "3": "You do not have very much confidence in the North Atlantic Treaty Organization.",
+          "4": "You have no confidence in the North Atlantic Treaty Organization at all."
+        }
+      },
+      "Q87": {
+        "question_text": "How much confidence do you have in the World Bank?",
+        "options": {
+          "1": "You have a great deal of confidence in the World Bank.",
+          "2": "You have quite a lot of confidence in the World Bank.",
+          "3": "You do not have very much confidence in the World Bank.",
+          "4": "You have no confidence in the World Bank at all."
+        }
+      },
+      "Q88": {
+        "question_text": "How much confidence do you have in the World Health Organization (WHO)?",
+        "options": {
+          "1": "You have a great deal of confidence in the World Health Organization.",
+          "2": "You have quite a lot of confidence in the World Health Organization.",
+          "3": "You do not have very much confidence in the World Health Organization.",
+          "4": "You have no confidence in the World Health Organization at all."
+        }
+      },
+      "Q89": {
+        "question_text": "How much confidence do you have in the World Trade Organization (WTO)?",
+        "options": {
+          "1": "You have a great deal of confidence in the World Trade Organization.",
+          "2": "You have quite a lot of confidence in the World Trade Organization.",
+          "3": "You do not have very much confidence in the World Trade Organization.",
+          "4": "You have no confidence in the World Trade Organization at all."
+        }
+      },
+"Q90": {
+  "question_text": "Should international organizations prioritize being effective or being democratic?",
+  "options": {
+    "1": "You believe international organizations should strongly prioritize being effective over being democratic (level 1 on a scale of 1-10).",
+    "2": "You believe international organizations should very much prioritize being effective over being democratic (level 2 on a scale of 1-10).",
+    "3": "You believe international organizations should largely prioritize being effective over being democratic (level 3 on a scale of 1-10).",
+    "4": "You believe international organizations should moderately prioritize being effective over being democratic (level 4 on a scale of 1-10).",
+    "5": "You believe international organizations should slightly prioritize being effective over being democratic (level 5 on a scale of 1-10).",
+    "6": "You believe international organizations should slightly prioritize being democratic over being effective (level 6 on a scale of 1-10).",
+    "7": "You believe international organizations should moderately prioritize being democratic over being effective (level 7 on a scale of 1-10).",
+    "8": "You believe international organizations should largely prioritize being democratic over being effective (level 8 on a scale of 1-10).",
+    "9": "You believe international organizations should very much prioritize being democratic over being effective (level 9 on a scale of 1-10).",
+    "10": "You believe international organizations should strongly prioritize being democratic over being effective (level 10 on a scale of 1-10)."
+  }
+},
+      "Q91": {
+        "question_text": "Which one of the following is NOT a member of the United Nations Security Council?",
+        "options": {
+          "1": "You believe France is not a member of the United Nations Security Council.",
+          "2": "You believe China is not a member of the United Nations Security Council.",
+          "3": "You believe India is not a member of the United Nations Security Council."
+        }
+      },
+      "Q92": {
+        "question_text": "Where are the headquarters of the International Monetary Fund (IMF) located?",
+        "options": {
+          "1": "You believe the IMF headquarters are located in Washington DC.",
+          "2": "You believe the IMF headquarters are located in London.",
+          "3": "You believe the IMF headquarters are located in Geneva."
+        }
+      },
+      "Q93": {
+        "question_text": "Which of the following problems does Amnesty International deal with?",
+        "options": {
+          "1": "You believe Amnesty International deals with climate change.",
+          "2": "You believe Amnesty International deals with human rights.",
+          "3": "You believe Amnesty International deals with the destruction of historic monuments."
+        }
+      },
+      "Q94": {
+  "question_text": "Are you an active member, an inactive member, or not a member of a church or religious organization?",
+  "options": {
+    "2": "You are actively involved in a church or religious organization.",
+    "1": "You are a member of a church or religious organization, but not active.",
+    "0": "You do not belong to any church or religious organization."
+  }
+},
+"Q95": {
+  "question_text": "Are you an active member, an inactive member, or not a member of a labor union?",
+  "options": {
+    "2": "You are actively involved in a labor union.",
+    "1": "You are a member of a labor union, but not active.",
+    "0": "You are not a member of a labor union."
+  }
+},
+"Q96": {
+  "question_text": "Are you an active member, an inactive member, or not a member of a political party?",
+  "options": {
+    "2": "You are actively involved in a political party.",
+    "1": "You are a member of a political party, but not active.",
+    "0": "You are not a member of any political party."
+  }
+},
+"Q97": {
+  "question_text": "Are you an active member, an inactive member, or not a member of an environmental organization?",
+  "options": {
+    "2": "You are actively involved in an environmental organization.",
+    "1": "You are a member of an environmental organization, but not active.",
+    "0": "You are not a member of any environmental organization."
+  }
+},
+"Q98": {
+  "question_text": "Are you an active member, an inactive member, or not a member of a sport or recreational organization?",
+  "options": {
+    "2": "You are actively involved in a sport or recreational organization.",
+    "1": "You are a member of a sport or recreational organization, but not active.",
+    "0": "You are not a member of any sport or recreational organization."
+  }
+},
+"Q99": {
+  "question_text": "Are you an active member, an inactive member, or not a member of an art, music, or educational organization?",
+  "options": {
+    "2": "You are actively involved in an art, music, or educational organization.",
+    "1": "You are a member of an art, music, or educational organization, but not active.",
+    "0": "You are not a member of any art, music, or educational organization."
+  }
+},
+"Q100": {
+  "question_text": "Are you an active member, an inactive member, or not a member of a professional association?",
+  "options": {
+    "2": "You are actively involved in a professional association.",
+    "1": "You are a member of a professional association, but not active.",
+    "0": "You are not a member of any professional association."
+  }
+},
+"Q101": {
+  "question_text": "Are you an active member, an inactive member, or not a member of a humanitarian or charitable organization?",
+  "options": {
+    "2": "You are actively involved in a humanitarian or charitable organization.",
+    "1": "You are a member of a humanitarian or charitable organization, but not active.",
+    "0": "You are not a member of any humanitarian or charitable organization."
+  }
+},
+"Q102": {
+  "question_text": "Are you an active member, an inactive member, or not a member of a consumer organization?",
+  "options": {
+    "2": "You are actively involved in a consumer organization.",
+    "1": "You are a member of a consumer organization, but not active.",
+    "0": "You are not a member of any consumer organization."
+  }
+},
+"Q103": {
+  "question_text": "Are you an active member, an inactive member, or not a member of a self-help group or mutual aid group?",
+  "options": {
+    "2": "You are actively involved in a self-help or mutual aid group.",
+    "1": "You are a member of a self-help or mutual aid group, but not active.",
+    "0": "You are not a member of any self-help or mutual aid group."
+  }
+},
+"Q104": {
+  "question_text": "Are you an active member, an inactive member, or not a member of a women’s group?",
+  "options": {
+    "2": "You are actively involved in a women’s group.",
+    "1": "You are a member of a women’s group, but not active.",
+    "0": "You are not a member of any women’s group."
+  }
+},
+"Q105": {
+  "question_text": "Are you an active member, an inactive member, or not a member of any other type of organization?",
+  "options": {
+    "2": "You are actively involved in another type of organization.",
+    "1": "You are a member of another type of organization, but not active.",
+    "0": "You are not a member of any other type of organization."
+  }
+},
+  "Q106": {
+  "question_text": "How would you place your views on this scale? 1 means you agree completely with the statement on the left; 10 means you agree completely with the statement on the right; and if your views fall somewhere in between, you can choose any number in between.",
+  "options": {
+    "1": "You strongly believe that incomes should be made more equal (level 1 on a scale of 1-10).",
+    "2": "You largely believe that incomes should be made more equal, with minimal support for individual incentives (level 2 on a scale of 1-10).",
+    "3": "You moderately believe that incomes should be made more equal, with limited support for individual incentives (level 3 on a scale of 1-10).",
+    "4": "You somewhat believe that incomes should be made more equal, with some support for individual incentives (level 4 on a scale of 1-10).",
+    "5": "You believe somewhat equally in both income equality and individual incentives, with a slight preference for income equality (level 5 on a scale of 1-10).",
+    "6": "You believe somewhat equally in both income equality and individual incentives, with a slight preference for individual incentives (level 6 on a scale of 1-10).",
+    "7": "You somewhat believe there should be greater incentives for individual effort, with some support for income equality (level 7 on a scale of 1-10).",
+    "8": "You moderately believe there should be greater incentives for individual effort, with limited support for income equality (level 8 on a scale of 1-10).",
+    "9": "You largely believe there should be greater incentives for individual effort, with minimal support for income equality (level 9 on a scale of 1-10).",
+    "10": "You strongly believe there should be greater incentives for individual effort (level 10 on a scale of 1-10)."
+  }
+},
+"Q107": {
+  "question_text": "How would you place your views on this scale? 1 means you agree completely with the statement on the left; 10 means you agree completely with the statement on the right; and if your views fall somewhere in between, you can choose any number in between.",
+  "options": {
+    "1": "You strongly believe that private ownership of business and industry should be increased (level 1 on a scale of 1-10).",
+    "2": "You largely believe that private ownership of business and industry should be increased, with minimal support for government ownership (level 2 on a scale of 1-10).",
+    "3": "You moderately believe that private ownership of business and industry should be increased, with limited support for government ownership (level 3 on a scale of 1-10).",
+    "4": "You somewhat believe that private ownership of business and industry should be increased, with some support for government ownership (level 4 on a scale of 1-10).",
+    "5": "You believe somewhat equally in both private and government ownership, with a slight preference for private ownership (level 5 on a scale of 1-10).",
+    "6": "You believe somewhat equally in both private and government ownership, with a slight preference for government ownership (level 6 on a scale of 1-10).",
+    "7": "You somewhat believe that government ownership of business and industry should be increased, with some support for private ownership (level 7 on a scale of 1-10).",
+    "8": "You moderately believe that government ownership of business and industry should be increased, with limited support for private ownership (level 8 on a scale of 1-10).",
+    "9": "You largely believe that government ownership of business and industry should be increased, with minimal support for private ownership (level 9 on a scale of 1-10).",
+    "10": "You strongly believe that government ownership of business and industry should be increased (level 10 on a scale of 1-10)."
+  }
+},
+"Q108": {
+  "question_text": "How would you place your views on this scale? 1 means you agree completely with the statement on the left; 10 means you agree completely with the statement on the right; and if your views fall somewhere in between, you can choose any number in between.",
+  "options": {
+    "1": "You strongly believe that government should take more responsibility to ensure that everyone is provided for (level 1 on a scale of 1-10).",
+    "2": "You largely believe that government should take more responsibility to ensure that everyone is provided for, with minimal emphasis on individual responsibility (level 2 on a scale of 1-10).",
+    "3": "You moderately believe that government should take more responsibility to ensure that everyone is provided for, with limited emphasis on individual responsibility (level 3 on a scale of 1-10).",
+    "4": "You somewhat believe that government should take more responsibility to ensure that everyone is provided for, with some emphasis on individual responsibility (level 4 on a scale of 1-10).",
+    "5": "You believe somewhat equally in both government responsibility and individual responsibility, with a slight preference for government responsibility (level 5 on a scale of 1-10).",
+    "6": "You believe somewhat equally in both government responsibility and individual responsibility, with a slight preference for individual responsibility (level 6 on a scale of 1-10).",
+    "7": "You somewhat believe that people should take more responsibility to provide for themselves, with some emphasis on government responsibility (level 7 on a scale of 1-10).",
+    "8": "You moderately believe that people should take more responsibility to provide for themselves, with limited emphasis on government responsibility (level 8 on a scale of 1-10).",
+    "9": "You largely believe that people should take more responsibility to provide for themselves, with minimal emphasis on government responsibility (level 9 on a scale of 1-10).",
+    "10": "You strongly believe that people should take more responsibility to provide for themselves (level 10 on a scale of 1-10)."
+  }
+},
+"Q109": {
+  "question_text": "How would you place your views on this scale? 1 means you agree completely with the statement on the left; 10 means you agree completely with the statement on the right; and if your views fall somewhere in between, you can choose any number in between.",
+  "options": {
+    "1": "You strongly believe that competition is good (level 1 on a scale of 1-10).",
+    "2": "You largely believe that competition is good, with minimal concerns about its harm (level 2 on a scale of 1-10).",
+    "3": "You moderately believe that competition is good, with limited concerns about its harm (level 3 on a scale of 1-10).",
+    "4": "You somewhat believe that competition is good, with some concerns about its harm (level 4 on a scale of 1-10).",
+    "5": "You have mixed views about competition being good or harmful, with a slight inclination toward seeing it as good (level 5 on a scale of 1-10).",
+    "6": "You have mixed views about competition being good or harmful, with a slight inclination toward seeing it as harmful (level 6 on a scale of 1-10).",
+    "7": "You somewhat believe that competition is harmful, with some appreciation for its benefits (level 7 on a scale of 1-10).",
+    "8": "You moderately believe that competition is harmful, with limited appreciation for its benefits (level 8 on a scale of 1-10).",
+    "9": "You largely believe that competition is harmful, with minimal appreciation for its benefits (level 9 on a scale of 1-10).",
+    "10": "You strongly believe that competition is harmful (level 10 on a scale of 1-10)."
+  }
+},
+"Q110": {
+  "question_text": "How would you place your views on this scale? 1 means you agree completely with the statement on the left; 10 means you agree completely with the statement on the right; and if your views fall somewhere in between, you can choose any number in between.",
+  "options": {
+    "1": "You strongly believe that in the long run, hard work usually brings a better life (level 1 on a scale of 1-10).",
+    "2": "You largely believe that in the long run, hard work usually brings a better life, with minimal attribution to luck and connections (level 2 on a scale of 1-10).",
+    "3": "You moderately believe that in the long run, hard work usually brings a better life, with limited attribution to luck and connections (level 3 on a scale of 1-10).",
+    "4": "You somewhat believe that in the long run, hard work usually brings a better life, with some attribution to luck and connections (level 4 on a scale of 1-10).",
+    "5": "You believe both hard work and luck/connections play important roles in success, with a slight emphasis on hard work (level 5 on a scale of 1-10).",
+    "6": "You believe both hard work and luck/connections play important roles in success, with a slight emphasis on luck and connections (level 6 on a scale of 1-10).",
+    "7": "You somewhat believe that hard work doesn't generally bring success--it's more a matter of luck and connections, though hard work has some importance (level 7 on a scale of 1-10).",
+    "8": "You moderately believe that hard work doesn't generally bring success--it's more a matter of luck and connections, with limited importance placed on hard work (level 8 on a scale of 1-10).",
+    "9": "You largely believe that hard work doesn't generally bring success--it's more a matter of luck and connections, with minimal importance placed on hard work (level 9 on a scale of 1-10).",
+    "10": "You strongly believe that hard work doesn't generally bring success--it's more a matter of luck and connections (level 10 on a scale of 1-10)."
+  }
+},
+  "Q111": {
+  "question_text": "Which of the following comes closer to your view? (1 = Protecting the environment should be given priority, even if it causes slower economic growth and some loss of jobs, 2 = Economic growth and creating jobs should be the top priority, even if the environment suffers to some extent)",
+  "options": {
+    "1": "You believe that protecting the environment should be given priority, even if it causes slower economic growth and some loss of jobs.",
+    "2": "You believe that economic growth and creating jobs should be the top priority, even if the environment suffers to some extent.",
+    "3": "You have another view that doesn't align with either protecting the environment as a priority or prioritizing economic growth and job creation."
+  }
+},
+"Q112": {
+  "question_text": "How would you place your views on corruption in your country? (1 = There is no corruption in my country, 10 = There is abundant corruption in my country)",
+  "options": {
+    "1": "You believe there is no corruption in your country (level 1 on a scale of 1-10).",
+    "2": "You believe there is very little corruption in your country (level 2 on a scale of 1-10).",
+    "3": "You believe there is minimal corruption in your country (level 3 on a scale of 1-10).",
+    "4": "You believe there is some corruption in your country, but it's relatively limited (level 4 on a scale of 1-10).",
+    "5": "You believe there is a moderate amount of corruption in your country (level 5 on a scale of 1-10).",
+    "6": "You believe there is a noticeable amount of corruption in your country (level 6 on a scale of 1-10).",
+    "7": "You believe there is considerable corruption in your country (level 7 on a scale of 1-10).",
+    "8": "You believe there is substantial corruption in your country (level 8 on a scale of 1-10).",
+    "9": "You believe there is extensive corruption in your country (level 9 on a scale of 1-10).",
+    "10": "You believe there is abundant corruption in your country (level 10 on a scale of 1-10)."
+  }
+},
+"Q113": {
+    "question_text": "How many state authorities do you believe are involved in corruption?",
+    "options": {
+      "1": "You believe none of the state authorities are involved in corruption.",
+      "2": "You believe few of the state authorities are involved in corruption.",
+      "3": "You believe most of the state authorities are involved in corruption.",
+      "4": "You believe all state authorities are involved in corruption."
+    }
+  },
+  "Q114": {
+    "question_text": "How many business executives do you believe are involved in corruption?",
+    "options": {
+      "1": "You believe none of the business executives are involved in corruption.",
+      "2": "You believe few of the business executives are involved in corruption.",
+      "3": "You believe most of the business executives are involved in corruption.",
+      "4": "You believe all business executives are involved in corruption."
+    }
+  },
+  "Q115": {
+    "question_text": "How many local authorities do you believe are involved in corruption?",
+    "options": {
+      "1": "You believe none of the local authorities are involved in corruption.",
+      "2": "You believe few of the local authorities are involved in corruption.",
+      "3": "You believe most of the local authorities are involved in corruption.",
+      "4": "You believe all local authorities are involved in corruption."
+    }
+  },
+  "Q116": {
+    "question_text": "How many civil service providers do you believe are involved in corruption?",
+    "options": {
+      "1": "You believe none of the civil service providers are involved in corruption.",
+      "2": "You believe few of the civil service providers are involved in corruption.",
+      "3": "You believe most of the civil service providers are involved in corruption.",
+      "4": "You believe all civil service providers are involved in corruption."
+    }
+  },
+  "Q117": {
+    "question_text": "How many journalists and media people do you believe are involved in corruption?",
+    "options": {
+      "1": "You believe none of the journalists and media people are involved in corruption.",
+      "2": "You believe few of the journalists and media people are involved in corruption.",
+      "3": "You believe most of the journalists and media people are involved in corruption.",
+      "4": "You believe all journalists and media people are involved in corruption."
+    }
+  },
+"Q118": {
+  "question_text": "We want to know about your experience with local officials and service providers, like police officers, lawyers, doctors, teachers and civil servants in your community. How often do you think ordinary people like yourself or people from your neighbourhood have to pay a bribe, give a gift or do a favor to these people in order to get the services you need? Does it happen never, rarely, frequently or always?",
+  "options": {
+    "1": "You believe that ordinary people like yourself or people from your neighbourhood never have to pay a bribe, give a gift or do a favor to local officials and service providers in order to get the services you need.",
+    "2": "You believe that ordinary people like yourself or people from your neighbourhood rarely have to pay a bribe, give a gift or do a favor to local officials and service providers in order to get the services you need.",
+    "3": "You believe that ordinary people like yourself or people from your neighbourhood frequently have to pay a bribe, give a gift or do a favor to local officials and service providers in order to get the services you need.",
+    "4": "You believe that ordinary people like yourself or people from your neighbourhood always have to pay a bribe, give a gift or do a favor to local officials and service providers in order to get the services you need."
+  }
+},
+"Q119": {
+  "question_text": "Can you tell me how strongly you agree or disagree with the following statement: “on the whole, women are less corrupt than men”?",
+  "options": {
+    "1": "You strongly agree that on the whole, women are less corrupt than men.",
+    "2": "You agree that on the whole, women are less corrupt than men.",
+    "3": "You disagree that on the whole, women are less corrupt than men.",
+    "4": "You strongly disagree that on the whole, women are less corrupt than men.",
+    "0": "You find it hard to say whether on the whole, women are less corrupt than men."
+  }
+},
+"Q120": {
+  "question_text": "How high is the risk in this country to be held accountable for giving or receiving a bribe, gift or favor in return for public service? To indicate your opinion, use a 10-point scale where “1” means “no risk at all” and “10” means “very high risk”.",
+  "options": {
+    "1": "You believe there is no risk at all in this country to be held accountable for giving or receiving a bribe, gift or favor in return for public service (level 1 on a scale of 1-10).",
+    "2": "You believe there is very little risk in this country to be held accountable for giving or receiving a bribe, gift or favor in return for public service (level 2 on a scale of 1-10).",
+    "3": "You believe there is minimal risk in this country to be held accountable for giving or receiving a bribe, gift or favor in return for public service (level 3 on a scale of 1-10).",
+    "4": "You believe there is some risk in this country to be held accountable for giving or receiving a bribe, gift or favor in return for public service (level 4 on a scale of 1-10).",
+    "5": "You believe there is a moderate risk in this country to be held accountable for giving or receiving a bribe, gift or favor in return for public service (level 5 on a scale of 1-10).",
+    "6": "You believe there is a noticeable risk in this country to be held accountable for giving or receiving a bribe, gift or favor in return for public service (level 6 on a scale of 1-10).",
+    "7": "You believe there is a considerable risk in this country to be held accountable for giving or receiving a bribe, gift or favor in return for public service (level 7 on a scale of 1-10).",
+    "8": "You believe there is a substantial risk in this country to be held accountable for giving or receiving a bribe, gift or favor in return for public service (level 8 on a scale of 1-10).",
+    "9": "You believe there is a very substantial risk in this country to be held accountable for giving or receiving a bribe, gift or favor in return for public service (level 9 on a scale of 1-10).",
+    "10": "You believe there is a very high risk in this country to be held accountable for giving or receiving a bribe, gift or favor in return for public service (level 10 on a scale of 1-10)."
+  }
+},
+  "Q121": {
+    "question_text": "How would you evaluate the impact of immigrants on the development of your country?",
+    "options": {
+      "1": "You believe that immigrants have a very good impact on the development of your country.",
+      "2": "You believe that immigrants have a quite good impact on the development of your country.",
+      "3": "You believe that immigrants have neither a good nor bad impact on the development of your country.",
+      "4": "You believe that immigrants have a quite bad impact on the development of your country.",
+      "5": "You believe that immigrants have a very bad impact on the development of your country."
+    }
+  },
+  "Q122": {
+  "question_text": "Do you agree that immigration fills important job vacancies?",
+  "options": {
+    "2": "You agree that immigration fills important job vacancies.",
+    "0": "You disagree that immigration fills important job vacancies.",
+    "1": "You find it hard to say whether immigration fills important job vacancies."
+  }
+},
+"Q123": {
+  "question_text": "Do you agree that immigration strengthens cultural diversity?",
+  "options": {
+    "2": "You agree that immigration strengthens cultural diversity.",
+    "0": "You disagree that immigration strengthens cultural diversity.",
+    "1": "You find it hard to say whether immigration strengthens cultural diversity."
+  }
+},
+"Q124": {
+  "question_text": "Do you agree that immigration increases the crime rate?",
+  "options": {
+    "2": "You agree that immigration increases the crime rate.",
+    "0": "You disagree that immigration increases the crime rate.",
+    "1": "You find it hard to say whether immigration increases the crime rate."
+  }
+},
+"Q125": {
+  "question_text": "Do you agree that immigration gives asylum to political refugees who are persecuted elsewhere?",
+  "options": {
+    "2": "You agree that immigration provides asylum to political refugees.",
+    "0": "You disagree that immigration provides asylum to political refugees.",
+    "1": "You find it hard to say whether immigration provides asylum to political refugees."
+  }
+},
+"Q126": {
+  "question_text": "Do you agree that immigration increases the risks of terrorism?",
+  "options": {
+    "2": "You agree that immigration increases the risks of terrorism.",
+    "0": "You disagree that immigration increases the risks of terrorism.",
+    "1": "You find it hard to say whether immigration increases the risks of terrorism."
+  }
+},
+"Q127": {
+  "question_text": "Do you agree that immigration offers people from poor countries a better living?",
+  "options": {
+    "2": "You agree that immigration offers people from poor countries a better life.",
+    "0": "You disagree that immigration provides a better life for people from poor countries.",
+    "1": "You find it hard to say whether immigration offers a better life to people from poor countries."
+  }
+},
+"Q128": {
+  "question_text": "Do you agree that immigration increases unemployment?",
+  "options": {
+    "2": "You agree that immigration increases unemployment.",
+    "0": "You disagree that immigration increases unemployment.",
+    "1": "You find it hard to say whether immigration increases unemployment."
+  }
+},
+"Q129": {
+  "question_text": "Do you agree that immigration leads to social conflict?",
+  "options": {
+    "2": "You agree that immigration leads to social conflict.",
+    "0": "You disagree that immigration leads to social conflict.",
+    "1": "You find it hard to say whether immigration leads to social conflict."
+  }
+},
+"Q130": {
+  "question_text": "What should the government do about people from other countries coming here to work?",
+  "options": {
+    "1": "About people from other countries coming here to work, you believe the government should let anyone come who wants to.",
+    "2": "About people from other countries coming here to work, you believe the government should let people come as long as there are jobs available.",
+    "3": "About people from other countries coming here to work, you believe the government should place strict limits on the number of foreigners who can come.",
+    "4": "About people from other countries coming here to work, you believe the government should prohibit people from coming."
+  }
+},
+  "Q131": {
+    "question_text": "How secure do you feel these days?",
+    "options": {
+      "1": "You feel very secure these days.",
+      "2": "You feel quite secure these days.",
+      "3": "You do not feel very secure these days.",
+      "4": "You do not feel secure at all these days."
+    }
+  },
+  "Q132": {
+    "question_text": "How frequently do robberies occur in your neighborhood?",
+    "options": {
+      "1": "Robberies occur very frequently in your neighborhood.",
+      "2": "Robberies occur quite frequently in your neighborhood.",
+      "3": "Robberies do not occur frequently in your neighborhood.",
+      "4": "Robberies do not occur at all in your neighborhood."
+    }
+  },
+  "Q133": {
+    "question_text": "How frequently does alcohol consumption in the streets occur in your neighborhood?",
+    "options": {
+      "1": "Alcohol consumption in the streets occurs very frequently in your neighborhood.",
+      "2": "Alcohol consumption in the streets occurs quite frequently in your neighborhood.",
+      "3": "Alcohol consumption in the streets does not occur frequently in your neighborhood.",
+      "4": "Alcohol consumption in the streets does not occur at all in your neighborhood."
+    }
+  },
+  "Q134": {
+    "question_text": "How frequently do police or military interfere with people’s private life in your neighborhood?",
+    "options": {
+      "1": "Police or military interference with private life occurs very frequently in your neighborhood.",
+      "2": "Police or military interference with private life occurs quite frequently in your neighborhood.",
+      "3": "Police or military interference with private life does not occur frequently in your neighborhood.",
+      "4": "Police or military interference with private life does not occur at all in your neighborhood."
+    }
+  },
+  "Q135": {
+    "question_text": "How frequently does racist behavior occur in your neighborhood?",
+    "options": {
+      "1": "Racist behavior occurs very frequently in your neighborhood.",
+      "2": "Racist behavior occurs quite frequently in your neighborhood.",
+      "3": "Racist behavior does not occur frequently in your neighborhood.",
+      "4": "Racist behavior does not occur at all in your neighborhood."
+    }
+  },
+  "Q136": {
+    "question_text": "How frequently does drug sale occur in the streets of your neighborhood?",
+    "options": {
+      "1": "Drug sales occur very frequently in the streets of your neighborhood.",
+      "2": "Drug sales occur quite frequently in the streets of your neighborhood.",
+      "3": "Drug sales do not occur frequently in the streets of your neighborhood.",
+      "4": "Drug sales do not occur at all in the streets of your neighborhood."
+    }
+  },
+  "Q137": {
+    "question_text": "How frequently does street violence and fights occur in your neighborhood?",
+    "options": {
+      "1": "Street violence and fights occur very frequently in your neighborhood.",
+      "2": "Street violence and fights occur quite frequently in your neighborhood.",
+      "3": "Street violence and fights do not occur frequently in your neighborhood.",
+      "4": "Street violence and fights do not occur at all in your neighborhood."
+    }
+  },
+  "Q138": {
+    "question_text": "How frequently does sexual harassment occur in your neighborhood?",
+    "options": {
+      "1": "Sexual harassment occurs very frequently in your neighborhood.",
+      "2": "Sexual harassment occurs quite frequently in your neighborhood.",
+      "3": "Sexual harassment does not occur frequently in your neighborhood.",
+      "4": "Sexual harassment does not occur at all in your neighborhood."
+    }
+  },
+  "Q139": {
+    "question_text": "Have you not carried much money for reasons of security?",
+    "options": {
+      "1": "You have avoided carrying much money for security reasons.",
+      "2": "You have not avoided carrying money for security reasons."
+    }
+  },
+  "Q140": {
+    "question_text": "Have you preferred not to go out at night for reasons of security?",
+    "options": {
+      "1": "You have avoided going out at night for security reasons.",
+      "2": "You have not avoided going out at night for security reasons."
+    }
+  },
+  "Q141": {
+    "question_text": "Have you carried a knife, gun or other weapon for reasons of security?",
+    "options": {
+      "1": "You have carried a knife, gun or other weapon for security reasons.",
+      "2": "You have not carried a knife, gun or other weapon for security reasons."
+    }
+  },
+"Q142": {
+  "question_text": "To what degree are you worried about losing your job or not finding a job?",
+  "options": {
+    "1": "About losing your job or not finding a job, you are worried very much.",
+    "2": "About losing your job or not finding a job, you are worried a good deal.",
+    "3": "About losing your job or not finding a job, you are not worried much.",
+    "4": "About losing your job or not finding a job, you are not worried at all."
+  }
+},
+"Q143": {
+  "question_text": "To what degree are you worried about not being able to give your children a good education?",
+  "options": {
+    "1": "About not being able to give your children a good education, you are worried very much.",
+    "2": "About not being able to give your children a good education, you are worried a good deal.",
+    "3": "About not being able to give your children a good education, you are not worried much.",
+    "4": "About not being able to give your children a good education, you are not worried at all."
+  }
+},
+  "Q144": {
+    "question_text": "Have you been the victim of a crime during the past year?",
+    "options": {
+      "1": "You have been the victim of a crime in the past year.",
+      "2": "You have not been the victim of a crime in the past year."
+    }
+  },
+  "Q145": {
+    "question_text": "Has someone in your family been the victim of a crime during the past year?",
+    "options": {
+      "1": "A member of your family has been the victim of a crime in the past year.",
+      "2": "No one in your family has been the victim of a crime in the past year."
+    }
+  },
+"Q146": {
+  "question_text": "To what degree are you worried about a war involving your country?",
+  "options": {
+    "1": "About a war involving your country, you are worried very much.",
+    "2": "About a war involving your country, you are worried a good deal.",
+    "3": "About a war involving your country, you are not worried much.",
+    "4": "About a war involving your country, you are not worried at all."
+  }
+},
+"Q147": {
+  "question_text": "To what degree are you worried about a terrorist attack?",
+  "options": {
+    "1": "About a terrorist attack, you are worried very much.",
+    "2": "About a terrorist attack, you are worried a good deal.",
+    "3": "About a terrorist attack, you are not worried much.",
+    "4": "About a terrorist attack, you are not worried at all."
+  }
+},
+"Q148": {
+  "question_text": "To what degree are you worried about a civil war?",
+  "options": {
+    "1": "About a civil war, you are worried very much.",
+    "2": "About a civil war, you are worried a good deal.",
+    "3": "About a civil war, you are not worried much.",
+    "4": "About a civil war, you are not worried at all."
+  }
+},
+  "Q149": {
+  "question_text": "If you had to choose between freedom and equality, which one would you consider more important?",
+  "options": {
+    "1": "If you had to choose between freedom and equality, you would consider freedom more important.",
+    "2": "If you had to choose between freedom and equality, you would consider equality more important."
+  }
+},
+"Q150": {
+  "question_text": "If you had to choose between freedom and security, which one would you consider more important?",
+  "options": {
+    "1": "If you had to choose between freedom and security, you would consider freedom more important.",
+    "2": "If you had to choose between freedom and security, you would consider security more important."
+  }
+},
+"Q151": {
+  "question_text": "Of course, we all hope that there will not be another war, but if it were to come to that, would you be willing to fight for your country?",
+  "options": {
+    "1": "Of course, we all hope that there will not be another war, but if it were to come to that, you would be willing to fight for your country.",
+    "2": "Of course, we all hope that there will not be another war, but if it were to come to that, you would not be willing to fight for your country."
+  }
+},
+  "Q152": {
+  "question_text": "Which of the following goals should be the most important for the country over the next ten years?",
+  "options": {
+    "1": "You believe a high level of economic growth should be the most important goal for the country over the next ten years.",
+    "2": "You believe making sure this country has strong defense forces should be the most important goal for the country over the next ten years.",
+    "3": "You believe seeing that people have more say about how things are done at their jobs and in their communities should be the most important goal for the country over the next ten years.",
+    "4": "You believe trying to make our cities and countryside more beautiful should be the most important goal for the country over the next ten years."
+  }
+},
+"Q153": {
+  "question_text": "Which of the following goals should be the second most important for the country over the next ten years?",
+  "options": {
+    "1": "You believe a high level of economic growth should be the second most important goal for the country over the next ten years.",
+    "2": "You believe making sure this country has strong defense forces should be the second most important goal for the country over the next ten years.",
+    "3": "You believe seeing that people have more say about how things are done at their jobs and in their communities should be the second most important goal for the country over the next ten years.",
+    "4": "You believe trying to make our cities and countryside more beautiful should be the second most important goal for the country over the next ten years."
+  }
+},
+"Q154": {
+  "question_text": "Which of the following is most important for the country?",
+  "options": {
+    "1": "You believe maintaining order in the nation is most important for the country.",
+    "2": "You believe giving people more say in important government decisions is most important for the country.",
+    "3": "You believe fighting rising prices is most important for the country.",
+    "4": "You believe protecting freedom of speech is most important for the country."
+  }
+},
+"Q155": {
+  "question_text": "Which of the following is the second most important for the country?",
+  "options": {
+    "1": "You believe maintaining order in the nation is the second most important for the country.",
+    "2": "You believe giving people more say in important government decisions is the second most important for the country.",
+    "3": "You believe fighting rising prices is the second most important for the country.",
+    "4": "You believe protecting freedom of speech is the second most important for the country."
+  }
+},
+"Q156": {
+  "question_text": "In your opinion, which of the following is most important?",
+  "options": {
+    "1": "In your opinion, a stable economy is most important.",
+    "2": "In your opinion, progress toward a less impersonal and more humane society is most important.",
+    "3": "In your opinion, progress toward a society in which ideas count more than money is most important.",
+    "4": "In your opinion, the fight against crime is most important."
+  }
+},
+"Q157": {
+  "question_text": "In your opinion, which of the following is the second most important?",
+  "options": {
+    "1": "In your opinion, a stable economy is the second most important.",
+    "2": "In your opinion, progress toward a less impersonal and more humane society is the second most important.",
+    "3": "In your opinion, progress toward a society in which ideas count more than money is the second most important.",
+    "4": "In your opinion, the fight against crime is the second most important."
+  }
+},
+"Q158": {
+  "question_text": "Science and technology are making our lives healthier, easier, and more comfortable.",
+  "options": {
+    "1": "You completely disagree that science and technology are making our lives healthier, easier, and more comfortable (level 1 on a scale of 1-10).",
+    "2": "You strongly disagree that science and technology are making our lives healthier, easier, and more comfortable (level 2 on a scale of 1-10).",
+    "3": "You moderately disagree that science and technology are making our lives healthier, easier, and more comfortable (level 3 on a scale of 1-10).",
+    "4": "You slightly disagree that science and technology are making our lives healthier, easier, and more comfortable (level 4 on a scale of 1-10).",
+    "5": "You neither agree nor disagree that science and technology are making our lives healthier, easier, and more comfortable (level 5 on a scale of 1-10).",
+    "6": "You slightly agree that science and technology are making our lives healthier, easier, and more comfortable (level 6 on a scale of 1-10).",
+    "7": "You moderately agree that science and technology are making our lives healthier, easier, and more comfortable (level 7 on a scale of 1-10).",
+    "8": "You strongly agree that science and technology are making our lives healthier, easier, and more comfortable (level 8 on a scale of 1-10).",
+    "9": "You very strongly agree that science and technology are making our lives healthier, easier, and more comfortable (level 9 on a scale of 1-10).",
+    "10": "You completely agree that science and technology are making our lives healthier, easier, and more comfortable (level 10 on a scale of 1-10)."
+  }
+},
+"Q159": {
+  "question_text": "Because of science and technology, there will be more opportunities for the next generation.",
+  "options": {
+    "1": "You completely disagree that because of science and technology, there will be more opportunities for the next generation (level 1 on a scale of 1-10).",
+    "2": "You strongly disagree that because of science and technology, there will be more opportunities for the next generation (level 2 on a scale of 1-10).",
+    "3": "You moderately disagree that because of science and technology, there will be more opportunities for the next generation (level 3 on a scale of 1-10).",
+    "4": "You slightly disagree that because of science and technology, there will be more opportunities for the next generation (level 4 on a scale of 1-10).",
+    "5": "You neither agree nor disagree that because of science and technology, there will be more opportunities for the next generation (level 5 on a scale of 1-10).",
+    "6": "You slightly agree that because of science and technology, there will be more opportunities for the next generation (level 6 on a scale of 1-10).",
+    "7": "You moderately agree that because of science and technology, there will be more opportunities for the next generation (level 7 on a scale of 1-10).",
+    "8": "You strongly agree that because of science and technology, there will be more opportunities for the next generation (level 8 on a scale of 1-10).",
+    "9": "You very strongly agree that because of science and technology, there will be more opportunities for the next generation (level 9 on a scale of 1-10).",
+    "10": "You completely agree that because of science and technology, there will be more opportunities for the next generation (level 10 on a scale of 1-10)."
+  }
+},
+"Q160": {
+  "question_text": "We depend too much on science and not enough on faith.",
+  "options": {
+    "1": "You completely disagree that we depend too much on science and not enough on faith (level 1 on a scale of 1-10).",
+    "2": "You strongly disagree that we depend too much on science and not enough on faith (level 2 on a scale of 1-10).",
+    "3": "You moderately disagree that we depend too much on science and not enough on faith (level 3 on a scale of 1-10).",
+    "4": "You slightly disagree that we depend too much on science and not enough on faith (level 4 on a scale of 1-10).",
+    "5": "You neither agree nor disagree that we depend too much on science and not enough on faith (level 5 on a scale of 1-10).",
+    "6": "You slightly agree that we depend too much on science and not enough on faith (level 6 on a scale of 1-10).",
+    "7": "You moderately agree that we depend too much on science and not enough on faith (level 7 on a scale of 1-10).",
+    "8": "You strongly agree that we depend too much on science and not enough on faith (level 8 on a scale of 1-10).",
+    "9": "You very strongly agree that we depend too much on science and not enough on faith (level 9 on a scale of 1-10).",
+    "10": "You completely agree that we depend too much on science and not enough on faith (level 10 on a scale of 1-10)."
+  }
+},
+"Q161": {
+  "question_text": "One of the bad effects of science is that it breaks down people's ideas of right and wrong.",
+  "options": {
+    "1": "You completely disagree that one of the bad effects of science is that it breaks down people's ideas of right and wrong (level 1 on a scale of 1-10).",
+    "2": "You strongly disagree that one of the bad effects of science is that it breaks down people's ideas of right and wrong (level 2 on a scale of 1-10).",
+    "3": "You moderately disagree that one of the bad effects of science is that it breaks down people's ideas of right and wrong (level 3 on a scale of 1-10).",
+    "4": "You slightly disagree that one of the bad effects of science is that it breaks down people's ideas of right and wrong (level 4 on a scale of 1-10).",
+    "5": "You neither agree nor disagree that one of the bad effects of science is that it breaks down people's ideas of right and wrong (level 5 on a scale of 1-10).",
+    "6": "You slightly agree that one of the bad effects of science is that it breaks down people's ideas of right and wrong (level 6 on a scale of 1-10).",
+    "7": "You moderately agree that one of the bad effects of science is that it breaks down people's ideas of right and wrong (level 7 on a scale of 1-10).",
+    "8": "You strongly agree that one of the bad effects of science is that it breaks down people's ideas of right and wrong (level 8 on a scale of 1-10).",
+    "9": "You very strongly agree that one of the bad effects of science is that it breaks down people's ideas of right and wrong (level 9 on a scale of 1-10).",
+    "10": "You completely agree that one of the bad effects of science is that it breaks down people's ideas of right and wrong (level 10 on a scale of 1-10)."
+  }
+},
+"Q162": {
+  "question_text": "It is not important for me to know about science in my daily life.",
+  "options": {
+    "1": "You completely disagree that it is not important for you to know about science in your daily life (level 1 on a scale of 1-10).",
+    "2": "You strongly disagree that it is not important for you to know about science in your daily life (level 2 on a scale of 1-10).",
+    "3": "You moderately disagree that it is not important for you to know about science in your daily life (level 3 on a scale of 1-10).",
+    "4": "You slightly disagree that it is not important for you to know about science in your daily life (level 4 on a scale of 1-10).",
+    "5": "You neither agree nor disagree that it is not important for you to know about science in your daily life (level 5 on a scale of 1-10).",
+    "6": "You slightly agree that it is not important for you to know about science in your daily life (level 6 on a scale of 1-10).",
+    "7": "You moderately agree that it is not important for you to know about science in your daily life (level 7 on a scale of 1-10).",
+    "8": "You strongly agree that it is not important for you to know about science in your daily life (level 8 on a scale of 1-10).",
+    "9": "You very strongly agree that it is not important for you to know about science in your daily life (level 9 on a scale of 1-10).",
+    "10": "You completely agree that it is not important for you to know about science in your daily life (level 10 on a scale of 1-10)."
+  }
+},
+"Q163": {
+  "question_text": "All things considered, would you say that the world is better off or worse off because of science and technology?",
+  "options": {
+    "1": "You believe the world is a lot worse off because of science and technology (level 1 on a scale of 1-10).",
+    "2": "You believe the world is very worse off because of science and technology (level 2 on a scale of 1-10).",
+    "3": "You believe the world is moderately worse off because of science and technology (level 3 on a scale of 1-10).",
+    "4": "You believe the world is slightly worse off because of science and technology (level 4 on a scale of 1-10).",
+    "5": "You believe the world is neither better nor worse off because of science and technology (level 5 on a scale of 1-10).",
+    "6": "You believe the world is slightly better off because of science and technology (level 6 on a scale of 1-10).",
+    "7": "You believe the world is moderately better off because of science and technology (level 7 on a scale of 1-10).",
+    "8": "You believe the world is very better off because of science and technology (level 8 on a scale of 1-10).",
+    "9": "You believe the world is greatly better off because of science and technology (level 9 on a scale of 1-10).",
+    "10": "You believe the world is a lot better off because of science and technology (level 10 on a scale of 1-10)."
+  }
+},
+"Q164": {
+  "question_text": "How important is God in your life?",
+  "options": {
+    "1": "God is not at all important in your life (level 1 on a scale of 1-10).",
+    "2": "God is very unimportant in your life (level 2 on a scale of 1-10).",
+    "3": "God is moderately unimportant in your life (level 3 on a scale of 1-10).",
+    "4": "God is somewhat unimportant in your life (level 4 on a scale of 1-10).",
+    "5": "God is neither important nor unimportant in your life (level 5 on a scale of 1-10).",
+    "6": "God is somewhat important in your life (level 6 on a scale of 1-10).",
+    "7": "God is moderately important in your life (level 7 on a scale of 1-10).",
+    "8": "God is very important in your life (level 8 on a scale of 1-10).",
+    "9": "God is extremely important in your life (level 9 on a scale of 1-10).",
+    "10": "God is very important in your life (level 10 on a scale of 1-10)."
+  }
+},
+  "Q165": {
+    "question_text": "Do you believe in God?",
+    "options": {
+      "1": "You believe in God.",
+      "2": "You do not believe in God."
+    }
+  },
+  "Q166": {
+    "question_text": "Do you believe in life after death?",
+    "options": {
+      "1": "You believe in life after death.",
+      "2": "You do not believe in life after death."
+    }
+  },
+  "Q167": {
+    "question_text": "Do you believe in hell?",
+    "options": {
+      "1": "You believe in hell.",
+      "2": "You do not believe in hell."
+    }
+  },
+  "Q168": {
+    "question_text": "Do you believe in heaven?",
+    "options": {
+      "1": "You believe in heaven.",
+      "2": "You do not believe in heaven."
+    }
+  },
+  "Q169": {
+    "question_text": "Whenever science and religion conflict, religion is always right.",
+    "options": {
+      "1": "You strongly agree that when science and religion conflict, religion is always right.",
+      "2": "You agree that religion is right when it conflicts with science.",
+      "3": "You disagree with the idea that religion is always right in conflicts with science.",
+      "4": "You strongly disagree that religion is always right when it conflicts with science."
+    }
+  },
+  "Q170": {
+    "question_text": "The only acceptable religion is my religion.",
+    "options": {
+      "1": "You strongly agree that your religion is the only acceptable one.",
+      "2": "You agree that your religion is the only acceptable one.",
+      "3": "You disagree that your religion is the only acceptable one.",
+      "4": "You strongly disagree that your religion is the only acceptable one."
+    }
+  },
+  "Q171": {
+    "question_text": "Apart from weddings and funerals, about how often do you attend religious services these days?",
+    "options": {
+      "1": "You attend religious services more than once a week.",
+      "2": "You attend religious services once a week.",
+      "3": "You attend religious services once a month.",
+      "4": "You attend religious services only on special holy days.",
+      "5": "You attend religious services once a year.",
+      "6": "You attend religious services less often than once a year.",
+      "7": "You never or practically never attend religious services."
+    }
+  },
+  "Q172": {
+    "question_text": "Apart from weddings and funerals, about how often do you pray?",
+    "options": {
+      "1": "You pray several times a day.",
+      "2": "You pray once a day.",
+      "3": "You pray several times each week.",
+      "4": "You pray only when attending religious services.",
+      "5": "You pray only on special holy days.",
+      "6": "You pray once a year.",
+      "7": "You pray less often than once a year.",
+      "8": "You never or practically never pray."
+    }
+  },
+  "Q173": {
+    "question_text": "Independently of whether you attend religious services or not, would you say you are:",
+    "options": {
+      "1": "You consider yourself a religious person.",
+      "2": "You consider yourself not a religious person.",
+      "3": "You consider yourself an atheist."
+    }
+  },
+"Q174": {
+  "question_text": "With which of the following statements do you agree most? The basic meaning of religion is:",
+  "options": {
+    "1": "You believe the basic meaning of religion is to follow religious norms and ceremonies instead of to do good to other people.",
+    "2": "You believe the basic meaning of religion is to do good to other people instead of to follow religious norms and ceremonies."
+  }
+},
+"Q175": {
+  "question_text": "With which of the following statements do you agree most? The basic meaning of religion is:",
+  "options": {
+    "1": "You believe the basic meaning of religion is to make sense of life after death instead of to make sense of life in this world.",
+    "2": "You believe the basic meaning of religion is to make sense of life in this world instead of to make sense of life after death."
+  }
+},
+  "Q176": {
+  "question_text": "How much do you agree or disagree with the statement that nowadays one often has trouble deciding which moral rules are the right ones to follow?",
+  "options": {
+    "1": "You completely agree that nowadays one often has trouble deciding which moral rules are the right ones to follow (level 1 on a scale of 1-10).",
+    "2": "You strongly agree that nowadays one often has trouble deciding which moral rules are the right ones to follow (level 2 on a scale of 1-10).",
+    "3": "You moderately agree that nowadays one often has trouble deciding which moral rules are the right ones to follow (level 3 on a scale of 1-10).",
+    "4": "You somewhat agree that nowadays one often has trouble deciding which moral rules are the right ones to follow (level 4 on a scale of 1-10).",
+    "5": "You slightly agree that nowadays one often has trouble deciding which moral rules are the right ones to follow (level 5 on a scale of 1-10).",
+    "6": "You slightly disagree that nowadays one often has trouble deciding which moral rules are the right ones to follow (level 6 on a scale of 1-10).",
+    "7": "You somewhat disagree that nowadays one often has trouble deciding which moral rules are the right ones to follow (level 7 on a scale of 1-10).",
+    "8": "You moderately disagree that nowadays one often has trouble deciding which moral rules are the right ones to follow (level 8 on a scale of 1-10).",
+    "9": "You strongly disagree that nowadays one often has trouble deciding which moral rules are the right ones to follow (level 9 on a scale of 1-10).",
+    "10": "You completely disagree that nowadays one often has trouble deciding which moral rules are the right ones to follow (level 10 on a scale of 1-10)."
+  }
+},
+"Q177": {
+  "question_text": "Please tell me whether you think claiming government benefits to which you are not entitled can always be justified, never be justified, or something in between.",
+  "options": {
+    "1": "You believe claiming government benefits to which you are not entitled is never justified (level 1 on a scale of 1-10).",
+    "2": "You believe claiming government benefits to which you are not entitled is almost never justified (level 2 on a scale of 1-10).",
+    "3": "You believe claiming government benefits to which you are not entitled is rarely justified (level 3 on a scale of 1-10).",
+    "4": "You believe claiming government benefits to which you are not entitled is usually not justified (level 4 on a scale of 1-10).",
+    "5": "You believe claiming government benefits to which you are not entitled is somewhat not justified (level 5 on a scale of 1-10).",
+    "6": "You believe claiming government benefits to which you are not entitled is somewhat justified (level 6 on a scale of 1-10).",
+    "7": "You believe claiming government benefits to which you are not entitled is sometimes justified (level 7 on a scale of 1-10).",
+    "8": "You believe claiming government benefits to which you are not entitled is often justified (level 8 on a scale of 1-10).",
+    "9": "You believe claiming government benefits to which you are not entitled is almost always justified (level 9 on a scale of 1-10).",
+    "10": "You believe claiming government benefits to which you are not entitled is always justified (level 10 on a scale of 1-10)."
+  }
+},
+"Q178": {
+  "question_text": "Please tell me whether you think avoiding a fare on public transport can always be justified, never be justified, or something in between.",
+  "options": {
+    "1": "You believe avoiding a fare on public transport is never justified (level 1 on a scale of 1-10).",
+    "2": "You believe avoiding a fare on public transport is almost never justified (level 2 on a scale of 1-10).",
+    "3": "You believe avoiding a fare on public transport is rarely justified (level 3 on a scale of 1-10).",
+    "4": "You believe avoiding a fare on public transport is usually not justified (level 4 on a scale of 1-10).",
+    "5": "You believe avoiding a fare on public transport is somewhat not justified (level 5 on a scale of 1-10).",
+    "6": "You believe avoiding a fare on public transport is somewhat justified (level 6 on a scale of 1-10).",
+    "7": "You believe avoiding a fare on public transport is sometimes justified (level 7 on a scale of 1-10).",
+    "8": "You believe avoiding a fare on public transport is often justified (level 8 on a scale of 1-10).",
+    "9": "You believe avoiding a fare on public transport is almost always justified (level 9 on a scale of 1-10).",
+    "10": "You believe avoiding a fare on public transport is always justified (level 10 on a scale of 1-10)."
+  }
+},
+"Q179": {
+  "question_text": "Please tell me whether you think stealing property can always be justified, never be justified, or something in between.",
+  "options": {
+    "1": "You believe stealing property is never justified (level 1 on a scale of 1-10).",
+    "2": "You believe stealing property is almost never justified (level 2 on a scale of 1-10).",
+    "3": "You believe stealing property is rarely justified (level 3 on a scale of 1-10).",
+    "4": "You believe stealing property is usually not justified (level 4 on a scale of 1-10).",
+    "5": "You believe stealing property is somewhat not justified (level 5 on a scale of 1-10).",
+    "6": "You believe stealing property is somewhat justified (level 6 on a scale of 1-10).",
+    "7": "You believe stealing property is sometimes justified (level 7 on a scale of 1-10).",
+    "8": "You believe stealing property is often justified (level 8 on a scale of 1-10).",
+    "9": "You believe stealing property is almost always justified (level 9 on a scale of 1-10).",
+    "10": "You believe stealing property is always justified (level 10 on a scale of 1-10)."
+  }
+},
+"Q180": {
+  "question_text": "Please tell me whether you think cheating on taxes if you have a chance can always be justified, never be justified, or something in between.",
+  "options": {
+    "1": "You believe cheating on taxes if you have a chance is never justified (level 1 on a scale of 1-10).",
+    "2": "You believe cheating on taxes if you have a chance is almost never justified (level 2 on a scale of 1-10).",
+    "3": "You believe cheating on taxes if you have a chance is rarely justified (level 3 on a scale of 1-10).",
+    "4": "You believe cheating on taxes if you have a chance is usually not justified (level 4 on a scale of 1-10).",
+    "5": "You believe cheating on taxes if you have a chance is somewhat not justified (level 5 on a scale of 1-10).",
+    "6": "You believe cheating on taxes if you have a chance is somewhat justified (level 6 on a scale of 1-10).",
+    "7": "You believe cheating on taxes if you have a chance is sometimes justified (level 7 on a scale of 1-10).",
+    "8": "You believe cheating on taxes if you have a chance is often justified (level 8 on a scale of 1-10).",
+    "9": "You believe cheating on taxes if you have a chance is almost always justified (level 9 on a scale of 1-10).",
+    "10": "You believe cheating on taxes if you have a chance is always justified (level 10 on a scale of 1-10)."
+  }
+},
+"Q181": {
+  "question_text": "Please tell me whether you think someone accepting a bribe in the course of their duties can always be justified, never be justified, or something in between.",
+  "options": {
+    "1": "You believe someone accepting a bribe in the course of their duties is never justified (level 1 on a scale of 1-10).",
+    "2": "You believe someone accepting a bribe in the course of their duties is almost never justified (level 2 on a scale of 1-10).",
+    "3": "You believe someone accepting a bribe in the course of their duties is rarely justified (level 3 on a scale of 1-10).",
+    "4": "You believe someone accepting a bribe in the course of their duties is usually not justified (level 4 on a scale of 1-10).",
+    "5": "You believe someone accepting a bribe in the course of their duties is somewhat not justified (level 5 on a scale of 1-10).",
+    "6": "You believe someone accepting a bribe in the course of their duties is somewhat justified (level 6 on a scale of 1-10).",
+    "7": "You believe someone accepting a bribe in the course of their duties is sometimes justified (level 7 on a scale of 1-10).",
+    "8": "You believe someone accepting a bribe in the course of their duties is often justified (level 8 on a scale of 1-10).",
+    "9": "You believe someone accepting a bribe in the course of their duties is almost always justified (level 9 on a scale of 1-10).",
+    "10": "You believe someone accepting a bribe in the course of their duties is always justified (level 10 on a scale of 1-10)."
+  }
+},
+"Q182": {
+  "question_text": "Please tell me whether you think homosexuality can always be justified, never be justified, or something in between.",
+  "options": {
+    "1": "You believe homosexuality is never justified (level 1 on a scale of 1-10).",
+    "2": "You believe homosexuality is almost never justified (level 2 on a scale of 1-10).",
+    "3": "You believe homosexuality is rarely justified (level 3 on a scale of 1-10).",
+    "4": "You believe homosexuality is usually not justified (level 4 on a scale of 1-10).",
+    "5": "You believe homosexuality is somewhat not justified (level 5 on a scale of 1-10).",
+    "6": "You believe homosexuality is somewhat justified (level 6 on a scale of 1-10).",
+    "7": "You believe homosexuality is sometimes justified (level 7 on a scale of 1-10).",
+    "8": "You believe homosexuality is often justified (level 8 on a scale of 1-10).",
+    "9": "You believe homosexuality is almost always justified (level 9 on a scale of 1-10).",
+    "10": "You believe homosexuality is always justified (level 10 on a scale of 1-10)."
+  }
+},
+"Q183": {
+  "question_text": "Please tell me whether you think prostitution can always be justified, never be justified, or something in between.",
+  "options": {
+    "1": "You believe prostitution is never justified (level 1 on a scale of 1-10).",
+    "2": "You believe prostitution is almost never justified (level 2 on a scale of 1-10).",
+    "3": "You believe prostitution is rarely justified (level 3 on a scale of 1-10).",
+    "4": "You believe prostitution is usually not justified (level 4 on a scale of 1-10).",
+    "5": "You believe prostitution is somewhat not justified (level 5 on a scale of 1-10).",
+    "6": "You believe prostitution is somewhat justified (level 6 on a scale of 1-10).",
+    "7": "You believe prostitution is sometimes justified (level 7 on a scale of 1-10).",
+    "8": "You believe prostitution is often justified (level 8 on a scale of 1-10).",
+    "9": "You believe prostitution is almost always justified (level 9 on a scale of 1-10).",
+    "10": "You believe prostitution is always justified (level 10 on a scale of 1-10)."
+  }
+},
+  "Q184": {
+  "question_text": "Please tell me whether you think abortion can always be justified, never be justified, or something in between.",
+  "options": {
+    "1": "You believe abortion is never justified (level 1 on a scale of 1-10).",
+    "2": "You believe abortion is almost never justified (level 2 on a scale of 1-10).",
+    "3": "You believe abortion is rarely justified (level 3 on a scale of 1-10).",
+    "4": "You believe abortion is usually not justified (level 4 on a scale of 1-10).",
+    "5": "You believe abortion is somewhat not justified (level 5 on a scale of 1-10).",
+    "6": "You believe abortion is somewhat justified (level 6 on a scale of 1-10).",
+    "7": "You believe abortion is sometimes justified (level 7 on a scale of 1-10).",
+    "8": "You believe abortion is often justified (level 8 on a scale of 1-10).",
+    "9": "You believe abortion is almost always justified (level 9 on a scale of 1-10).",
+    "10": "You believe abortion is always justified (level 10 on a scale of 1-10)."
+  }
+},
+"Q185": {
+  "question_text": "Please tell me whether you think divorce can always be justified, never be justified, or something in between.",
+  "options": {
+    "1": "You believe divorce is never justified (level 1 on a scale of 1-10).",
+    "2": "You believe divorce is almost never justified (level 2 on a scale of 1-10).",
+    "3": "You believe divorce is rarely justified (level 3 on a scale of 1-10).",
+    "4": "You believe divorce is usually not justified (level 4 on a scale of 1-10).",
+    "5": "You believe divorce is somewhat not justified (level 5 on a scale of 1-10).",
+    "6": "You believe divorce is somewhat justified (level 6 on a scale of 1-10).",
+    "7": "You believe divorce is sometimes justified (level 7 on a scale of 1-10).",
+    "8": "You believe divorce is often justified (level 8 on a scale of 1-10).",
+    "9": "You believe divorce is almost always justified (level 9 on a scale of 1-10).",
+    "10": "You believe divorce is always justified (level 10 on a scale of 1-10)."
+  }
+},
+"Q186": {
+  "question_text": "Please tell me whether you think sex before marriage can always be justified, never be justified, or something in between.",
+  "options": {
+    "1": "You believe sex before marriage is never justified (level 1 on a scale of 1-10).",
+    "2": "You believe sex before marriage is almost never justified (level 2 on a scale of 1-10).",
+    "3": "You believe sex before marriage is rarely justified (level 3 on a scale of 1-10).",
+    "4": "You believe sex before marriage is usually not justified (level 4 on a scale of 1-10).",
+    "5": "You believe sex before marriage is somewhat not justified (level 5 on a scale of 1-10).",
+    "6": "You believe sex before marriage is somewhat justified (level 6 on a scale of 1-10).",
+    "7": "You believe sex before marriage is sometimes justified (level 7 on a scale of 1-10).",
+    "8": "You believe sex before marriage is often justified (level 8 on a scale of 1-10).",
+    "9": "You believe sex before marriage is almost always justified (level 9 on a scale of 1-10).",
+    "10": "You believe sex before marriage is always justified (level 10 on a scale of 1-10)."
+  }
+},
+"Q187": {
+  "question_text": "Please tell me whether you think suicide can always be justified, never be justified, or something in between.",
+  "options": {
+    "1": "You believe suicide is never justified (level 1 on a scale of 1-10).",
+    "2": "You believe suicide is almost never justified (level 2 on a scale of 1-10).",
+    "3": "You believe suicide is rarely justified (level 3 on a scale of 1-10).",
+    "4": "You believe suicide is usually not justified (level 4 on a scale of 1-10).",
+    "5": "You believe suicide is somewhat not justified (level 5 on a scale of 1-10).",
+    "6": "You believe suicide is somewhat justified (level 6 on a scale of 1-10).",
+    "7": "You believe suicide is sometimes justified (level 7 on a scale of 1-10).",
+    "8": "You believe suicide is often justified (level 8 on a scale of 1-10).",
+    "9": "You believe suicide is almost always justified (level 9 on a scale of 1-10).",
+    "10": "You believe suicide is always justified (level 10 on a scale of 1-10)."
+  }
+},
+"Q188": {
+  "question_text": "Please tell me whether you think euthanasia can always be justified, never be justified, or something in between.",
+  "options": {
+    "1": "You believe euthanasia is never justified (level 1 on a scale of 1-10).",
+    "2": "You believe euthanasia is almost never justified (level 2 on a scale of 1-10).",
+    "3": "You believe euthanasia is rarely justified (level 3 on a scale of 1-10).",
+    "4": "You believe euthanasia is usually not justified (level 4 on a scale of 1-10).",
+    "5": "You believe euthanasia is somewhat not justified (level 5 on a scale of 1-10).",
+    "6": "You believe euthanasia is somewhat justified (level 6 on a scale of 1-10).",
+    "7": "You believe euthanasia is sometimes justified (level 7 on a scale of 1-10).",
+    "8": "You believe euthanasia is often justified (level 8 on a scale of 1-10).",
+    "9": "You believe euthanasia is almost always justified (level 9 on a scale of 1-10).",
+    "10": "You believe euthanasia is always justified (level 10 on a scale of 1-10)."
+  }
+},
+"Q189": {
+  "question_text": "Please tell me whether you think a man beating his wife can always be justified, never be justified, or something in between.",
+  "options": {
+    "1": "You believe a man beating his wife is never justified (level 1 on a scale of 1-10).",
+    "2": "You believe a man beating his wife is almost never justified (level 2 on a scale of 1-10).",
+    "3": "You believe a man beating his wife is rarely justified (level 3 on a scale of 1-10).",
+    "4": "You believe a man beating his wife is usually not justified (level 4 on a scale of 1-10).",
+    "5": "You believe a man beating his wife is somewhat not justified (level 5 on a scale of 1-10).",
+    "6": "You believe a man beating his wife is somewhat justified (level 6 on a scale of 1-10).",
+    "7": "You believe a man beating his wife is sometimes justified (level 7 on a scale of 1-10).",
+    "8": "You believe a man beating his wife is often justified (level 8 on a scale of 1-10).",
+    "9": "You believe a man beating his wife is almost always justified (level 9 on a scale of 1-10).",
+    "10": "You believe a man beating his wife is always justified (level 10 on a scale of 1-10)."
+  }
+},
+"Q190": {
+  "question_text": "Please tell me whether you think parents beating children can always be justified, never be justified, or something in between.",
+  "options": {
+    "1": "You believe parents beating children is never justified (level 1 on a scale of 1-10).",
+    "2": "You believe parents beating children is almost never justified (level 2 on a scale of 1-10).",
+    "3": "You believe parents beating children is rarely justified (level 3 on a scale of 1-10).",
+    "4": "You believe parents beating children is usually not justified (level 4 on a scale of 1-10).",
+    "5": "You believe parents beating children is somewhat not justified (level 5 on a scale of 1-10).",
+    "6": "You believe parents beating children is somewhat justified (level 6 on a scale of 1-10).",
+    "7": "You believe parents beating children is sometimes justified (level 7 on a scale of 1-10).",
+    "8": "You believe parents beating children is often justified (level 8 on a scale of 1-10).",
+    "9": "You believe parents beating children is almost always justified (level 9 on a scale of 1-10).",
+    "10": "You believe parents beating children is always justified (level 10 on a scale of 1-10)."
+  }
+},
+"Q191": {
+  "question_text": "Please tell me whether you think violence against other people can always be justified, never be justified, or something in between.",
+  "options": {
+    "1": "You believe violence against other people is never justified (level 1 on a scale of 1-10).",
+    "2": "You believe violence against other people is almost never justified (level 2 on a scale of 1-10).",
+    "3": "You believe violence against other people is rarely justified (level 3 on a scale of 1-10).",
+    "4": "You believe violence against other people is usually not justified (level 4 on a scale of 1-10).",
+    "5": "You believe violence against other people is somewhat not justified (level 5 on a scale of 1-10).",
+    "6": "You believe violence against other people is somewhat justified (level 6 on a scale of 1-10).",
+    "7": "You believe violence against other people is sometimes justified (level 7 on a scale of 1-10).",
+    "8": "You believe violence against other people is often justified (level 8 on a scale of 1-10).",
+    "9": "You believe violence against other people is almost always justified (level 9 on a scale of 1-10).",
+    "10": "You believe violence against other people is always justified (level 10 on a scale of 1-10)."
+  }
+},
+  "Q192": {
+  "question_text": "Please tell me whether you think terrorism as a political, ideological or religious mean can always be justified, never be justified, or something in between.",
+  "options": {
+    "1": "You believe terrorism as a political, ideological or religious mean is never justified (level 1 on a scale of 1-10).",
+    "2": "You believe terrorism as a political, ideological or religious mean is almost never justified (level 2 on a scale of 1-10).",
+    "3": "You believe terrorism as a political, ideological or religious mean is rarely justified (level 3 on a scale of 1-10).",
+    "4": "You believe terrorism as a political, ideological or religious mean is usually not justified (level 4 on a scale of 1-10).",
+    "5": "You believe terrorism as a political, ideological or religious mean is somewhat not justified (level 5 on a scale of 1-10).",
+    "6": "You believe terrorism as a political, ideological or religious mean is somewhat justified (level 6 on a scale of 1-10).",
+    "7": "You believe terrorism as a political, ideological or religious mean is sometimes justified (level 7 on a scale of 1-10).",
+    "8": "You believe terrorism as a political, ideological or religious mean is often justified (level 8 on a scale of 1-10).",
+    "9": "You believe terrorism as a political, ideological or religious mean is almost always justified (level 9 on a scale of 1-10).",
+    "10": "You believe terrorism as a political, ideological or religious mean is always justified (level 10 on a scale of 1-10)."
+  }
+},
+"Q193": {
+  "question_text": "Please tell me whether you think having casual sex can always be justified, never be justified, or something in between.",
+  "options": {
+    "1": "You believe having casual sex is never justified (level 1 on a scale of 1-10).",
+    "2": "You believe having casual sex is almost never justified (level 2 on a scale of 1-10).",
+    "3": "You believe having casual sex is rarely justified (level 3 on a scale of 1-10).",
+    "4": "You believe having casual sex is usually not justified (level 4 on a scale of 1-10).",
+    "5": "You believe having casual sex is somewhat not justified (level 5 on a scale of 1-10).",
+    "6": "You believe having casual sex is somewhat justified (level 6 on a scale of 1-10).",
+    "7": "You believe having casual sex is sometimes justified (level 7 on a scale of 1-10).",
+    "8": "You believe having casual sex is often justified (level 8 on a scale of 1-10).",
+    "9": "You believe having casual sex is almost always justified (level 9 on a scale of 1-10).",
+    "10": "You believe having casual sex is always justified (level 10 on a scale of 1-10)."
+  }
+},
+"Q194": {
+  "question_text": "Please tell me whether you think political violence can always be justified, never be justified, or something in between.",
+  "options": {
+    "1": "You believe political violence is never justified (level 1 on a scale of 1-10).",
+    "2": "You believe political violence is almost never justified (level 2 on a scale of 1-10).",
+    "3": "You believe political violence is rarely justified (level 3 on a scale of 1-10).",
+    "4": "You believe political violence is usually not justified (level 4 on a scale of 1-10).",
+    "5": "You believe political violence is somewhat not justified (level 5 on a scale of 1-10).",
+    "6": "You believe political violence is somewhat justified (level 6 on a scale of 1-10).",
+    "7": "You believe political violence is sometimes justified (level 7 on a scale of 1-10).",
+    "8": "You believe political violence is often justified (level 8 on a scale of 1-10).",
+    "9": "You believe political violence is almost always justified (level 9 on a scale of 1-10).",
+    "10": "You believe political violence is always justified (level 10 on a scale of 1-10)."
+  }
+},
+"Q195": {
+  "question_text": "Please tell me whether you think the death penalty can always be justified, never be justified, or something in between.",
+  "options": {
+    "1": "You believe the death penalty is never justified (level 1 on a scale of 1-10).",
+    "2": "You believe the death penalty is almost never justified (level 2 on a scale of 1-10).",
+    "3": "You believe the death penalty is rarely justified (level 3 on a scale of 1-10).",
+    "4": "You believe the death penalty is usually not justified (level 4 on a scale of 1-10).",
+    "5": "You believe the death penalty is somewhat not justified (level 5 on a scale of 1-10).",
+    "6": "You believe the death penalty is somewhat justified (level 6 on a scale of 1-10).",
+    "7": "You believe the death penalty is sometimes justified (level 7 on a scale of 1-10).",
+    "8": "You believe the death penalty is often justified (level 8 on a scale of 1-10).",
+    "9": "You believe the death penalty is almost always justified (level 9 on a scale of 1-10).",
+    "10": "You believe the death penalty is always justified (level 10 on a scale of 1-10)."
+  }
+},
+"Q196": {
+  "question_text": "Do you think the government should have the right to keep people under video surveillance in public areas?",
+  "options": {
+    "1": "You believe the government definitely should have the right to keep people under video surveillance in public areas.",
+    "2": "You believe the government probably should have the right to keep people under video surveillance in public areas.",
+    "3": "You believe the government probably should not have the right to keep people under video surveillance in public areas.",
+    "4": "You believe the government definitely should not have the right to keep people under video surveillance in public areas."
+  }
+},
+"Q197": {
+  "question_text": "Do you think the government should have the right to monitor all e-mails and any other information exchanged on the Internet?",
+  "options": {
+    "1": "You believe the government definitely should have the right to monitor all e-mails and any other information exchanged on the Internet.",
+    "2": "You believe the government probably should have the right to monitor all e-mails and any other information exchanged on the Internet.",
+    "3": "You believe the government probably should not have the right to monitor all e-mails and any other information exchanged on the Internet.",
+    "4": "You believe the government definitely should not have the right to monitor all e-mails and any other information exchanged on the Internet."
+  }
+},
+"Q198": {
+  "question_text": "Do you think the government should have the right to collect information about anyone living in this country without their knowledge?",
+  "options": {
+    "1": "You believe the government definitely should have the right to collect information about anyone living in this country without their knowledge.",
+    "2": "You believe the government probably should have the right to collect information about anyone living in this country without their knowledge.",
+    "3": "You believe the government probably should not have the right to collect information about anyone living in this country without their knowledge.",
+    "4": "You believe the government definitely should not have the right to collect information about anyone living in this country without their knowledge."
+  }
+},
+  "Q199": {
+    "question_text": "How interested would you say you are in politics?",
+    "options": {
+      "1": "You are very interested in politics.",
+      "2": "You are somewhat interested in politics.",
+      "3": "You are not very interested in politics.",
+      "4": "You are not at all interested in politics."
+    }
+  },
+  "Q200": {
+    "question_text": "When you get together with your friends, would you say you discuss political matters frequently, occasionally, or never?",
+    "options": {
+      "1": "You frequently discuss political matters with your friends.",
+      "2": "You occasionally discuss political matters with your friends.",
+      "3": "You never discuss political matters with your friends."
+    }
+  },
+  "Q201": {
+    "question_text": "How often do you obtain information from a daily newspaper?",
+    "options": {
+      "1": "You obtain information from a daily newspaper daily.",
+      "2": "You obtain information from a daily newspaper weekly.",
+      "3": "You obtain information from a daily newspaper monthly.",
+      "4": "You obtain information from a daily newspaper less than monthly.",
+      "5": "You never obtain information from a daily newspaper."
+    }
+  },
+  "Q202": {
+    "question_text": "How often do you obtain information from TV news?",
+    "options": {
+      "1": "You obtain information from TV news daily.",
+      "2": "You obtain information from TV news weekly.",
+      "3": "You obtain information from TV news monthly.",
+      "4": "You obtain information from TV news less than monthly.",
+      "5": "You never obtain information from TV news."
+    }
+  },
+  "Q203": {
+    "question_text": "How often do you obtain information from radio news?",
+    "options": {
+      "1": "You obtain information from radio news daily.",
+      "2": "You obtain information from radio news weekly.",
+      "3": "You obtain information from radio news monthly.",
+      "4": "You obtain information from radio news less than monthly.",
+      "5": "You never obtain information from radio news."
+    }
+  },
+  "Q204": {
+    "question_text": "How often do you obtain information from your mobile phone?",
+    "options": {
+      "1": "You obtain information from your mobile phone daily.",
+      "2": "You obtain information from your mobile phone weekly.",
+      "3": "You obtain information from your mobile phone monthly.",
+      "4": "You obtain information from your mobile phone less than monthly.",
+      "5": "You never obtain information from your mobile phone."
+    }
+  },
+  "Q205": {
+    "question_text": "How often do you obtain information from email?",
+    "options": {
+      "1": "You obtain information from email daily.",
+      "2": "You obtain information from email weekly.",
+      "3": "You obtain information from email monthly.",
+      "4": "You obtain information from email less than monthly.",
+      "5": "You never obtain information from email."
+    }
+  },
+  "Q206": {
+    "question_text": "How often do you obtain information from the Internet?",
+    "options": {
+      "1": "You obtain information from the Internet daily.",
+      "2": "You obtain information from the Internet weekly.",
+      "3": "You obtain information from the Internet monthly.",
+      "4": "You obtain information from the Internet less than monthly.",
+      "5": "You never obtain information from the Internet."
+    }
+  },
+  "Q207": {
+    "question_text": "How often do you obtain information from social media (e.g., Facebook, Twitter)?",
+    "options": {
+      "1": "You obtain information from social media daily.",
+      "2": "You obtain information from social media weekly.",
+      "3": "You obtain information from social media monthly.",
+      "4": "You obtain information from social media less than monthly.",
+      "5": "You never obtain information from social media."
+    }
+  },
+  "Q208": {
+    "question_text": "How often do you obtain information from talking with friends or colleagues?",
+    "options": {
+      "1": "You obtain information by talking with friends or colleagues daily.",
+      "2": "You obtain information by talking with friends or colleagues weekly.",
+      "3": "You obtain information by talking with friends or colleagues monthly.",
+      "4": "You obtain information by talking with friends or colleagues less than monthly.",
+      "5": "You never obtain information by talking with friends or colleagues."
+    }
+  },
+  "Q209": {
+    "question_text": "Have you ever signed a petition?",
+    "options": {
+      "1": "You have signed a petition before.",
+      "2": "You might sign a petition.",
+      "3": "You would never sign a petition."
+    }
+  },
+  "Q210": {
+    "question_text": "Have you ever joined in boycotts?",
+    "options": {
+      "1": "You have joined a boycott before.",
+      "2": "You might join a boycott.",
+      "3": "You would never join a boycott."
+    }
+  },
+  "Q211": {
+    "question_text": "Have you ever attended peaceful demonstrations?",
+    "options": {
+      "1": "You have attended peaceful demonstrations before.",
+      "2": "You might attend a peaceful demonstration.",
+      "3": "You would never attend a peaceful demonstration."
+    }
+  },
+  "Q212": {
+    "question_text": "Have you ever joined strikes?",
+    "options": {
+      "1": "You have joined strikes before.",
+      "2": "You might join a strike.",
+      "3": "You would never join a strike."
+    }
+  },
+  "Q213": {
+    "question_text": "Have you ever donated to a group or campaign?",
+    "options": {
+      "1": "You have donated to a group or campaign before.",
+      "2": "You might donate to a group or campaign.",
+      "3": "You would never donate to a group or campaign."
+    }
+  },
+  "Q214": {
+    "question_text": "Have you ever contacted a government official?",
+    "options": {
+      "1": "You have contacted a government official before.",
+      "2": "You might contact a government official.",
+      "3": "You would never contact a government official."
+    }
+  },
+  "Q215": {
+    "question_text": "Have you ever encouraged others to take action about political issues?",
+    "options": {
+      "1": "You have encouraged others to take action about political issues before.",
+      "2": "You might encourage others to take action about political issues.",
+      "3": "You would never encourage others to take action about political issues."
+    }
+  },
+  "Q216": {
+    "question_text": "Have you ever encouraged others to vote?",
+    "options": {
+      "1": "You have encouraged others to vote before.",
+      "2": "You might encourage others to vote.",
+      "3": "You would never encourage others to vote."
+    }
+  },
+"Q217": {
+  "question_text": "Have you ever searched for information about politics and political events online?",
+  "options": {
+    "1": "You have searched for information about politics and political events online.",
+    "2": "You might search for information about politics and political events online, but have not done so yet.",
+    "3": "You would never search for information about politics and political events online.",
+    "-3": "This question is not applicable to you because you do not use the Internet."
+  }
+},
+"Q218": {
+  "question_text": "Have you ever signed an electronic petition?",
+  "options": {
+    "1": "You have signed an electronic petition.",
+    "2": "You might sign an electronic petition, but have not done so yet.",
+    "3": "You would never sign an electronic petition.",
+    "-3": "This question is not applicable to you because you do not use the Internet."
+  }
+},
+"Q219": {
+  "question_text": "Have you ever encouraged other people to take any form of political action online?",
+  "options": {
+    "1": "You have encouraged other people to take some form of political action online.",
+    "2": "You might encourage other people to take some form of political action online, but have not done so yet.",
+    "3": "You would never encourage other people to take any form of political action online.",
+    "-3": "This question is not applicable to you because you do not use the Internet."
+  }
+},
+"Q220": {
+  "question_text": "Have you ever organized political activities, events, or protests online?",
+  "options": {
+    "1": "You have organized political activities, events, or protests online.",
+    "2": "You might organize political activities, events, or protests online, but have not done so yet.",
+    "3": "You would never organize political activities, events, or protests online.",
+    "-3": "This question is not applicable to you because you do not use the Internet."
+  }
+},
+  "Q221": {
+    "question_text": "When elections take place at the local level, do you vote always, usually, or never?",
+    "options": {
+      "1": "You always vote in local elections.",
+      "2": "You usually vote in local elections.",
+      "3": "You never vote in local elections.",
+      "4": "You are not allowed to vote in local elections."
+    }
+  },
+  "Q222": {
+    "question_text": "When elections take place at the national level, do you vote always, usually, or never?",
+    "options": {
+      "1": "You always vote in national elections.",
+      "2": "You usually vote in national elections.",
+      "3": "You never vote in national elections.",
+      "4": "You are not allowed to vote in national elections."
+    }
+  },
+  "Q223": {
+  "question_text": "If there were a national election tomorrow, for which party on this list would you vote? (If DON'T KNOW: Which party appeals to you most?)",
+  "options": {
+    "1": "You would vote for Party 1 if there were a national election tomorrow.",
+    "2": "You would vote for Party 2 if there were a national election tomorrow.",
+    "3": "You would vote for Party 3 if there were a national election tomorrow.",
+    "4": "You would vote for another party if there were a national election tomorrow."
+  }
+},
+"Q224": {
+  "question_text": "In your view, how often are votes counted fairly in this country's elections?",
+  "options": {
+    "1": "You believe votes are counted fairly very often in this country's elections.",
+    "2": "You believe votes are counted fairly fairly often in this country's elections.",
+    "3": "You believe votes are not often counted fairly in this country's elections.",
+    "4": "You believe votes are not at all often counted fairly in this country's elections."
+  }
+},
+"Q225": {
+  "question_text": "In your view, how often are opposition candidates prevented from running in this country's elections?",
+  "options": {
+    "1": "You believe opposition candidates are prevented from running very often in this country's elections.",
+    "2": "You believe opposition candidates are prevented from running fairly often in this country's elections.",
+    "3": "You believe opposition candidates are not often prevented from running in this country's elections.",
+    "4": "You believe opposition candidates are not at all often prevented from running in this country's elections."
+  }
+},
+"Q226": {
+  "question_text": "In your view, how often does TV news favor the governing party in this country's elections?",
+  "options": {
+    "1": "You believe TV news favors the governing party very often in this country's elections.",
+    "2": "You believe TV news favors the governing party fairly often in this country's elections.",
+    "3": "You believe TV news does not often favor the governing party in this country's elections.",
+    "4": "You believe TV news does not at all often favor the governing party in this country's elections."
+  }
+},
+"Q227": {
+  "question_text": "In your view, how often are voters bribed in this country's elections?",
+  "options": {
+    "1": "You believe voters are bribed very often in this country's elections.",
+    "2": "You believe voters are bribed fairly often in this country's elections.",
+    "3": "You believe voters are not often bribed in this country's elections.",
+    "4": "You believe voters are not at all often bribed in this country's elections."
+  }
+},
+"Q228": {
+  "question_text": "In your view, how often do journalists provide fair coverage of elections in this country?",
+  "options": {
+    "1": "You believe journalists provide fair coverage very often of elections in this country.",
+    "2": "You believe journalists provide fair coverage fairly often of elections in this country.",
+    "3": "You believe journalists do not often provide fair coverage of elections in this country.",
+    "4": "You believe journalists do not at all often provide fair coverage of elections in this country."
+  }
+},
+"Q229": {
+  "question_text": "In your view, how often are election officials fair in this country's elections?",
+  "options": {
+    "1": "You believe election officials are fair very often in this country's elections.",
+    "2": "You believe election officials are fair fairly often in this country's elections.",
+    "3": "You believe election officials are not often fair in this country's elections.",
+    "4": "You believe election officials are not at all often fair in this country's elections."
+  }
+},
+"Q230": {
+  "question_text": "In your view, how often do rich people buy elections in this country?",
+  "options": {
+    "1": "You believe rich people buy elections very often in this country.",
+    "2": "You believe rich people buy elections fairly often in this country.",
+    "3": "You believe rich people do not often buy elections in this country.",
+    "4": "You believe rich people do not at all often buy elections in this country."
+  }
+},
+  "Q231": {
+  "question_text": "In your view, how often are voters threatened with violence at the polls in this country?",
+  "options": {
+    "1": "You believe voters are threatened with violence at the polls very often in this country.",
+    "2": "You believe voters are threatened with violence at the polls fairly often in this country.",
+    "3": "You believe voters are not often threatened with violence at the polls in this country.",
+    "4": "You believe voters are not at all often threatened with violence at the polls in this country."
+  }
+},
+"Q232": {
+  "question_text": "In your view, how often are voters offered a genuine choice in the elections in this country?",
+  "options": {
+    "1": "You believe voters are offered a genuine choice very often in the elections in this country.",
+    "2": "You believe voters are offered a genuine choice fairly often in the elections in this country.",
+    "3": "You believe voters are not often offered a genuine choice in the elections in this country.",
+    "4": "You believe voters are not at all often offered a genuine choice in the elections in this country."
+  }
+},
+"Q233": {
+  "question_text": "In your view, how often do women have equal opportunities to run for public office in this country?",
+  "options": {
+    "1": "You believe women have equal opportunities to run for public office very often in this country.",
+    "2": "You believe women have equal opportunities to run for public office fairly often in this country.",
+    "3": "You believe women do not often have equal opportunities to run for public office in this country.",
+    "4": "You believe women do not at all often have equal opportunities to run for public office in this country."
+  }
+},
+"Q234": {
+  "question_text": "How important would you say having honest elections is for you?",
+  "options": {
+    "1": "You believe having honest elections is very important for you.",
+    "2": "You believe having honest elections is rather important for you.",
+    "3": "You believe having honest elections is not very important for you.",
+    "4": "You believe having honest elections is not at all important for you."
+  }
+},
+"SDG1": {
+  "question_text": "How much would you say the political system in your country allows people like you to have a say in what the government does?",
+  "options": {
+    "1": "You believe the political system in your country allows people like you to have a great deal of say in what the government does.",
+    "2": "You believe the political system in your country allows people like you to have a lot of say in what the government does.",
+    "3": "You believe the political system in your country allows people like you to have some say in what the government does.",
+    "4": "You believe the political system in your country allows people like you to have very little say in what the government does.",
+    "5": "You believe the political system in your country allows people like you to have no say at all in what the government does."
+  }
+},
+"Q235": {
+  "question_text": "How do you feel about having a strong leader who does not have to bother with parliament and elections as a way of governing this country?",
+  "options": {
+    "1": "You feel it would be very good to have a strong leader who does not have to bother with parliament and elections as a way of governing this country.",
+    "2": "You feel it would be fairly good to have a strong leader who does not have to bother with parliament and elections as a way of governing this country.",
+    "3": "You feel it would be fairly bad to have a strong leader who does not have to bother with parliament and elections as a way of governing this country.",
+    "4": "You feel it would be very bad to have a strong leader who does not have to bother with parliament and elections as a way of governing this country."
+  }
+},
+"Q236": {
+  "question_text": "How do you feel about having experts, not government, make decisions according to what they think is best for the country?",
+  "options": {
+    "1": "You feel it would be very good to have experts, not government, make decisions according to what they think is best for the country.",
+    "2": "You feel it would be fairly good to have experts, not government, make decisions according to what they think is best for the country.",
+    "3": "You feel it would be fairly bad to have experts, not government, make decisions according to what they think is best for the country.",
+    "4": "You feel it would be very bad to have experts, not government, make decisions according to what they think is best for the country."
+  }
+},
+"Q237": {
+  "question_text": "How do you feel about having the army rule as a way of governing this country?",
+  "options": {
+    "1": "You feel it would be very good to have the army rule as a way of governing this country.",
+    "2": "You feel it would be fairly good to have the army rule as a way of governing this country.",
+    "3": "You feel it would be fairly bad to have the army rule as a way of governing this country.",
+    "4": "You feel it would be very bad to have the army rule as a way of governing this country."
+  }
+},
+"Q238": {
+  "question_text": "How do you feel about having a democratic political system as a way of governing this country?",
+  "options": {
+    "1": "You feel it would be very good to have a democratic political system as a way of governing this country.",
+    "2": "You feel it would be fairly good to have a democratic political system as a way of governing this country.",
+    "3": "You feel it would be fairly bad to have a democratic political system as a way of governing this country.",
+    "4": "You feel it would be very bad to have a democratic political system as a way of governing this country."
+  }
+},
+  "Q239": {
+  "question_text": "How do you feel about having a system governed by religious law in which there are no political parties or elections?",
+  "options": {
+    "1": "You feel it would be very good to have a system governed by religious law in which there are no political parties or elections.",
+    "2": "You feel it would be fairly good to have a system governed by religious law in which there are no political parties or elections.",
+    "3": "You feel it would be fairly bad to have a system governed by religious law in which there are no political parties or elections.",
+    "4": "You feel it would be very bad to have a system governed by religious law in which there are no political parties or elections."
+  }
+},
+  "Q240": {
+  "question_text": "In political matters, people often talk of 'the left' and 'the right.' How would you place your views on this scale, generally speaking?",
+  "options": {
+    "1": "You place your political views at position 1, which is the leftmost position on the political spectrum.",
+    "2": "You place your political views at position 2 on the left-right scale (leaning strongly left).",
+    "3": "You place your political views at position 3 on the left-right scale (leaning moderately left).",
+    "4": "You place your political views at position 4 on the left-right scale (leaning slightly left).",
+    "5": "You place your political views at position 5 on the left-right scale (center position).",
+    "6": "You place your political views at position 6 on the left-right scale (leaning slightly right).",
+    "7": "You place your political views at position 7 on the left-right scale (leaning moderately right).",
+    "8": "You place your political views at position 8 on the left-right scale (leaning strongly right).",
+    "9": "You place your political views at position 9 on the left-right scale (very strongly right).",
+    "10": "You place your political views at position 10, which is the rightmost position on the political spectrum."
+  }
+},
+"Q241": {
+  "question_text": "How essential is it as a characteristic of democracy that governments tax the rich and subsidize the poor?",
+  "options": {
+    "1": "You believe that governments taxing the rich and subsidizing the poor is not an essential characteristic of democracy (level 1 on a scale of 1-10).",
+    "2": "You believe that governments taxing the rich and subsidizing the poor is mostly not essential as a characteristic of democracy (level 2 on a scale of 1-10).",
+    "3": "You believe that governments taxing the rich and subsidizing the poor is somewhat not essential as a characteristic of democracy (level 3 on a scale of 1-10).",
+    "4": "You believe that governments taxing the rich and subsidizing the poor is slightly not essential as a characteristic of democracy (level 4 on a scale of 1-10).",
+    "5": "You are neutral about whether governments taxing the rich and subsidizing the poor is an essential characteristic of democracy (level 5 on a scale of 1-10).",
+    "6": "You believe that governments taxing the rich and subsidizing the poor is slightly essential as a characteristic of democracy (level 6 on a scale of 1-10).",
+    "7": "You believe that governments taxing the rich and subsidizing the poor is somewhat essential as a characteristic of democracy (level 7 on a scale of 1-10).",
+    "8": "You believe that governments taxing the rich and subsidizing the poor is mostly essential as a characteristic of democracy (level 8 on a scale of 1-10).",
+    "9": "You believe that governments taxing the rich and subsidizing the poor is very essential as a characteristic of democracy (level 9 on a scale of 1-10).",
+    "10": "You believe that governments taxing the rich and subsidizing the poor is an absolutely essential characteristic of democracy (level 10 on a scale of 1-10).",
+    "0": "You believe that governments taxing the rich and subsidizing the poor is against democracy."
+  }
+},
+"Q242": {
+  "question_text": "How essential is it as a characteristic of democracy that religious authorities ultimately interpret the laws?",
+  "options": {
+    "1": "You believe that religious authorities ultimately interpreting the laws is not an essential characteristic of democracy (level 1 on a scale of 1-10).",
+    "2": "You believe that religious authorities ultimately interpreting the laws is mostly not essential as a characteristic of democracy (level 2 on a scale of 1-10).",
+    "3": "You believe that religious authorities ultimately interpreting the laws is somewhat not essential as a characteristic of democracy (level 3 on a scale of 1-10).",
+    "4": "You believe that religious authorities ultimately interpreting the laws is slightly not essential as a characteristic of democracy (level 4 on a scale of 1-10).",
+    "5": "You are neutral about whether religious authorities ultimately interpreting the laws is an essential characteristic of democracy (level 5 on a scale of 1-10).",
+    "6": "You believe that religious authorities ultimately interpreting the laws is slightly essential as a characteristic of democracy (level 6 on a scale of 1-10).",
+    "7": "You believe that religious authorities ultimately interpreting the laws is somewhat essential as a characteristic of democracy (level 7 on a scale of 1-10).",
+    "8": "You believe that religious authorities ultimately interpreting the laws is mostly essential as a characteristic of democracy (level 8 on a scale of 1-10).",
+    "9": "You believe that religious authorities ultimately interpreting the laws is very essential as a characteristic of democracy (level 9 on a scale of 1-10).",
+    "10": "You believe that religious authorities ultimately interpreting the laws is an absolutely essential characteristic of democracy (level 10 on a scale of 1-10).",
+    "0": "You believe that religious authorities ultimately interpreting the laws is against democracy."
+  }
+},
+"Q243": {
+  "question_text": "How essential is it as a characteristic of democracy that people choose their leaders in free elections?",
+  "options": {
+    "1": "You believe that people choosing their leaders in free elections is not an essential characteristic of democracy (level 1 on a scale of 1-10).",
+    "2": "You believe that people choosing their leaders in free elections is mostly not essential as a characteristic of democracy (level 2 on a scale of 1-10).",
+    "3": "You believe that people choosing their leaders in free elections is somewhat not essential as a characteristic of democracy (level 3 on a scale of 1-10).",
+    "4": "You believe that people choosing their leaders in free elections is slightly not essential as a characteristic of democracy (level 4 on a scale of 1-10).",
+    "5": "You are neutral about whether people choosing their leaders in free elections is an essential characteristic of democracy (level 5 on a scale of 1-10).",
+    "6": "You believe that people choosing their leaders in free elections is slightly essential as a characteristic of democracy (level 6 on a scale of 1-10).",
+    "7": "You believe that people choosing their leaders in free elections is somewhat essential as a characteristic of democracy (level 7 on a scale of 1-10).",
+    "8": "You believe that people choosing their leaders in free elections is mostly essential as a characteristic of democracy (level 8 on a scale of 1-10).",
+    "9": "You believe that people choosing their leaders in free elections is very essential as a characteristic of democracy (level 9 on a scale of 1-10).",
+    "10": "You believe that people choosing their leaders in free elections is an absolutely essential characteristic of democracy (level 10 on a scale of 1-10).",
+    "0": "You believe that people choosing their leaders in free elections is against democracy."
+  }
+},
+"Q244": {
+  "question_text": "How essential is it as a characteristic of democracy that people receive state aid for unemployment?",
+  "options": {
+    "1": "You believe that people receiving state aid for unemployment is not an essential characteristic of democracy (level 1 on a scale of 1-10).",
+    "2": "You believe that people receiving state aid for unemployment is mostly not essential as a characteristic of democracy (level 2 on a scale of 1-10).",
+    "3": "You believe that people receiving state aid for unemployment is somewhat not essential as a characteristic of democracy (level 3 on a scale of 1-10).",
+    "4": "You believe that people receiving state aid for unemployment is slightly not essential as a characteristic of democracy (level 4 on a scale of 1-10).",
+    "5": "You are neutral about whether people receiving state aid for unemployment is an essential characteristic of democracy (level 5 on a scale of 1-10).",
+    "6": "You believe that people receiving state aid for unemployment is slightly essential as a characteristic of democracy (level 6 on a scale of 1-10).",
+    "7": "You believe that people receiving state aid for unemployment is somewhat essential as a characteristic of democracy (level 7 on a scale of 1-10).",
+    "8": "You believe that people receiving state aid for unemployment is mostly essential as a characteristic of democracy (level 8 on a scale of 1-10).",
+    "9": "You believe that people receiving state aid for unemployment is very essential as a characteristic of democracy (level 9 on a scale of 1-10).",
+    "10": "You believe that people receiving state aid for unemployment is an absolutely essential characteristic of democracy (level 10 on a scale of 1-10).",
+    "0": "You believe that people receiving state aid for unemployment is against democracy."
+  }
+},
+  "Q245": {
+  "question_text": "How essential is it as a characteristic of democracy that the army takes over when government is incompetent?",
+  "options": {
+    "1": "You believe that the army taking over when government is incompetent is not an essential characteristic of democracy (level 1 on a scale of 1-10).",
+    "2": "You believe that the army taking over when government is incompetent is mostly not essential as a characteristic of democracy (level 2 on a scale of 1-10).",
+    "3": "You believe that the army taking over when government is incompetent is somewhat not essential as a characteristic of democracy (level 3 on a scale of 1-10).",
+    "4": "You believe that the army taking over when government is incompetent is slightly not essential as a characteristic of democracy (level 4 on a scale of 1-10).",
+    "5": "You are neutral about whether the army taking over when government is incompetent is an essential characteristic of democracy (level 5 on a scale of 1-10).",
+    "6": "You believe that the army taking over when government is incompetent is slightly essential as a characteristic of democracy (level 6 on a scale of 1-10).",
+    "7": "You believe that the army taking over when government is incompetent is somewhat essential as a characteristic of democracy (level 7 on a scale of 1-10).",
+    "8": "You believe that the army taking over when government is incompetent is mostly essential as a characteristic of democracy (level 8 on a scale of 1-10).",
+    "9": "You believe that the army taking over when government is incompetent is very essential as a characteristic of democracy (level 9 on a scale of 1-10).",
+    "10": "You believe that the army taking over when government is incompetent is an absolutely essential characteristic of democracy (level 10 on a scale of 1-10).",
+    "0": "You believe that the army taking over when government is incompetent is against democracy."
+  }
+},
+"Q246": {
+  "question_text": "How essential is it as a characteristic of democracy that civil rights protect people from state oppression?",
+  "options": {
+    "1": "You believe that civil rights protecting people from state oppression is not an essential characteristic of democracy (level 1 on a scale of 1-10).",
+    "2": "You believe that civil rights protecting people from state oppression is mostly not essential as a characteristic of democracy (level 2 on a scale of 1-10).",
+    "3": "You believe that civil rights protecting people from state oppression is somewhat not essential as a characteristic of democracy (level 3 on a scale of 1-10).",
+    "4": "You believe that civil rights protecting people from state oppression is slightly not essential as a characteristic of democracy (level 4 on a scale of 1-10).",
+    "5": "You are neutral about whether civil rights protecting people from state oppression is an essential characteristic of democracy (level 5 on a scale of 1-10).",
+    "6": "You believe that civil rights protecting people from state oppression is slightly essential as a characteristic of democracy (level 6 on a scale of 1-10).",
+    "7": "You believe that civil rights protecting people from state oppression is somewhat essential as a characteristic of democracy (level 7 on a scale of 1-10).",
+    "8": "You believe that civil rights protecting people from state oppression is mostly essential as a characteristic of democracy (level 8 on a scale of 1-10).",
+    "9": "You believe that civil rights protecting people from state oppression is very essential as a characteristic of democracy (level 9 on a scale of 1-10).",
+    "10": "You believe that civil rights protecting people from state oppression is an absolutely essential characteristic of democracy (level 10 on a scale of 1-10).",
+    "0": "You believe that civil rights protecting people from state oppression is against democracy."
+  }
+},
+"Q247": {
+  "question_text": "How essential is it as a characteristic of democracy that the state makes people's incomes equal?",
+  "options": {
+    "1": "You believe that the state making people's incomes equal is not an essential characteristic of democracy (level 1 on a scale of 1-10).",
+    "2": "You believe that the state making people's incomes equal is mostly not essential as a characteristic of democracy (level 2 on a scale of 1-10).",
+    "3": "You believe that the state making people's incomes equal is somewhat not essential as a characteristic of democracy (level 3 on a scale of 1-10).",
+    "4": "You believe that the state making people's incomes equal is slightly not essential as a characteristic of democracy (level 4 on a scale of 1-10).",
+    "5": "You are neutral about whether the state making people's incomes equal is an essential characteristic of democracy (level 5 on a scale of 1-10).",
+    "6": "You believe that the state making people's incomes equal is slightly essential as a characteristic of democracy (level 6 on a scale of 1-10).",
+    "7": "You believe that the state making people's incomes equal is somewhat essential as a characteristic of democracy (level 7 on a scale of 1-10).",
+    "8": "You believe that the state making people's incomes equal is mostly essential as a characteristic of democracy (level 8 on a scale of 1-10).",
+    "9": "You believe that the state making people's incomes equal is very essential as a characteristic of democracy (level 9 on a scale of 1-10).",
+    "10": "You believe that the state making people's incomes equal is an absolutely essential characteristic of democracy (level 10 on a scale of 1-10).",
+    "0": "You believe that the state making people's incomes equal is against democracy."
+  }
+},
+"Q248": {
+  "question_text": "How essential is it as a characteristic of democracy that people obey their rulers?",
+  "options": {
+    "1": "You believe that people obeying their rulers is not an essential characteristic of democracy (level 1 on a scale of 1-10).",
+    "2": "You believe that people obeying their rulers is mostly not essential as a characteristic of democracy (level 2 on a scale of 1-10).",
+    "3": "You believe that people obeying their rulers is somewhat not essential as a characteristic of democracy (level 3 on a scale of 1-10).",
+    "4": "You believe that people obeying their rulers is slightly not essential as a characteristic of democracy (level 4 on a scale of 1-10).",
+    "5": "You are neutral about whether people obeying their rulers is an essential characteristic of democracy (level 5 on a scale of 1-10).",
+    "6": "You believe that people obeying their rulers is slightly essential as a characteristic of democracy (level 6 on a scale of 1-10).",
+    "7": "You believe that people obeying their rulers is somewhat essential as a characteristic of democracy (level 7 on a scale of 1-10).",
+    "8": "You believe that people obeying their rulers is mostly essential as a characteristic of democracy (level 8 on a scale of 1-10).",
+    "9": "You believe that people obeying their rulers is very essential as a characteristic of democracy (level 9 on a scale of 1-10).",
+    "10": "You believe that people obeying their rulers is an absolutely essential characteristic of democracy (level 10 on a scale of 1-10).",
+    "0": "You believe that people obeying their rulers is against democracy."
+  }
+},
+"Q249": {
+  "question_text": "How essential is it as a characteristic of democracy that women have the same rights as men?",
+  "options": {
+    "1": "You believe that women having the same rights as men is not an essential characteristic of democracy (level 1 on a scale of 1-10).",
+    "2": "You believe that women having the same rights as men is mostly not essential as a characteristic of democracy (level 2 on a scale of 1-10).",
+    "3": "You believe that women having the same rights as men is somewhat not essential as a characteristic of democracy (level 3 on a scale of 1-10).",
+    "4": "You believe that women having the same rights as men is slightly not essential as a characteristic of democracy (level 4 on a scale of 1-10).",
+    "5": "You are neutral about whether women having the same rights as men is an essential characteristic of democracy (level 5 on a scale of 1-10).",
+    "6": "You believe that women having the same rights as men is slightly essential as a characteristic of democracy (level 6 on a scale of 1-10).",
+    "7": "You believe that women having the same rights as men is somewhat essential as a characteristic of democracy (level 7 on a scale of 1-10).",
+    "8": "You believe that women having the same rights as men is mostly essential as a characteristic of democracy (level 8 on a scale of 1-10).",
+    "9": "You believe that women having the same rights as men is very essential as a characteristic of democracy (level 9 on a scale of 1-10).",
+    "10": "You believe that women having the same rights as men is an absolutely essential characteristic of democracy (level 10 on a scale of 1-10).",
+    "0": "You believe that women having the same rights as men is against democracy."
+  }
+},
+  "Q250": {
+  "question_text": "How important is it for you to live in a country that is governed democratically?",
+  "options": {
+    "1": "You believe living in a country that is governed democratically is not at all important to you (level 1 on a scale of 1-10).",
+    "2": "You believe living in a country that is governed democratically is of very low importance to you (level 2 on a scale of 1-10).",
+    "3": "You believe living in a country that is governed democratically is of low importance to you (level 3 on a scale of 1-10).",
+    "4": "You believe living in a country that is governed democratically is of somewhat low importance to you (level 4 on a scale of 1-10).",
+    "5": "You believe living in a country that is governed democratically is of moderate importance to you (level 5 on a scale of 1-10).",
+    "6": "You believe living in a country that is governed democratically is of somewhat high importance to you (level 6 on a scale of 1-10).",
+    "7": "You believe living in a country that is governed democratically is of high importance to you (level 7 on a scale of 1-10).",
+    "8": "You believe living in a country that is governed democratically is of very high importance to you (level 8 on a scale of 1-10).",
+    "9": "You believe living in a country that is governed democratically is of extremely high importance to you (level 9 on a scale of 1-10).",
+    "10": "You believe living in a country that is governed democratically is absolutely important to you (level 10 on a scale of 1-10)."
+  }
+},
+"Q251": {
+  "question_text": "How democratically is this country being governed today?",
+  "options": {
+    "1": "You believe your country is not at all democratic in how it is being governed today (level 1 on a scale of 1-10).",
+    "2": "You believe your country is very minimally democratic in how it is being governed today (level 2 on a scale of 1-10).",
+    "3": "You believe your country is minimally democratic in how it is being governed today (level 3 on a scale of 1-10).",
+    "4": "You believe your country is somewhat undemocratic in how it is being governed today (level 4 on a scale of 1-10).",
+    "5": "You believe your country is moderately democratic in how it is being governed today (level 5 on a scale of 1-10).",
+    "6": "You believe your country is somewhat democratic in how it is being governed today (level 6 on a scale of 1-10).",
+    "7": "You believe your country is fairly democratic in how it is being governed today (level 7 on a scale of 1-10).",
+    "8": "You believe your country is very democratic in how it is being governed today (level 8 on a scale of 1-10).",
+    "9": "You believe your country is extremely democratic in how it is being governed today (level 9 on a scale of 1-10).",
+    "10": "You believe your country is completely democratic in how it is being governed today (level 10 on a scale of 1-10)."
+  }
+},
+"Q252": {
+  "question_text": "How satisfied are you with how the political system is functioning in your country these days?",
+  "options": {
+    "1": "You are not satisfied at all with how the political system is functioning in your country these days (level 1 on a scale of 1-10).",
+    "2": "You are very dissatisfied with how the political system is functioning in your country these days (level 2 on a scale of 1-10).",
+    "3": "You are dissatisfied with how the political system is functioning in your country these days (level 3 on a scale of 1-10).",
+    "4": "You are somewhat dissatisfied with how the political system is functioning in your country these days (level 4 on a scale of 1-10).",
+    "5": "You are neither satisfied nor dissatisfied with how the political system is functioning in your country these days (level 5 on a scale of 1-10).",
+    "6": "You are somewhat satisfied with how the political system is functioning in your country these days (level 6 on a scale of 1-10).",
+    "7": "You are satisfied with how the political system is functioning in your country these days (level 7 on a scale of 1-10).",
+    "8": "You are very satisfied with how the political system is functioning in your country these days (level 8 on a scale of 1-10).",
+    "9": "You are extremely satisfied with how the political system is functioning in your country these days (level 9 on a scale of 1-10).",
+    "10": "You are completely satisfied with how the political system is functioning in your country these days (level 10 on a scale of 1-10)."
+  }
+},
+  "Q253": {
+  "question_text": "How much respect is there for individual human rights nowadays in this country?",
+  "options": {
+    "1": "You believe there is a great deal of respect for individual human rights nowadays in your country.",
+    "2": "You believe there is fairly much respect for individual human rights nowadays in your country.",
+    "3": "You believe there is not much respect for individual human rights nowadays in your country.",
+    "4": "You believe there is no respect at all for individual human rights nowadays in your country."
+  }
+},
+"Q254": {
+  "question_text": "How proud are you to be [country's nationality]?",
+  "options": {
+    "1": "You are very proud to be of your country's nationality.",
+    "2": "You are quite proud to be of your country's nationality.",
+    "3": "You are not very proud to be of your country's nationality.",
+    "4": "You are not at all proud to be of your country's nationality.",
+    "5": "You are not of your country's nationality."
+  }
+},
+"Q255": {
+  "question_text": "How close do you feel to your [village, town or city]?",
+  "options": {
+    "1": "You feel very close to your village, town or city.",
+    "2": "You feel close to your village, town or city.",
+    "3": "You do not feel very close to your village, town or city.",
+    "4": "You do not feel close at all to your village, town or city."
+  }
+},
+"Q256": {
+  "question_text": "How close do you feel to your [county, region, district]?",
+  "options": {
+    "1": "You feel very close to your county, region, or district.",
+    "2": "You feel close to your county, region, or district.",
+    "3": "You do not feel very close to your county, region, or district.",
+    "4": "You do not feel close at all to your county, region, or district."
+  }
+},
+"Q257": {
+  "question_text": "How close do you feel to your [country]?",
+  "options": {
+    "1": "You feel very close to your country.",
+    "2": "You feel close to your country.",
+    "3": "You do not feel very close to your country.",
+    "4": "You do not feel close at all to your country."
+  }
+},
+"Q258": {
+  "question_text": "How close do you feel to [continent; e.g., Europe, Asia, etc.]?",
+  "options": {
+    "1": "You feel very close to your continent.",
+    "2": "You feel close to your continent.",
+    "3": "You do not feel very close to your continent.",
+    "4": "You do not feel close at all to your continent."
+  }
+},
+"Q259": {
+  "question_text": "How close do you feel to the world?",
+  "options": {
+    "1": "You feel very close to the world.",
+    "2": "You feel close to the world.",
+    "3": "You do not feel very close to the world.",
+    "4": "You do not feel close at all to the world."
+  }
+},
+  "Q260": {
+    "question_text": "Respondent’s sex (Code respondent’s sex by observation, don’t ask about it!)",
+    "options": {
+      "1": "You are male.",
+      "2": "You are female."
+    }
+  },
+  "Q261": {
+    "question_text": "Can you tell me your year of birth, please?",
+    "options": {},
+    "template": "You were born in the year {value}."
+  },
+  "Q262": {
+    "question_text": "This means you are _______ years old (write in age in two digits).",
+    "options": {},
+    "template": "You are {value} years old."
+  },
+  "Q263": {
+    "question_text": "Were you born in this country or are you an immigrant to this country?",
+    "options": {
+      "1": "You were born in this country.",
+      "2": "You are an immigrant to this country."
+    }
+  },
+  "Q264": {
+    "question_text": "Is your mother an immigrant to this country or not?",
+    "options": {
+      "1": "Your mother was born in this country.",
+      "2": "Your mother is an immigrant to this country."
+    }
+  },
+  "Q265": {
+    "question_text": "Is your father an immigrant to this country or not?",
+    "options": {
+      "1": "Your father was born in this country.",
+      "2": "Your father is an immigrant to this country."
+    }
+  },
+  "Q266": {
+    "question_text": "In which country were you born?",
+    "options": {},
+    "template": "You were born in country {value}."
+  },
+  "Q267": {
+    "question_text": "In which country was your mother born?",
+    "options": {},
+    "template": "Your mother was born in country {value}."
+  },
+  "Q268": {
+    "question_text": "In which country was your father born?",
+    "options": {},
+    "template": "Your father was born in country {value}."
+  },
+  "Q269": {
+    "question_text": "Are you a citizen of this country?",
+    "options": {
+      "1": "You are a citizen of this country.",
+      "2": "You are not a citizen of this country."
+    }
+  },
+  "Q270": {
+    "question_text": "Including yourself, how many people – including children – live here regularly as members of this household?",
+    "options": {},
+    "template": "You live here regularly as members of this household with {value} persons including yourself."
+  },
+  "Q271": {
+    "question_text": "Do you live with your parents or your parents-in-law?",
+    "options": {
+      "1": "You do not live with your parents or in-laws.",
+      "2": "You live with your own parent(s).",
+      "3": "You live with your parent(s)-in-law.",
+      "4": "You live with both your own parent(s) and parent(s)-in-law."
+    }
+  },
+  "Q272": {
+    "question_text": "What language do you normally speak at home?",
+    "options": {
+      "1": "You normally speak option 1 at home.",
+      "2": "You normally speak option 2 at home.",
+      "3": "You normally speak option 3 at home.",
+      "4": "You normally speak option 4 at home.",
+      "5": "You normally speak option 5 at home."
+    }
+  },
+  "Q273": {
+    "question_text": "Are you currently (read out and code one answer only):",
+    "options": {
+      "1": "You are currently married.",
+      "2": "You are currently living together as married.",
+      "3": "You are currently divorced.",
+      "4": "You are currently separated.",
+      "5": "You are currently widowed.",
+      "6": "You are currently single."
+    }
+  },
+  "Q274": {
+    "question_text": "Do you have any children?",
+    "options": {},
+    "template": "You have {value} children."
+  },
+  "Q275": {
+    "question_text": "What is the highest educational level that you have attained?",
+    "options": {
+      "0": "You have no formal education or only early childhood education.",
+      "1": "You have completed primary education.",
+      "2": "You have completed lower secondary education.",
+      "3": "You have completed upper secondary education.",
+      "4": "You have completed post-secondary non-tertiary education.",
+      "5": "You have completed short-cycle tertiary education.",
+      "6": "You have a Bachelor's degree or equivalent.",
+      "7": "You have a Master's degree or equivalent.",
+      "8": "You have a Doctoral degree or equivalent."
+    }
+  },
+  "Q276": {
+    "question_text": "What is the highest educational level that your spouse has attained?",
+    "options": {
+      "0": "Your spouse has no formal education or only early childhood education.",
+      "1": "Your spouse has completed primary education.",
+      "2": "Your spouse has completed lower secondary education.",
+      "3": "Your spouse has completed upper secondary education.",
+      "4": "Your spouse has completed post-secondary non-tertiary education.",
+      "5": "Your spouse has completed short-cycle tertiary education.",
+      "6": "Your spouse has a Bachelor's degree or equivalent.",
+      "7": "Your spouse has a Master's degree or equivalent.",
+      "8": "Your spouse has a Doctoral degree or equivalent."
+    }
+  },
+  "Q277": {
+    "question_text": "What is the highest educational level that your mother has attained?",
+    "options": {
+      "0": "Your mother has no formal education or only early childhood education.",
+      "1": "Your mother has completed primary education.",
+      "2": "Your mother has completed lower secondary education.",
+      "3": "Your mother has completed upper secondary education.",
+      "4": "Your mother has completed post-secondary non-tertiary education.",
+      "5": "Your mother has completed short-cycle tertiary education.",
+      "6": "Your mother has a Bachelor's degree or equivalent.",
+      "7": "Your mother has a Master's degree or equivalent.",
+      "8": "Your mother has a Doctoral degree or equivalent."
+    }
+  },
+  "Q278": {
+    "question_text": "What is the highest educational level that your father has attained?",
+    "options": {
+      "0": "Your father has no formal education or only early childhood education.",
+      "1": "Your father has completed primary education.",
+      "2": "Your father has completed lower secondary education.",
+      "3": "Your father has completed upper secondary education.",
+      "4": "Your father has completed post-secondary non-tertiary education.",
+      "5": "Your father has completed short-cycle tertiary education.",
+      "6": "Your father has a Bachelor's degree or equivalent.",
+      "7": "Your father has a Master's degree or equivalent.",
+      "8": "Your father has a Doctoral degree or equivalent."
+    }
+  },
+  "Q279": {
+    "question_text": "Are you employed now or not? If yes, about how many hours a week? (If more than one job: only for the main job)",
+    "options": {
+      "1": "You are employed full-time (30 hours a week or more).",
+      "2": "You are employed part-time (less than 30 hours a week).",
+      "3": "You are self-employed.",
+      "4": "You are retired or receiving a pension.",
+      "5": "You are a housewife and not otherwise employed.",
+      "6": "You are a student.",
+      "7": "You are unemployed.",
+      "8": "You are in another situation."
+    }
+  },
+  "Q280": {
+    "question_text": "Is your spouse employed? In his/her LAST job was he/she employed (either full time or part time) or was he/she self-employed?",
+    "options": {
+      "1": "Your spouse is or was a full-time employee (30 hours a week or more).",
+      "2": "Your spouse is or was a part-time employee (less than 30 hours a week).",
+      "3": "Your spouse is or was self-employed.",
+      "4": "Your spouse is or was retired or receiving a pension.",
+      "5": "Your spouse is or was a housewife not otherwise employed.",
+      "6": "Your spouse is or was a student.",
+      "7": "Your spouse is or was unemployed.",
+      "8": "Your spouse is or was in another situation."
+    }
+  },
+  "Q281": {
+    "question_text": "To which of the following occupational groups do you belong? (Respondent's current or last job, if unemployed)",
+    "options": {
+      "1": "You belong to the professional and technical group (e.g., doctor, teacher, engineer, artist, accountant, nurse).",
+      "2": "You belong to the higher administrative group (e.g., banker, executive in big business, high government official, union official).",
+      "3": "You belong to the clerical group (e.g., secretary, clerk, office manager, civil servant, bookkeeper).",
+      "4": "You belong to the sales group (e.g., sales manager, shop owner, shop assistant, insurance agent, buyer).",
+      "5": "You belong to the service group (e.g., restaurant owner, police officer, waitress, barber, caretaker).",
+      "6": "You belong to the skilled worker group (e.g., foreman, motor mechanic, printer, seamstress, tool and die maker, electrician).",
+      "7": "You belong to the semi-skilled worker group (e.g., bricklayer, bus driver, cannery worker, carpenter, sheet metal worker, baker).",
+      "8": "You belong to the unskilled worker group (e.g., laborer, porter, unskilled factory worker, cleaner).",
+      "9": "You belong to the farm worker group (e.g., farm laborer, tractor driver).",
+      "10": "You belong to the farm proprietor or farm manager group.",
+      "0": "You have never had a job."
+    }
+  },
+  "Q282": {
+    "question_text": "To which of the following occupational groups does your spouse belong? (Spouse's current or last job, if unemployed)",
+    "options": {
+      "1": "Your spouse belongs to the professional and technical group (e.g., doctor, teacher, engineer, artist, accountant, nurse).",
+      "2": "Your spouse belongs to the higher administrative group (e.g., banker, executive in big business, high government official, union official).",
+      "3": "Your spouse belongs to the clerical group (e.g., secretary, clerk, office manager, civil servant, bookkeeper).",
+      "4": "Your spouse belongs to the sales group (e.g., sales manager, shop owner, shop assistant, insurance agent, buyer).",
+      "5": "Your spouse belongs to the service group (e.g., restaurant owner, police officer, waitress, barber, caretaker).",
+      "6": "Your spouse belongs to the skilled worker group (e.g., foreman, motor mechanic, printer, seamstress, tool and die maker, electrician).",
+      "7": "Your spouse belongs to the semi-skilled worker group (e.g., bricklayer, bus driver, cannery worker, carpenter, sheet metal worker, baker).",
+      "8": "Your spouse belongs to the unskilled worker group (e.g., laborer, porter, unskilled factory worker, cleaner).",
+      "9": "Your spouse belongs to the farm worker group (e.g., farm laborer, tractor driver).",
+      "10": "Your spouse belongs to the farm proprietor or farm manager group.",
+      "0": "Your spouse has never had a job."
+    }
+  },
+  "Q283": {
+    "question_text": "To which of the following occupational groups did your father belong when you were 14 years old?",
+    "options": {
+      "1": "Your father belonged to the professional and technical group (e.g., doctor, teacher, engineer, artist, accountant, nurse).",
+      "2": "Your father belonged to the higher administrative group (e.g., banker, executive in big business, high government official, union official).",
+      "3": "Your father belonged to the clerical group (e.g., secretary, clerk, office manager, civil servant, bookkeeper).",
+      "4": "Your father belonged to the sales group (e.g., sales manager, shop owner, shop assistant, insurance agent, buyer).",
+      "5": "Your father belonged to the service group (e.g., restaurant owner, police officer, waitress, barber, caretaker).",
+      "6": "Your father belonged to the skilled worker group (e.g., foreman, motor mechanic, printer, seamstress, tool and die maker, electrician).",
+      "7": "Your father belonged to the semi-skilled worker group (e.g., bricklayer, bus driver, cannery worker, carpenter, sheet metal worker, baker).",
+      "8": "Your father belonged to the unskilled worker group (e.g., laborer, porter, unskilled factory worker, cleaner).",
+      "9": "Your father belonged to the farm worker group (e.g., farm laborer, tractor driver).",
+      "10": "Your father belonged to the farm proprietor or farm manager group.",
+      "0": "Your father never had a job."
+    }
+  },
+  "Q284": {
+    "question_text": "Do you or did you work for the government or public institution, for private business or industry, or for a private non-profit organization? (If not currently employed, characterize your major work in the past)",
+    "options": {
+      "1": "You work or worked for a government or public institution.",
+      "2": "You work or worked for a private business or industry.",
+      "3": "You work or worked for a private non-profit organization."
+    }
+  },
+  "Q285": {
+    "question_text": "Are you the chief wage earner in your household?",
+    "options": {
+      "1": "You are the chief wage earner in your household.",
+      "2": "You are not the chief wage earner in your household."
+    }
+  },
+  "Q286": {
+    "question_text": "During the past year, did your family save money, just get by, spent some savings, or spent savings and borrowed money?",
+    "options": {
+      "1": "Your family saved money during the past year.",
+      "2": "Your family just got by during the past year.",
+      "3": "Your family spent some savings during the past year.",
+      "4": "Your family spent savings and borrowed money during the past year."
+    }
+  },
+  "Q287": {
+    "question_text": "Would you describe yourself as belonging to the upper class, upper middle class, lower middle class, working class, or lower class?",
+    "options": {
+      "1": "You describe yourself as belonging to the upper class.",
+      "2": "You describe yourself as belonging to the upper middle class.",
+      "3": "You describe yourself as belonging to the lower middle class.",
+      "4": "You describe yourself as belonging to the working class.",
+      "5": "You describe yourself as belonging to the lower class."
+    }
+  },
+"Q288": {
+    "question_text": "On this card is an income scale on which 1 indicates the lowest income group and 10 the highest income group in your country. Please, specify the appropriate number, counting all wages, salaries, pensions and other incomes that come in.",
+    "options": {
+      "1": "You belong to the lowest income group in your country.",
+      "2": "You belong to the second lowest income group in your country.",
+      "3": "You belong to the third lowest income group in your country.",
+      "4": "You belong to the fourth lowest income group in your country.",
+      "5": "You belong to the middle income group in your country.",
+      "6": "You belong to the sixth highest income group in your country.",
+      "7": "You belong to the seventh highest income group in your country.",
+      "8": "You belong to the eighth highest income group in your country.",
+      "9": "You belong to the second highest income group in your country.",
+      "10": "You belong to the highest income group in your country."
+    }
+  },
+  "Q289": {
+    "question_text": "Do you belong to a religion or religious denomination? If yes, which one?",
+    "options": {
+      "0": "You do not belong to any religious denomination.",
+      "1": "You belong to the Roman Catholic denomination.",
+      "2": "You belong to the Protestant denomination.",
+      "3": "You belong to the Orthodox denomination (Russian/Greek/etc.).",
+      "4": "You belong to the Jewish denomination.",
+      "5": "You belong to the Muslim denomination.",
+      "6": "You belong to the Hindu denomination.",
+      "7": "You belong to the Buddhist denomination.",
+      "8": "You belong to another religious denomination."
+    }
+  },
+  "Q290": {
+    "question_text": "Respondent’s ethnic group (Modify the list for your country/society)",
+    "options": {
+      "1": "You identify as White.",
+      "2": "You identify as Black.",
+      "3": "You identify as South Asian (Indian, Pakistani, etc.).",
+      "4": "You identify as East Asian (Chinese, Japanese, etc.).",
+      "5": "You identify as Arabic or Central Asian.",
+      "6": "You identify as another ethnic group."
+    }
+  }
+  }

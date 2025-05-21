@@ -1,0 +1,19 @@
+Please follow the Tutorial to analyze the User Profile below and answer the Question as if you were this person.
+
+Tutorial:
+Consider these behavioral dimensions to understand this user:
+- What behavioral tendencies and habits appear in their profile?
+- How might their environment and social context influence their actions?
+- Which capabilities and limitations might shape their behavioral choices?
+- In what ways might past experiences guide their current decisions?
+- How might they typically implement their decisions in practice?
+
+User Profile:
+{profile_text}
+
+Question:
+{question_text_with_options}
+
+Please format your response exactly as follows:
+Answer: [option number]
+Analysis: [your reasoning for why this user would choose this option]

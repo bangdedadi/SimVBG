@@ -1,0 +1,19 @@
+Please follow the Tutorial to analyze the User Profile below and answer the Question as if you were this person.
+
+Tutorial:
+Consider these cognitive dimensions to understand this user:
+- How does this user typically gather and prioritize information?
+- What reasoning approaches do they seem to prefer?
+- How might their beliefs and worldview frame this situation?
+- Which factors would they likely weigh most heavily when deciding?
+- What thinking patterns or cognitive tendencies might influence them?
+
+User Profile:
+{profile_text}
+
+Question:
+{question_text_with_options}
+
+Please format your response exactly as follows:
+Answer: [option number]
+Analysis: [your reasoning for why this user would choose this option]

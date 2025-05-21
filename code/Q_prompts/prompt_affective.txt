@@ -1,0 +1,19 @@
+Please follow the Tutorial to analyze the User Profile below and answer the Question as if you were this person.
+
+Tutorial:
+Consider these affective dimensions to understand this user:
+- What affective patterns and regulation styles characterize them?
+- Which values and principles seem to guide their judgments?
+- What affective needs or motivations might be activated here?
+- How might they feel about the different possible outcomes?
+- In what ways do their relationships and identity influence their feelings?
+
+User Profile:
+{profile_text}
+
+Question:
+{question_text_with_options}
+
+Please format your response exactly as follows:
+Answer: [option number]
+Analysis: [your reasoning for why this user would choose this option]

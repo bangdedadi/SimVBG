@@ -1,0 +1,2874 @@
+{
+    "Q1": {
+      "question_text": "Family: How important is it in your life?",
+      "options": {
+        "1": "Very important",
+        "2": "Rather important",
+        "3": "Not very important",
+        "4": "Not at all important"
+      }
+    },
+    "Q2": {
+      "question_text": "Friends: How important is it in your life?",
+      "options": {
+        "1": "Very important",
+        "2": "Rather important",
+        "3": "Not very important",
+        "4": "Not at all important"
+      }
+    },
+    "Q3": {
+      "question_text": "Leisure time: How important is it in your life?",
+      "options": {
+        "1": "Very important",
+        "2": "Rather important",
+        "3": "Not very important",
+        "4": "Not at all important"
+      }
+    },
+    "Q4": {
+      "question_text": "Politics: How important is it in your life?",
+      "options": {
+        "1": "Very important",
+        "2": "Rather important",
+        "3": "Not very important",
+        "4": "Not at all important"
+      }
+    },
+    "Q5": {
+      "question_text": "Work: How important is it in your life?",
+      "options": {
+        "1": "Very important",
+        "2": "Rather important",
+        "3": "Not very important",
+        "4": "Not at all important"
+      }
+    },
+    "Q6": {
+      "question_text": "Religion: How important is it in your life?",
+      "options": {
+        "1": "Very important",
+        "2": "Rather important",
+        "3": "Not very important",
+        "4": "Not at all important"
+      }
+    },
+    "Q7": {
+      "question_text": "Good manners: Do you consider it an important quality for children to learn?",
+      "options": {
+        "1": "Mentioned",
+        "2": "Not mentioned"
+      }
+    },
+    "Q8": {
+      "question_text": "Independence: Do you consider it an important quality for children to learn?",
+      "options": {
+        "1": "Mentioned",
+        "2": "Not mentioned"
+      }
+    },
+    "Q9": {
+      "question_text": "Hard work: Do you consider it an important quality for children to learn?",
+      "options": {
+        "1": "Mentioned",
+        "2": "Not mentioned"
+      }
+    },
+    "Q10": {
+      "question_text": "Feeling of responsibility: Do you consider it an important quality for children to learn?",
+      "options": {
+        "1": "Mentioned",
+        "2": "Not mentioned"
+      }
+    },
+    "Q11": {
+      "question_text": "Imagination: Do you consider it an important quality for children to learn?",
+      "options": {
+        "1": "Mentioned",
+        "2": "Not mentioned"
+      }
+    },
+    "Q12": {
+      "question_text": "Tolerance and respect for other people: Do you consider it an important quality for children to learn?",
+      "options": {
+        "1": "Mentioned",
+        "2": "Not mentioned"
+      }
+    },
+    "Q13": {
+      "question_text": "Thrift, saving money and things: Do you consider it an important quality for children to learn?",
+      "options": {
+        "1": "Mentioned",
+        "2": "Not mentioned"
+      }
+    },
+    "Q14": {
+      "question_text": "Determination, perseverance: Do you consider it an important quality for children to learn?",
+      "options": {
+        "1": "Mentioned",
+        "2": "Not mentioned"
+      }
+    },
+    "Q15": {
+      "question_text": "Religious faith: Do you consider it an important quality for children to learn?",
+      "options": {
+        "1": "Mentioned",
+        "2": "Not mentioned"
+      }
+    },
+    "Q16": {
+      "question_text": "Not being selfish (unselfishness): Do you consider it an important quality for children to learn?",
+      "options": {
+        "1": "Mentioned",
+        "2": "Not mentioned"
+      }
+    },
+    "Q17": {
+      "question_text": "Obedience: Do you consider it an important quality for children to learn?",
+      "options": {
+        "1": "Mentioned",
+        "2": "Not mentioned"
+      }
+    },
+    "Q18": {
+      "question_text": "Would you not like to have drug addicts as neighbors?",
+      "options": {
+        "1": "Mentioned",
+        "2": "Not mentioned"
+      }
+    },
+    "Q19": {
+      "question_text": "Would you not like to have people of a different race as neighbors?",
+      "options": {
+        "1": "Mentioned",
+        "2": "Not mentioned"
+      }
+    },
+    "Q20": {
+      "question_text": "Would you not like to have people who have AIDS as neighbors?",
+      "options": {
+        "1": "Mentioned",
+        "2": "Not mentioned"
+      }
+    },
+    "Q21": {
+      "question_text": "Would you not like to have immigrants/foreign workers as neighbors?",
+      "options": {
+        "1": "Mentioned",
+        "2": "Not mentioned"
+      }
+    },
+    "Q22": {
+      "question_text": "Would you not like to have homosexuals as neighbors?",
+      "options": {
+        "1": "Mentioned",
+        "2": "Not mentioned"
+      }
+    },
+    "Q23": {
+      "question_text": "Would you not like to have people of a different religion as neighbors?",
+      "options": {
+        "1": "Mentioned",
+        "2": "Not mentioned"
+      }
+    },
+    "Q24": {
+      "question_text": "Would you not like to have heavy drinkers as neighbors?",
+      "options": {
+        "1": "Mentioned",
+        "2": "Not mentioned"
+      }
+    },
+    "Q25": {
+      "question_text": "Would you not like to have unmarried couples living together as neighbors?",
+      "options": {
+        "1": "Mentioned",
+        "2": "Not mentioned"
+      }
+    },
+    "Q26": {
+      "question_text": "Would you not like to have people who speak a different language as neighbors?",
+      "options": {
+        "1": "Mentioned",
+        "2": "Not mentioned"
+      }
+    },
+    "Q27": {
+      "question_text": "One of my main goals in life has been to make my parents proud.",
+      "options": {
+        "1": "Strongly agree",
+        "2": "Agree",
+        "3": "Disagree",
+        "4": "Strongly disagree"
+      }
+    },
+    "Q28": {
+      "question_text": "When a mother works for pay, the children suffer.",
+      "options": {
+        "1": "Strongly agree",
+        "2": "Agree",
+        "3": "Disagree",
+        "4": "Strongly disagree"
+      }
+    },
+    "Q29": {
+      "question_text": "On the whole, men make better political leaders than women do.",
+      "options": {
+        "1": "Strongly agree",
+        "2": "Agree",
+        "3": "Disagree",
+        "4": "Strongly disagree"
+      }
+    },
+    "Q30": {
+      "question_text": "A university education is more important for a boy than for a girl.",
+      "options": {
+        "1": "Strongly agree",
+        "2": "Agree",
+        "3": "Disagree",
+        "4": "Strongly disagree"
+      }
+    },
+    "Q31": {
+      "question_text": "On the whole, men make better business executives than women do.",
+      "options": {
+        "1": "Strongly agree",
+        "2": "Agree",
+        "3": "Disagree",
+        "4": "Strongly disagree"
+      }
+    },
+    "Q32": {
+      "question_text": "Being a housewife is just as fulfilling as working for pay.",
+      "options": {
+        "1": "Strongly agree",
+        "2": "Agree",
+        "3": "Disagree",
+        "4": "Strongly disagree"
+      }
+    },
+    "Q33": {
+    "question_text": "When jobs are scarce, men should have more right to a job than women.",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    }
+  },
+  "Q34": {
+    "question_text": "When jobs are scarce, employers should give priority to people of this country over immigrants.",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    }
+  },
+  "Q35": {
+    "question_text": "If a woman earns more money than her husband, it's almost certain to cause problems.",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    }
+  },
+  "Q36": {
+    "question_text": "Homosexual couples are as good parents as other couples.",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    }
+  },
+  "Q37": {
+    "question_text": "It is a duty towards society to have children.",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    }
+  },
+  "Q38": {
+    "question_text": "Adult children have the duty to provide long-term care for their parents.",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    }
+  },
+  "Q39": {
+    "question_text": "People who don’t work turn lazy.",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    }
+  },
+  "Q40": {
+    "question_text": "Work is a duty towards society.",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    }
+  },
+  "Q41": {
+    "question_text": "Work should always come first, even if it means less spare time.",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Neither agree nor disagree",
+      "4": "Disagree",
+      "5": "Strongly disagree"
+    }
+  },
+  "Q42": {
+    "question_text": "Which of the following best describes your opinion about society? ",
+    "options": {
+      "1": "The entire way our society is organized must be radically changed by revolutionary action.",
+      "2": "Our society must be gradually improved by reforms.",
+      "3": "Our present society must be valiantly defended against all subversive forces."
+    }
+  },
+  "Q43": {
+    "question_text": "Would it be a good thing, bad thing, or don't you mind if there was less importance placed on work in our lives?",
+    "options": {
+      "1": "Good",
+      "2": "Don’t mind",
+      "3": "Bad"
+    }
+  },
+  "Q44": {
+    "question_text": "Would it be a good thing, bad thing, or don't you mind if there was more emphasis on the development of technology?",
+    "options": {
+      "1": "Good",
+      "2": "Don’t mind",
+      "3": "Bad"
+    }
+  },
+  "Q45": {
+    "question_text": "Would it be a good thing, bad thing, or don't you mind if there was greater respect for authority?",
+    "options": {
+      "1": "Good",
+      "2": "Don’t mind",
+      "3": "Bad"
+    }
+  },
+  "Q46": {
+    "question_text": "Taking all things together, would you say you are:",
+    "options": {
+      "1": "Very happy",
+      "2": "Rather happy",
+      "3": "Not very happy",
+      "4": "Not at all happy"
+    }
+  },
+  "Q47": {
+    "question_text": "All in all, how would you describe your state of health these days?",
+    "options": {
+      "1": "Very good",
+      "2": "Good",
+      "3": "Fair",
+      "4": "Poor",
+      "5": "Very poor"
+    }
+  },
+  "Q48": {
+    "question_text": "How much freedom of choice and control do you feel you have over the way your life turns out?",
+    "options": {
+      "1": "No choice at all",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5",
+      "6": "6",
+      "7": "7",
+      "8": "8",
+      "9": "9",
+      "10": "A great deal of choice"
+    }
+  },
+  "Q49": {
+    "question_text": "All things considered, how satisfied are you with your life as a whole these days?",
+    "options": {
+      "1": "Completely dissatisfied",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5",
+      "6": "6",
+      "7": "7",
+      "8": "8",
+      "9": "9",
+      "10": "Completely satisfied"
+    }
+  },
+  "Q50": {
+    "question_text": "How satisfied are you with the financial situation of your household?",
+    "options": {
+      "1": "Completely dissatisfied",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5",
+      "6": "6",
+      "7": "7",
+      "8": "8",
+      "9": "9",
+      "10": "Completely satisfied"
+    }
+  },
+  "Q51": {
+    "question_text": "In the last 12 months, how often have you or your family gone without enough food to eat?",
+    "options": {
+      "1": "Often",
+      "2": "Sometimes",
+      "3": "Rarely",
+      "4": "Never"
+    }
+  },
+  "Q52": {
+    "question_text": "In the last 12 months, how often have you or your family felt unsafe from crime in your home?",
+    "options": {
+      "1": "Often",
+      "2": "Sometimes",
+      "3": "Rarely",
+      "4": "Never"
+    }
+  },
+  "Q53": {
+    "question_text": "In the last 12 months, how often have you or your family gone without medicine or medical treatment that you needed?",
+    "options": {
+      "1": "Often",
+      "2": "Sometimes",
+      "3": "Rarely",
+      "4": "Never"
+    }
+  },
+  "Q54": {
+    "question_text": "In the last 12 months, how often have you or your family gone without a cash income?",
+    "options": {
+      "1": "Often",
+      "2": "Sometimes",
+      "3": "Rarely",
+      "4": "Never"
+    }
+  },
+  "Q55": {
+    "question_text": "In the last 12 months, how often have you or your family gone without a safe shelter over your head?",
+    "options": {
+      "1": "Often",
+      "2": "Sometimes",
+      "3": "Rarely",
+      "4": "Never"
+    }
+  },
+  "Q56": {
+    "question_text": "Comparing your standard of living with your parents' when they were about your age, would you say that you are:",
+    "options": {
+      "1": "Better off",
+      "2": "Worse off",
+      "3": "About the same"
+    }
+  },
+  "Q57": {
+    "question_text": "Generally speaking, would you say that most people can be trusted or that you need to be very careful in dealing with people?",
+    "options": {
+      "1": "Most people can be trusted",
+      "2": "Need to be very careful"
+    }
+  },
+  "Q58": {
+    "question_text": "How much do you trust your family?",
+    "options": {
+      "1": "Trust completely",
+      "2": "Trust somewhat",
+      "3": "Do not trust very much",
+      "4": "Do not trust at all"
+    }
+  },
+  "Q59": {
+    "question_text": "How much do you trust your neighborhood?",
+    "options": {
+      "1": "Trust completely",
+      "2": "Trust somewhat",
+      "3": "Do not trust very much",
+      "4": "Do not trust at all"
+    }
+  },
+  "Q60": {
+    "question_text": "How much do you trust people you know personally?",
+    "options": {
+      "1": "Trust completely",
+      "2": "Trust somewhat",
+      "3": "Do not trust very much",
+      "4": "Do not trust at all"
+    }
+  },
+  "Q61": {
+    "question_text": "How much do you trust people you meet for the first time?",
+    "options": {
+      "1": "Trust completely",
+      "2": "Trust somewhat",
+      "3": "Do not trust very much",
+      "4": "Do not trust at all"
+    }
+  },
+  "Q62": {
+    "question_text": "How much do you trust people of another religion?",
+    "options": {
+      "1": "Trust completely",
+      "2": "Trust somewhat",
+      "3": "Do not trust very much",
+      "4": "Do not trust at all"
+    }
+  },
+  "Q63": {
+    "question_text": "How much do you trust people of another nationality?",
+    "options": {
+      "1": "Trust completely",
+      "2": "Trust somewhat",
+      "3": "Do not trust very much",
+      "4": "Do not trust at all"
+    }
+  },
+  "Q64": {
+    "question_text": "How much confidence do you have in the churches?",
+    "options": {
+      "1": "A great deal",
+      "2": "Quite a lot",
+      "3": "Not very much",
+      "4": "None at all"
+    }
+  },
+  "Q65": {
+    "question_text": "How much confidence do you have in the armed forces?",
+    "options": {
+      "1": "A great deal",
+      "2": "Quite a lot",
+      "3": "Not very much",
+      "4": "None at all"
+    }
+  },
+  "Q66": {
+    "question_text": "How much confidence do you have in the press?",
+    "options": {
+      "1": "A great deal",
+      "2": "Quite a lot",
+      "3": "Not very much",
+      "4": "None at all"
+    }
+  },
+  "Q67": {
+    "question_text": "How much confidence do you have in television?",
+    "options": {
+      "1": "A great deal",
+      "2": "Quite a lot",
+      "3": "Not very much",
+      "4": "None at all"
+    }
+  },
+  "Q68": {
+    "question_text": "How much confidence do you have in labor unions?",
+    "options": {
+      "1": "A great deal",
+      "2": "Quite a lot",
+      "3": "Not very much",
+      "4": "None at all"
+    }
+  },
+  "Q69": {
+    "question_text": "How much confidence do you have in the police?",
+    "options": {
+      "1": "A great deal",
+      "2": "Quite a lot",
+      "3": "Not very much",
+      "4": "None at all"
+    }
+  },
+  "Q70": {
+    "question_text": "How much confidence do you have in the courts?",
+    "options": {
+      "1": "A great deal",
+      "2": "Quite a lot",
+      "3": "Not very much",
+      "4": "None at all"
+    }
+  },
+  "Q71": {
+    "question_text": "How much confidence do you have in the government?",
+    "options": {
+      "1": "A great deal",
+      "2": "Quite a lot",
+      "3": "Not very much",
+      "4": "None at all"
+    }
+  },
+  "Q72": {
+    "question_text": "How much confidence do you have in political parties?",
+    "options": {
+      "1": "A great deal",
+      "2": "Quite a lot",
+      "3": "Not very much",
+      "4": "None at all"
+    }
+  },
+  "Q73": {
+    "question_text": "How much confidence do you have in parliament?",
+    "options": {
+      "1": "A great deal",
+      "2": "Quite a lot",
+      "3": "Not very much",
+      "4": "None at all"
+    }
+  },
+  "Q74": {
+    "question_text": "How much confidence do you have in the civil service?",
+    "options": {
+      "1": "A great deal",
+      "2": "Quite a lot",
+      "3": "Not very much",
+      "4": "None at all"
+    }
+  },
+  "Q75": {
+    "question_text": "How much confidence do you have in universities?",
+    "options": {
+      "1": "A great deal",
+      "2": "Quite a lot",
+      "3": "Not very much",
+      "4": "None at all"
+    }
+  },
+  "Q76": {
+    "question_text": "How much confidence do you have in elections?",
+    "options": {
+      "1": "A great deal",
+      "2": "Quite a lot",
+      "3": "Not very much",
+      "4": "None at all"
+    }
+  },
+  "Q77": {
+    "question_text": "How much confidence do you have in major companies?",
+    "options": {
+      "1": "A great deal",
+      "2": "Quite a lot",
+      "3": "Not very much",
+      "4": "None at all"
+    }
+  },
+  "Q78": {
+    "question_text": "How much confidence do you have in banks?",
+    "options": {
+      "1": "A great deal",
+      "2": "Quite a lot",
+      "3": "Not very much",
+      "4": "None at all"
+    }
+  },
+  "Q79": {
+    "question_text": "How much confidence do you have in environmental organizations?",
+    "options": {
+      "1": "A great deal",
+      "2": "Quite a lot",
+      "3": "Not very much",
+      "4": "None at all"
+    }
+  },
+  "Q80": {
+    "question_text": "How much confidence do you have in women's organizations?",
+    "options": {
+      "1": "A great deal",
+      "2": "Quite a lot",
+      "3": "Not very much",
+      "4": "None at all"
+    }
+  },
+  "Q81": {
+    "question_text": "How much confidence do you have in charitable or humanitarian organizations?",
+    "options": {
+      "1": "A great deal",
+      "2": "Quite a lot",
+      "3": "Not very much",
+      "4": "None at all"
+    }
+  },
+  "Q82": {
+    "question_text": "How much confidence do you have in the European Union (or relevant regional organization)?",
+    "options": {
+      "1": "A great deal",
+      "2": "Quite a lot",
+      "3": "Not very much",
+      "4": "None at all"
+    }
+  },
+  "Q83": {
+    "question_text": "How much confidence do you have in the United Nations?",
+    "options": {
+      "1": "A great deal",
+      "2": "Quite a lot",
+      "3": "Not very much",
+      "4": "None at all"
+    }
+  },
+  "Q84": {
+    "question_text": "How much confidence do you have in the International Monetary Fund (IMF)?",
+    "options": {
+      "1": "A great deal",
+      "2": "Quite a lot",
+      "3": "Not very much",
+      "4": "None at all"
+    }
+  },
+  "Q85": {
+    "question_text": "How much confidence do you have in the International Criminal Court (ICC)?",
+    "options": {
+      "1": "A great deal",
+      "2": "Quite a lot",
+      "3": "Not very much",
+      "4": "None at all"
+    }
+  },
+  "Q86": {
+    "question_text": "How much confidence do you have in the North Atlantic Treaty Organization (NATO)?",
+    "options": {
+      "1": "A great deal",
+      "2": "Quite a lot",
+      "3": "Not very much",
+      "4": "None at all"
+    }
+  },
+  "Q87": {
+    "question_text": "How much confidence do you have in the World Bank?",
+    "options": {
+      "1": "A great deal",
+      "2": "Quite a lot",
+      "3": "Not very much",
+      "4": "None at all"
+    }
+  },
+  "Q88": {
+    "question_text": "How much confidence do you have in the World Health Organization (WHO)?",
+    "options": {
+      "1": "A great deal",
+      "2": "Quite a lot",
+      "3": "Not very much",
+      "4": "None at all"
+    }
+  },
+  "Q89": {
+    "question_text": "How much confidence do you have in the World Trade Organization (WTO)?",
+    "options": {
+      "1": "A great deal",
+      "2": "Quite a lot",
+      "3": "Not very much",
+      "4": "None at all"
+    }
+  },
+  "Q90": {
+    "question_text": "Should international organizations prioritize being effective or being democratic?",
+    "options": {
+      "1": "Being effective",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5",
+      "6": "6",
+      "7": "7",
+      "8": "8",
+      "9": "9",
+      "10": "Being democratic"
+    }
+  },
+  "Q91": {
+    "question_text": "Which one of the following is NOT a member of the United Nations Security Council?",
+    "options": {
+      "1": "France",
+      "2": "China",
+      "3": "India"
+    }
+  },
+  "Q92": {
+    "question_text": "Where are the headquarters of the International Monetary Fund (IMF) located?",
+    "options": {
+      "1": "Washington DC",
+      "2": "London",
+      "3": "Geneva"
+    }
+  },
+  "Q93": {
+    "question_text": "Which of the following problems does Amnesty International deal with?",
+    "options": {
+      "1": "Climate change",
+      "2": "Human rights",
+      "3": "Destruction of historic monuments"
+    }
+  },
+  "Q94": {
+  "question_text": "Are you an active member, an inactive member, or not a member of a church or religious organization?",
+  "options": {
+    "2": "Active member",
+    "1": "Inactive member",
+    "0": "Not a member"
+  }
+},
+"Q95": {
+  "question_text": "Are you an active member, an inactive member, or not a member of a labor union?",
+  "options": {
+    "2": "Active member",
+    "1": "Inactive member",
+    "0": "Not a member"
+  }
+},
+"Q96": {
+  "question_text": "Are you an active member, an inactive member, or not a member of a political party?",
+  "options": {
+    "2": "Active member",
+    "1": "Inactive member",
+    "0": "Not a member"
+  }
+},
+"Q97": {
+  "question_text": "Are you an active member, an inactive member, or not a member of an environmental organization?",
+  "options": {
+    "2": "Active member",
+    "1": "Inactive member",
+    "0": "Not a member"
+  }
+},
+"Q98": {
+  "question_text": "Are you an active member, an inactive member, or not a member of a sport or recreational organization?",
+  "options": {
+    "2": "Active member",
+    "1": "Inactive member",
+    "0": "Not a member"
+  }
+},
+"Q99": {
+  "question_text": "Are you an active member, an inactive member, or not a member of an art, music, or educational organization?",
+  "options": {
+    "2": "Active member",
+    "1": "Inactive member",
+    "0": "Not a member"
+  }
+},
+"Q100": {
+  "question_text": "Are you an active member, an inactive member, or not a member of a professional association?",
+  "options": {
+    "2": "Active member",
+    "1": "Inactive member",
+    "0": "Not a member"
+  }
+},
+"Q101": {
+  "question_text": "Are you an active member, an inactive member, or not a member of a humanitarian or charitable organization?",
+  "options": {
+    "2": "Active member",
+    "1": "Inactive member",
+    "0": "Not a member"
+  }
+},
+"Q102": {
+  "question_text": "Are you an active member, an inactive member, or not a member of a consumer organization?",
+  "options": {
+    "2": "Active member",
+    "1": "Inactive member",
+    "0": "Not a member"
+  }
+},
+"Q103": {
+  "question_text": "Are you an active member, an inactive member, or not a member of a self-help group or mutual aid group?",
+  "options": {
+    "2": "Active member",
+    "1": "Inactive member",
+    "0": "Not a member"
+  }
+},
+"Q104": {
+  "question_text": "Are you an active member, an inactive member, or not a member of a women’s group?",
+  "options": {
+    "2": "Active member",
+    "1": "Inactive member",
+    "0": "Not a member"
+  }
+},
+"Q105": {
+  "question_text": "Are you an active member, an inactive member, or not a member of any other type of organization?",
+  "options": {
+    "2": "Active member",
+    "1": "Inactive member",
+    "0": "Not a member"
+  }
+},
+  "Q106": {
+    "question_text": "How would you place your views on this scale? 1 means you agree completely with the statement on the left; 10 means you agree completely with the statement on the right; and if your views fall somewhere in between, you can choose any number in between.",
+    "options": {
+      "1": "Incomes should be made more equal",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5",
+      "6": "6",
+      "7": "7",
+      "8": "8",
+      "9": "9",
+      "10": "There should be greater incentives for individual effort"
+    }
+  },
+  "Q107": {
+    "question_text": "How would you place your views on this scale? 1 means you agree completely with the statement on the left; 10 means you agree completely with the statement on the right; and if your views fall somewhere in between, you can choose any number in between.",
+    "options": {
+      "1": "Private ownership of business and industry should be increased",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5",
+      "6": "6",
+      "7": "7",
+      "8": "8",
+      "9": "9",
+      "10": "Government ownership of business and industry should be increased"
+    }
+  },
+  "Q108": {
+    "question_text": "How would you place your views on this scale? 1 means you agree completely with the statement on the left; 10 means you agree completely with the statement on the right; and if your views fall somewhere in between, you can choose any number in between.",
+    "options": {
+      "1": "Government should take more responsibility to ensure that everyone is provided for",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5",
+      "6": "6",
+      "7": "7",
+      "8": "8",
+      "9": "9",
+      "10": "People should take more responsibility to provide for themselves"
+    }
+  },
+  "Q109": {
+    "question_text": "How would you place your views on this scale? 1 means you agree completely with the statement on the left; 10 means you agree completely with the statement on the right; and if your views fall somewhere in between, you can choose any number in between.",
+    "options": {
+      "1": "Competition is good",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5",
+      "6": "6",
+      "7": "7",
+      "8": "8",
+      "9": "9",
+      "10": "Competition is harmful"
+    }
+  },
+  "Q110": {
+    "question_text": "How would you place your views on this scale? 1 means you agree completely with the statement on the left; 10 means you agree completely with the statement on the right; and if your views fall somewhere in between, you can choose any number in between.",
+    "options": {
+      "1": "In the long run, hard work usually brings a better life",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5",
+      "6": "6",
+      "7": "7",
+      "8": "8",
+      "9": "9",
+      "10": "Hard work doesn’t generally bring success—it’s more a matter of luck and connections"
+    }
+  },
+  "Q111": {
+    "question_text": "Which of the following comes closer to your view? (1 = Protecting the environment should be given priority, even if it causes slower economic growth and some loss of jobs, 2 = Economic growth and creating jobs should be the top priority, even if the environment suffers to some extent)",
+    "options": {
+      "1": "Protecting the environment should be given priority",
+      "2": "Economic growth and creating jobs should be the top priority",
+      "3": "Other answer (volunteered only)"
+    }
+  },
+  "Q112": {
+    "question_text": "How would you place your views on corruption in your country? (1 = There is no corruption in my country, 10 = There is abundant corruption in my country)",
+    "options": {
+      "1": "There is no corruption in my country",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5",
+      "6": "6",
+      "7": "7",
+      "8": "8",
+      "9": "9",
+      "10": "There is abundant corruption in my country"
+    }
+  },
+  "Q113": {
+    "question_text": "How many state authorities do you believe are involved in corruption?",
+    "options": {
+      "1": "None of them",
+      "2": "Few of them",
+      "3": "Most of them",
+      "4": "All of them"
+    }
+  },
+  "Q114": {
+    "question_text": "How many business executives do you believe are involved in corruption?",
+    "options": {
+      "1": "None of them",
+      "2": "Few of them",
+      "3": "Most of them",
+      "4": "All of them"
+    }
+  },
+  "Q115": {
+    "question_text": "How many local authorities do you believe are involved in corruption?",
+    "options": {
+      "1": "None of them",
+      "2": "Few of them",
+      "3": "Most of them",
+      "4": "All of them"
+    }
+  },
+  "Q116": {
+    "question_text": "How many civil service providers do you believe are involved in corruption?",
+    "options": {
+      "1": "None of them",
+      "2": "Few of them",
+      "3": "Most of them",
+      "4": "All of them"
+    }
+  },
+  "Q117": {
+    "question_text": "How many journalists and media people do you believe are involved in corruption?",
+    "options": {
+      "1": "None of them",
+      "2": "Few of them",
+      "3": "Most of them",
+      "4": "All of them"
+    }
+  },
+  "Q118": {
+    "question_text": "We want to know about your experience with local officials and service providers, like police officers, lawyers, doctors, teachers and civil servants in your community. How often do you think ordinary people like yourself or people from your neighbourhood have to pay a bribe, give a gift or do a favor to these people in order to get the services you need? Does it happen never, rarely, frequently or always?",
+    "options": {
+      "1": "Never",
+      "2": "Rarely",
+      "3": "Frequently",
+      "4": "Always"
+    }
+  },
+  "Q119": {
+    "question_text": "Can you tell me how strongly you agree or disagree with the following statement: “on the whole, women are less corrupt than men”?",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Disagree",
+      "4": "Strongly disagree",
+      "0": "Hard to say"
+    }
+  },
+  "Q120": {
+    "question_text": "How high is the risk in this country to be held accountable for giving or receiving a bribe, gift or favor in return for public service? To indicate your opinion, use a 10-point scale where “1” means “no risk at all” and “10” means “very high risk”.",
+    "options": {
+      "1": "No risk at all",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5",
+      "6": "6",
+      "7": "7",
+      "8": "8",
+      "9": "9",
+      "10": "Very high risk"
+    }
+  },
+  "Q121": {
+    "question_text": "Now we would like to know your opinion about the people from other countries who come to live in [your country] - the immigrants. How would you evaluate the impact of these people on the development of [your country]?",
+    "options": {
+      "1": "Very good",
+      "2": "Quite good",
+      "3": "Neither good, nor bad",
+      "4": "Quite bad",
+      "5": "Very bad"
+    }
+  },
+  "Q122": {
+    "question_text": "Do you agree that immigration fills important job vacancies?",
+    "options": {
+      "2": "Agree",
+      "1": "Hard to say",
+      "0": "Disagree"
+    }
+  },
+  "Q123": {
+    "question_text": "Do you agree that immigration strengthens cultural diversity?",
+    "options": {
+      "2": "Agree",
+      "1": "Hard to say",
+      "0": "Disagree"
+    }
+  },
+  "Q124": {
+    "question_text": "Do you agree that immigration increases the crime rate?",
+    "options": {
+      "2": "Agree",
+      "1": "Hard to say",
+      "0": "Disagree"
+    }
+  },
+  "Q125": {
+    "question_text": "Do you agree that immigration gives asylum to political refugees who are persecuted elsewhere?",
+    "options": {
+      "2": "Agree",
+      "1": "Hard to say",
+      "0": "Disagree"
+    }
+  },
+  "Q126": {
+    "question_text": "Do you agree that immigration increases the risks of terrorism?",
+    "options": {
+      "2": "Agree",
+      "1": "Hard to say",
+      "0": "Disagree"
+    }
+  },
+  "Q127": {
+    "question_text": "Do you agree that immigration offers people from poor countries a better living?",
+    "options": {
+      "2": "Agree",
+      "1": "Hard to say",
+      "0": "Disagree"
+    }
+  },
+  "Q128": {
+    "question_text": "Do you agree that immigration increases unemployment?",
+    "options": {
+      "2": "Agree",
+      "1": "Hard to say",
+      "0": "Disagree"
+    }
+  },
+  "Q129": {
+    "question_text": "Do you agree that immigration leads to social conflict?",
+    "options": {
+      "2": "Agree",
+      "1": "Hard to say",
+      "0": "Disagree"
+    }
+  },
+  "Q130": {
+    "question_text": "What should the government do about people from other countries coming here to work?",
+    "options": {
+      "1": "Let anyone come who wants to",
+      "2": "Let people come as long as there are jobs available",
+      "3": "Place strict limits on the number of foreigners who can come here",
+      "4": "Prohibit people coming here from other countries"
+    }
+  },
+  "Q131": {
+    "question_text": "How secure do you feel these days?",
+    "options": {
+      "1": "Very secure",
+      "2": "Quite secure",
+      "3": "Not very secure",
+      "4": "Not at all secure"
+    }
+  },
+  "Q132": {
+    "question_text": "How frequently do robberies occur in your neighborhood?",
+    "options": {
+      "1": "Very frequently",
+      "2": "Quite frequently",
+      "3": "Not frequently",
+      "4": "Not at all frequently"
+    }
+  },
+  "Q133": {
+    "question_text": "How frequently does alcohol consumption in the streets occur in your neighborhood?",
+    "options": {
+      "1": "Very frequently",
+      "2": "Quite frequently",
+      "3": "Not frequently",
+      "4": "Not at all frequently"
+    }
+  },
+  "Q134": {
+    "question_text": "How frequently do police or military interfere with people’s private life in your neighborhood?",
+    "options": {
+      "1": "Very frequently",
+      "2": "Quite frequently",
+      "3": "Not frequently",
+      "4": "Not at all frequently"
+    }
+  },
+  "Q135": {
+    "question_text": "How frequently does racist behavior occur in your neighborhood?",
+    "options": {
+      "1": "Very frequently",
+      "2": "Quite frequently",
+      "3": "Not frequently",
+      "4": "Not at all frequently"
+    }
+  },
+  "Q136": {
+    "question_text": "How frequently does drug sale occur in the streets of your neighborhood?",
+    "options": {
+      "1": "Very frequently",
+      "2": "Quite frequently",
+      "3": "Not frequently",
+      "4": "Not at all frequently"
+    }
+  },
+  "Q137": {
+    "question_text": "How frequently does street violence and fights occur in your neighborhood?",
+    "options": {
+      "1": "Very frequently",
+      "2": "Quite frequently",
+      "3": "Not frequently",
+      "4": "Not at all frequently"
+    }
+  },
+  "Q138": {
+    "question_text": "How frequently does sexual harassment occur in your neighborhood?",
+    "options": {
+      "1": "Very frequently",
+      "2": "Quite frequently",
+      "3": "Not frequently",
+      "4": "Not at all frequently"
+    }
+  },
+  "Q139": {
+    "question_text": "Have you not carried much money for reasons of security?",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    }
+  },
+  "Q140": {
+    "question_text": "Have you preferred not to go out at night for reasons of security?",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    }
+  },
+  "Q141": {
+    "question_text": "Have you carried a knife, gun or other weapon for reasons of security?",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    }
+  },
+  "Q142": {
+    "question_text": "To what degree are you worried about losing your job or not finding a job?",
+    "options": {
+      "1": "Very much",
+      "2": "A good deal",
+      "3": "Not much",
+      "4": "Not at all"
+    }
+  },
+  "Q143": {
+    "question_text": "To what degree are you worried about not being able to give your children a good education?",
+    "options": {
+      "1": "Very much",
+      "2": "A good deal",
+      "3": "Not much",
+      "4": "Not at all"
+    }
+  },
+  "Q144": {
+    "question_text": "Have you been the victim of a crime during the past year?",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    }
+  },
+  "Q145": {
+    "question_text": "Has someone in your family been the victim of a crime during the past year?",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    }
+  },
+  "Q146": {
+    "question_text": "To what degree are you worried about a war involving your country?",
+    "options": {
+      "1": "Very much",
+      "2": "A good deal",
+      "3": "Not much",
+      "4": "Not at all"
+    }
+  },
+  "Q147": {
+    "question_text": "To what degree are you worried about a terrorist attack?",
+    "options": {
+      "1": "Very much",
+      "2": "A good deal",
+      "3": "Not much",
+      "4": "Not at all"
+    }
+  },
+  "Q148": {
+    "question_text": "To what degree are you worried about a civil war?",
+    "options": {
+      "1": "Very much",
+      "2": "A good deal",
+      "3": "Not much",
+      "4": "Not at all"
+    }
+  },
+  "Q149": {
+    "question_text": "If you had to choose between freedom and equality, which one would you consider more important?",
+    "options": {
+      "1": "Freedom",
+      "2": "Equality"
+    }
+  },
+  "Q150": {
+    "question_text": "If you had to choose between freedom and security, which one would you consider more important?",
+    "options": {
+      "1": "Freedom",
+      "2": "Security"
+    }
+  },
+  "Q151": {
+    "question_text": "Of course, we all hope that there will not be another war, but if it were to come to that, would you be willing to fight for your country?",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    }
+  },
+  "Q152": {
+    "question_text": "Which of the following goals should be the most important for the country over the next ten years?",
+    "options": {
+      "1": "A high level of economic growth",
+      "2": "Making sure this country has strong defense forces",
+      "3": "Seeing that people have more say about how things are done at their jobs and in their communities",
+      "4": "Trying to make our cities and countryside more beautiful"
+    }
+  },
+  "Q153": {
+    "question_text": "Which of the following goals should be the second most important for the country over the next ten years?",
+    "options": {
+      "1": "A high level of economic growth",
+      "2": "Making sure this country has strong defense forces",
+      "3": "Seeing that people have more say about how things are done at their jobs and in their communities",
+      "4": "Trying to make our cities and countryside more beautiful"
+    }
+  },
+  "Q154": {
+    "question_text": "Which of the following is most important for the country?",
+    "options": {
+      "1": "Maintaining order in the nation",
+      "2": "Giving people more say in important government decisions",
+      "3": "Fighting rising prices",
+      "4": "Protecting freedom of speech"
+    }
+  },
+  "Q155": {
+    "question_text": "Which of the following is the second most important for the country?",
+    "options": {
+      "1": "Maintaining order in the nation",
+      "2": "Giving people more say in important government decisions",
+      "3": "Fighting rising prices",
+      "4": "Protecting freedom of speech"
+    }
+  },
+  "Q156": {
+    "question_text": "In your opinion, which of the following is most important?",
+    "options": {
+      "1": "A stable economy",
+      "2": "Progress toward a less impersonal and more humane society",
+      "3": "Progress toward a society in which ideas count more than money",
+      "4": "The fight against crime"
+    }
+  },
+  "Q157": {
+    "question_text": "In your opinion, which of the following is the second most important?",
+    "options": {
+      "1": "A stable economy",
+      "2": "Progress toward a less impersonal and more humane society",
+      "3": "Progress toward a society in which ideas count more than money",
+      "4": "The fight against crime"
+    }
+  },
+  "Q158": {
+    "question_text": "Science and technology are making our lives healthier, easier, and more comfortable.",
+    "options": {
+      "1": "Completely disagree",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5",
+      "6": "6",
+      "7": "7",
+      "8": "8",
+      "9": "9",
+      "10": "Completely agree"
+    }
+  },
+  "Q159": {
+    "question_text": "Because of science and technology, there will be more opportunities for the next generation.",
+    "options": {
+      "1": "Completely disagree",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5",
+      "6": "6",
+      "7": "7",
+      "8": "8",
+      "9": "9",
+      "10": "Completely agree"
+    }
+  },
+  "Q160": {
+    "question_text": "We depend too much on science and not enough on faith.",
+    "options": {
+      "1": "Completely disagree",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5",
+      "6": "6",
+      "7": "7",
+      "8": "8",
+      "9": "9",
+      "10": "Completely agree"
+    }
+  },
+  "Q161": {
+    "question_text": "One of the bad effects of science is that it breaks down people’s ideas of right and wrong.",
+    "options": {
+      "1": "Completely disagree",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5",
+      "6": "6",
+      "7": "7",
+      "8": "8",
+      "9": "9",
+      "10": "Completely agree"
+    }
+  },
+  "Q162": {
+    "question_text": "It is not important for me to know about science in my daily life.",
+    "options": {
+      "1": "Completely disagree",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5",
+      "6": "6",
+      "7": "7",
+      "8": "8",
+      "9": "9",
+      "10": "Completely agree"
+    }
+  },
+  "Q163": {
+    "question_text": "All things considered, would you say that the world is better off or worse off because of science and technology?",
+    "options": {
+      "1": "A lot worse off",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5",
+      "6": "6",
+      "7": "7",
+      "8": "8",
+      "9": "9",
+      "10": "A lot better off"
+    }
+  },
+  "Q164": {
+    "question_text": "How important is God in your life?",
+    "options": {
+      "1": "Not at all important",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5",
+      "6": "6",
+      "7": "7",
+      "8": "8",
+      "9": "9",
+      "10": "Very important"
+    }
+  },
+  "Q165": {
+    "question_text": "Do you believe in God?",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    }
+  },
+  "Q166": {
+    "question_text": "Do you believe in life after death?",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    }
+  },
+  "Q167": {
+    "question_text": "Do you believe in hell?",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    }
+  },
+  "Q168": {
+    "question_text": "Do you believe in heaven?",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    }
+  },
+  "Q169": {
+    "question_text": "Whenever science and religion conflict, religion is always right.",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Disagree",
+      "4": "Strongly disagree"
+    }
+  },
+  "Q170": {
+    "question_text": "The only acceptable religion is my religion.",
+    "options": {
+      "1": "Strongly agree",
+      "2": "Agree",
+      "3": "Disagree",
+      "4": "Strongly disagree"
+    }
+  },
+  "Q171": {
+    "question_text": "Apart from weddings and funerals, about how often do you attend religious services these days?",
+    "options": {
+      "1": "More than once a week",
+      "2": "Once a week",
+      "3": "Once a month",
+      "4": "Only on special holy days",
+      "5": "Once a year",
+      "6": "Less often",
+      "7": "Never, practically never"
+    }
+  },
+  "Q172": {
+    "question_text": "Apart from weddings and funerals, about how often do you pray?",
+    "options": {
+      "1": "Several times a day",
+      "2": "Once a day",
+      "3": "Several times each week",
+      "4": "Only when attending religious services",
+      "5": "Only on special holy days",
+      "6": "Once a year",
+      "7": "Less often",
+      "8": "Never, practically never"
+    }
+  },
+  "Q173": {
+    "question_text": "Independently of whether you attend religious services or not, would you say you are:",
+    "options": {
+      "1": "A religious person",
+      "2": "Not a religious person",
+      "3": "An atheist"
+    }
+  },
+  "Q174": {
+    "question_text": "With which of the following statements do you agree most? The basic meaning of religion is:",
+    "options": {
+      "1": "To follow religious norms and ceremonies",
+      "2": "To do good to other people"
+    }
+  },
+  "Q175": {
+    "question_text": "With which of the following statements do you agree most? The basic meaning of religion is:",
+    "options": {
+      "1": "To make sense of life after death",
+      "2": "To make sense of life in this world"
+    }
+  },
+  "Q176": {
+    "question_text": "How much do you agree or disagree with the statement that nowadays one often has trouble deciding which moral rules are the right ones to follow?",
+    "options": {
+      "1": "Completely agree",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5",
+      "6": "6",
+      "7": "7",
+      "8": "8",
+      "9": "9",
+      "10": "Completely disagree"
+    }
+  },
+  "Q177": {
+    "question_text": "Please tell me whether you think claiming government benefits to which you are not entitled can always be justified, never be justified, or something in between.",
+    "options": {
+      "1": "Never justified",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5",
+      "6": "6",
+      "7": "7",
+      "8": "8",
+      "9": "9",
+      "10": "Always justified"
+    }
+  },
+  "Q178": {
+    "question_text": "Please tell me whether you think avoiding a fare on public transport can always be justified, never be justified, or something in between.",
+    "options": {
+      "1": "Never justified",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5",
+      "6": "6",
+      "7": "7",
+      "8": "8",
+      "9": "9",
+      "10": "Always justified"
+    }
+  },
+  "Q179": {
+    "question_text": "Please tell me whether you think stealing property can always be justified, never be justified, or something in between.",
+    "options": {
+      "1": "Never justified",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5",
+      "6": "6",
+      "7": "7",
+      "8": "8",
+      "9": "9",
+      "10": "Always justified"
+    }
+  },
+  "Q180": {
+    "question_text": "Please tell me whether you think cheating on taxes if you have a chance can always be justified, never be justified, or something in between.",
+    "options": {
+      "1": "Never justified",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5",
+      "6": "6",
+      "7": "7",
+      "8": "8",
+      "9": "9",
+      "10": "Always justified"
+    }
+  },
+  "Q181": {
+    "question_text": "Please tell me whether you think someone accepting a bribe in the course of their duties can always be justified, never be justified, or something in between.",
+    "options": {
+      "1": "Never justified",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5",
+      "6": "6",
+      "7": "7",
+      "8": "8",
+      "9": "9",
+      "10": "Always justified"
+    }
+  },
+  "Q182": {
+    "question_text": "Please tell me whether you think homosexuality can always be justified, never be justified, or something in between.",
+    "options": {
+      "1": "Never justified",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5",
+      "6": "6",
+      "7": "7",
+      "8": "8",
+      "9": "9",
+      "10": "Always justified"
+    }
+  },
+  "Q183": {
+    "question_text": "Please tell me whether you think prostitution can always be justified, never be justified, or something in between.",
+    "options": {
+      "1": "Never justified",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5",
+      "6": "6",
+      "7": "7",
+      "8": "8",
+      "9": "9",
+      "10": "Always justified"
+    }
+  },
+  "Q184": {
+    "question_text": "Please tell me whether you think abortion can always be justified, never be justified, or something in between.",
+    "options": {
+      "1": "Never justified",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5",
+      "6": "6",
+      "7": "7",
+      "8": "8",
+      "9": "9",
+      "10": "Always justified"
+    }
+  },
+  "Q185": {
+    "question_text": "Please tell me whether you think divorce can always be justified, never be justified, or something in between.",
+    "options": {
+      "1": "Never justified",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5",
+      "6": "6",
+      "7": "7",
+      "8": "8",
+      "9": "9",
+      "10": "Always justified"
+    }
+  },
+  "Q186": {
+    "question_text": "Please tell me whether you think sex before marriage can always be justified, never be justified, or something in between.",
+    "options": {
+      "1": "Never justified",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5",
+      "6": "6",
+      "7": "7",
+      "8": "8",
+      "9": "9",
+      "10": "Always justified"
+    }
+  },
+  "Q187": {
+    "question_text": "Please tell me whether you think suicide can always be justified, never be justified, or something in between.",
+    "options": {
+      "1": "Never justified",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5",
+      "6": "6",
+      "7": "7",
+      "8": "8",
+      "9": "9",
+      "10": "Always justified"
+    }
+  },
+  "Q188": {
+    "question_text": "Please tell me whether you think euthanasia can always be justified, never be justified, or something in between.",
+    "options": {
+      "1": "Never justified",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5",
+      "6": "6",
+      "7": "7",
+      "8": "8",
+      "9": "9",
+      "10": "Always justified"
+    }
+  },
+  "Q189": {
+    "question_text": "Please tell me whether you think a man beating his wife can always be justified, never be justified, or something in between.",
+    "options": {
+      "1": "Never justified",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5",
+      "6": "6",
+      "7": "7",
+      "8": "8",
+      "9": "9",
+      "10": "Always justified"
+    }
+  },
+  "Q190": {
+    "question_text": "Please tell me whether you think parents beating children can always be justified, never be justified, or something in between.",
+    "options": {
+      "1": "Never justified",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5",
+      "6": "6",
+      "7": "7",
+      "8": "8",
+      "9": "9",
+      "10": "Always justified"
+    }
+  },
+  "Q191": {
+    "question_text": "Please tell me whether you think violence against other people can always be justified, never be justified, or something in between.",
+    "options": {
+      "1": "Never justified",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5",
+      "6": "6",
+      "7": "7",
+      "8": "8",
+      "9": "9",
+      "10": "Always justified"
+    }
+  },
+  "Q192": {
+    "question_text": "Please tell me whether you think terrorism as a political, ideological or religious mean can always be justified, never be justified, or something in between.",
+    "options": {
+      "1": "Never justified",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5",
+      "6": "6",
+      "7": "7",
+      "8": "8",
+      "9": "9",
+      "10": "Always justified"
+    }
+  },
+  "Q193": {
+    "question_text": "Please tell me whether you think having casual sex can always be justified, never be justified, or something in between.",
+    "options": {
+      "1": "Never justified",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5",
+      "6": "6",
+      "7": "7",
+      "8": "8",
+      "9": "9",
+      "10": "Always justified"
+    }
+  },
+  "Q194": {
+    "question_text": "Please tell me whether you think political violence can always be justified, never be justified, or something in between.",
+    "options": {
+      "1": "Never justified",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5",
+      "6": "6",
+      "7": "7",
+      "8": "8",
+      "9": "9",
+      "10": "Always justified"
+    }
+  },
+  "Q195": {
+    "question_text": "Please tell me whether you think the death penalty can always be justified, never be justified, or something in between.",
+    "options": {
+      "1": "Never justified",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5",
+      "6": "6",
+      "7": "7",
+      "8": "8",
+      "9": "9",
+      "10": "Always justified"
+    }
+  },
+  "Q196": {
+    "question_text": "Do you think the government should have the right to keep people under video surveillance in public areas?",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    }
+  },
+  "Q197": {
+    "question_text": "Do you think the government should have the right to monitor all e-mails and any other information exchanged on the Internet?",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    }
+  },
+  "Q198": {
+    "question_text": "Do you think the government should have the right to collect information about anyone living in this country without their knowledge?",
+    "options": {
+      "1": "Definitely should have the right",
+      "2": "Probably should have the right",
+      "3": "Probably should not have the right",
+      "4": "Definitely should not have the right"
+    }
+  },
+  "Q199": {
+    "question_text": "How interested would you say you are in politics?",
+    "options": {
+      "1": "Very interested",
+      "2": "Somewhat interested",
+      "3": "Not very interested",
+      "4": "Not at all interested"
+    }
+  },
+  "Q200": {
+    "question_text": "When you get together with your friends, would you say you discuss political matters frequently, occasionally, or never?",
+    "options": {
+      "1": "Frequently",
+      "2": "Occasionally",
+      "3": "Never"
+    }
+  },
+  "Q201": {
+    "question_text": "How often do you obtain information from a daily newspaper?",
+    "options": {
+      "1": "Daily",
+      "2": "Weekly",
+      "3": "Monthly",
+      "4": "Less than monthly",
+      "5": "Never"
+    }
+  },
+  "Q202": {
+    "question_text": "How often do you obtain information from TV news?",
+    "options": {
+      "1": "Daily",
+      "2": "Weekly",
+      "3": "Monthly",
+      "4": "Less than monthly",
+      "5": "Never"
+    }
+  },
+  "Q203": {
+    "question_text": "How often do you obtain information from radio news?",
+    "options": {
+      "1": "Daily",
+      "2": "Weekly",
+      "3": "Monthly",
+      "4": "Less than monthly",
+      "5": "Never"
+    }
+  },
+  "Q204": {
+    "question_text": "How often do you obtain information from your mobile phone?",
+    "options": {
+      "1": "Daily",
+      "2": "Weekly",
+      "3": "Monthly",
+      "4": "Less than monthly",
+      "5": "Never"
+    }
+  },
+  "Q205": {
+    "question_text": "How often do you obtain information from email?",
+    "options": {
+      "1": "Daily",
+      "2": "Weekly",
+      "3": "Monthly",
+      "4": "Less than monthly",
+      "5": "Never"
+    }
+  },
+  "Q206": {
+    "question_text": "How often do you obtain information from the Internet?",
+    "options": {
+      "1": "Daily",
+      "2": "Weekly",
+      "3": "Monthly",
+      "4": "Less than monthly",
+      "5": "Never"
+    }
+  },
+  "Q207": {
+    "question_text": "How often do you obtain information from social media (e.g., Facebook, Twitter)?",
+    "options": {
+      "1": "Daily",
+      "2": "Weekly",
+      "3": "Monthly",
+      "4": "Less than monthly",
+      "5": "Never"
+    }
+  },
+  "Q208": {
+    "question_text": "How often do you obtain information from talking with friends or colleagues?",
+    "options": {
+      "1": "Daily",
+      "2": "Weekly",
+      "3": "Monthly",
+      "4": "Less than monthly",
+      "5": "Never"
+    }
+  },
+  "Q209": {
+    "question_text": "Have you ever signed a petition?",
+    "options": {
+      "1": "Have done",
+      "2": "Might do",
+      "3": "Would never do"
+    }
+  },
+  "Q210": {
+    "question_text": "Have you ever joined in boycotts?",
+    "options": {
+      "1": "Have done",
+      "2": "Might do",
+      "3": "Would never do"
+    }
+  },
+  "Q211": {
+    "question_text": "Have you ever attended peaceful demonstrations?",
+    "options": {
+      "1": "Have done",
+      "2": "Might do",
+      "3": "Would never do"
+    }
+  },
+  "Q212": {
+    "question_text": "Have you ever joined strikes?",
+    "options": {
+      "1": "Have done",
+      "2": "Might do",
+      "3": "Would never do"
+    }
+  },
+  "Q213": {
+    "question_text": "Have you ever donated to a group or campaign?",
+    "options": {
+      "1": "Have done",
+      "2": "Might do",
+      "3": "Would never do"
+    }
+  },
+  "Q214": {
+    "question_text": "Have you ever contacted a government official?",
+    "options": {
+      "1": "Have done",
+      "2": "Might do",
+      "3": "Would never do"
+    }
+  },
+  "Q215": {
+    "question_text": "Have you ever encouraged others to take action about political issues?",
+    "options": {
+      "1": "Have done",
+      "2": "Might do",
+      "3": "Would never do"
+    }
+  },
+  "Q216": {
+    "question_text": "Have you ever encouraged others to vote?",
+    "options": {
+      "1": "Have done",
+      "2": "Might do",
+      "3": "Would never do"
+    }
+  },
+  "Q217": {
+    "question_text": "Have you ever searched for information about politics and political events online?",
+    "options": {
+      "1": "Have done",
+      "2": "Might do",
+      "3": "Would never do",
+      "-3": "Not applicable (does not use Internet)"
+    }
+  },
+  "Q218": {
+    "question_text": "Have you ever signed an electronic petition?",
+    "options": {
+      "1": "Have done",
+      "2": "Might do",
+      "3": "Would never do",
+      "-3": "Not applicable (does not use Internet)"
+    }
+  },
+  "Q219": {
+    "question_text": "Have you ever encouraged other people to take any form of political action online?",
+    "options": {
+      "1": "Have done",
+      "2": "Might do",
+      "3": "Would never do",
+      "-3": "Not applicable (does not use Internet)"
+    }
+  },
+  "Q220": {
+    "question_text": "Have you ever organized political activities, events, or protests online?",
+    "options": {
+      "1": "Have done",
+      "2": "Might do",
+      "3": "Would never do",
+      "-3": "Not applicable (does not use Internet)"
+    }
+  },
+  "Q221": {
+    "question_text": "When elections take place at the local level, do you vote always, usually, or never?",
+    "options": {
+      "1": "Always",
+      "2": "Usually",
+      "3": "Never",
+      "4": "Not allowed to vote"
+    }
+  },
+  "Q222": {
+    "question_text": "When elections take place at the national level, do you vote always, usually, or never?",
+    "options": {
+      "1": "Always",
+      "2": "Usually",
+      "3": "Never",
+      "4": "Not allowed to vote"
+    }
+  },
+  "Q223": {
+    "question_text": "If there were a national election tomorrow, for which party on this list would you vote? (If DON'T KNOW: Which party appeals to you most?)",
+    "options": {
+      "1": "Party 1",
+      "2": "Party 2",
+      "3": "Party 3",
+      "4": "etc."
+    }
+  },
+  "Q224": {
+    "question_text": "In your view, how often are votes counted fairly in this country’s elections?",
+    "options": {
+      "1": "Very often",
+      "2": "Fairly often",
+      "3": "Not often",
+      "4": "Not at all often"
+    }
+  },
+  "Q225": {
+    "question_text": "In your view, how often are opposition candidates prevented from running in this country’s elections?",
+    "options": {
+      "1": "Very often",
+      "2": "Fairly often",
+      "3": "Not often",
+      "4": "Not at all often"
+    }
+  },
+  "Q226": {
+    "question_text": "In your view, how often does TV news favor the governing party in this country’s elections?",
+    "options": {
+      "1": "Very often",
+      "2": "Fairly often",
+      "3": "Not often",
+      "4": "Not at all often"
+    }
+  },
+  "Q227": {
+    "question_text": "In your view, how often are voters bribed in this country’s elections?",
+    "options": {
+      "1": "Very often",
+      "2": "Fairly often",
+      "3": "Not often",
+      "4": "Not at all often"
+    }
+  },
+  "Q228": {
+    "question_text": "In your view, how often do journalists provide fair coverage of elections in this country?",
+    "options": {
+      "1": "Very often",
+      "2": "Fairly often",
+      "3": "Not often",
+      "4": "Not at all often"
+    }
+  },
+  "Q229": {
+    "question_text": "In your view, how often are election officials fair in this country’s elections?",
+    "options": {
+      "1": "Very often",
+      "2": "Fairly often",
+      "3": "Not often",
+      "4": "Not at all often"
+    }
+  },
+  "Q230": {
+    "question_text": "In your view, how often do rich people buy elections in this country?",
+    "options": {
+      "1": "Very often",
+      "2": "Fairly often",
+      "3": "Not often",
+      "4": "Not at all often"
+    }
+  },
+  "Q231": {
+    "question_text": "In your view, how often are voters threatened with violence at the polls in this country?",
+    "options": {
+      "1": "Very often",
+      "2": "Fairly often",
+      "3": "Not often",
+      "4": "Not at all often"
+    }
+  },
+  "Q232": {
+    "question_text": "In your view, how often are voters offered a genuine choice in the elections in this country?",
+    "options": {
+      "1": "Very often",
+      "2": "Fairly often",
+      "3": "Not often",
+      "4": "Not at all often"
+    }
+  },
+  "Q233": {
+    "question_text": "In your view, how often do women have equal opportunities to run for public office in this country?",
+    "options": {
+      "1": "Very often",
+      "2": "Fairly often",
+      "3": "Not often",
+      "4": "Not at all often"
+    }
+  },
+  "Q234": {
+    "question_text": "How important would you say having honest elections is for you?",
+    "options": {
+      "1": "Very important",
+      "2": "Rather important",
+      "3": "Not very important",
+      "4": "Not at all important"
+    }
+  },
+  "SDG1": {
+    "question_text": "How much would you say the political system in your country allows people like you to have a say in what the government does?",
+    "options": {
+      "1": "A great deal",
+      "2": "A lot",
+      "3": "Some",
+      "4": "Very little",
+      "5": "Not at all"
+    }
+  },
+  "Q235": {
+    "question_text": "How do you feel about having a strong leader who does not have to bother with parliament and elections as a way of governing this country?",
+    "options": {
+      "1": "Very good",
+      "2": "Fairly good",
+      "3": "Fairly bad",
+      "4": "Very bad"
+    }
+  },
+  "Q236": {
+    "question_text": "How do you feel about having experts, not government, make decisions according to what they think is best for the country?",
+    "options": {
+      "1": "Very good",
+      "2": "Fairly good",
+      "3": "Fairly bad",
+      "4": "Very bad"
+    }
+  },
+  "Q237": {
+    "question_text": "How do you feel about having the army rule as a way of governing this country?",
+    "options": {
+      "1": "Very good",
+      "2": "Fairly good",
+      "3": "Fairly bad",
+      "4": "Very bad"
+    }
+  },
+  "Q238": {
+    "question_text": "How do you feel about having a democratic political system as a way of governing this country?",
+    "options": {
+      "1": "Very good",
+      "2": "Fairly good",
+      "3": "Fairly bad",
+      "4": "Very bad"
+    }
+  },
+  "Q239": {
+    "question_text": "How do you feel about having a system governed by religious law in which there are no political parties or elections?",
+    "options": {
+      "1": "Very good",
+      "2": "Fairly good",
+      "3": "Fairly bad",
+      "4": "Very bad"
+    }
+  },
+  "Q240": {
+    "question_text": "In political matters, people often talk of 'the left' and 'the right.' How would you place your views on this scale, generally speaking?",
+    "options": {
+      "1": "Left",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5",
+      "6": "6",
+      "7": "7",
+      "8": "8",
+      "9": "9",
+      "10": "Right"
+    }
+  },
+  "Q241": {
+    "question_text": "How essential is it as a characteristic of democracy that governments tax the rich and subsidize the poor?",
+    "options": {
+      "1": "Not an essential characteristic of democracy",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5",
+      "6": "6",
+      "7": "7",
+      "8": "8",
+      "9": "9",
+      "10": "An essential characteristic of democracy",
+      "0": "It is against democracy"
+    }
+  },
+  "Q242": {
+    "question_text": "How essential is it as a characteristic of democracy that religious authorities ultimately interpret the laws?",
+    "options": {
+      "1": "Not an essential characteristic of democracy",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5",
+      "6": "6",
+      "7": "7",
+      "8": "8",
+      "9": "9",
+      "10": "An essential characteristic of democracy",
+      "0": "It is against democracy"
+    }
+  },
+  "Q243": {
+    "question_text": "How essential is it as a characteristic of democracy that people choose their leaders in free elections?",
+    "options": {
+      "1": "Not an essential characteristic of democracy",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5",
+      "6": "6",
+      "7": "7",
+      "8": "8",
+      "9": "9",
+      "10": "An essential characteristic of democracy",
+      "0": "It is against democracy"
+    }
+  },
+  "Q244": {
+    "question_text": "How essential is it as a characteristic of democracy that people receive state aid for unemployment?",
+    "options": {
+      "1": "Not an essential characteristic of democracy",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5",
+      "6": "6",
+      "7": "7",
+      "8": "8",
+      "9": "9",
+      "10": "An essential characteristic of democracy",
+      "0": "It is against democracy"
+    }
+  },
+  "Q245": {
+    "question_text": "How essential is it as a characteristic of democracy that the army takes over when government is incompetent?",
+    "options": {
+      "1": "Not an essential characteristic of democracy",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5",
+      "6": "6",
+      "7": "7",
+      "8": "8",
+      "9": "9",
+      "10": "An essential characteristic of democracy",
+      "0": "It is against democracy"
+    }
+  },
+  "Q246": {
+    "question_text": "How essential is it as a characteristic of democracy that civil rights protect people from state oppression?",
+    "options": {
+      "1": "Not an essential characteristic of democracy",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5",
+      "6": "6",
+      "7": "7",
+      "8": "8",
+      "9": "9",
+      "10": "An essential characteristic of democracy",
+      "0": "It is against democracy"
+    }
+  },
+  "Q247": {
+    "question_text": "How essential is it as a characteristic of democracy that the state makes people’s incomes equal?",
+    "options": {
+      "1": "Not an essential characteristic of democracy",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5",
+      "6": "6",
+      "7": "7",
+      "8": "8",
+      "9": "9",
+      "10": "An essential characteristic of democracy",
+      "0": "It is against democracy"
+    }
+  },
+  "Q248": {
+    "question_text": "How essential is it as a characteristic of democracy that people obey their rulers?",
+    "options": {
+      "1": "Not an essential characteristic of democracy",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5",
+      "6": "6",
+      "7": "7",
+      "8": "8",
+      "9": "9",
+      "10": "An essential characteristic of democracy",
+      "0": "It is against democracy"
+    }
+  },
+  "Q249": {
+    "question_text": "How essential is it as a characteristic of democracy that women have the same rights as men?",
+    "options": {
+      "1": "Not an essential characteristic of democracy",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5",
+      "6": "6",
+      "7": "7",
+      "8": "8",
+      "9": "9",
+      "10": "An essential characteristic of democracy",
+      "0": "It is against democracy"
+    }
+  },
+  "Q250": {
+    "question_text": "How important is it for you to live in a country that is governed democratically?",
+    "options": {
+      "1": "Not at all important",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5",
+      "6": "6",
+      "7": "7",
+      "8": "8",
+      "9": "9",
+      "10": "Absolutely important"
+    }
+  },
+  "Q251": {
+    "question_text": "How democratically is this country being governed today?",
+    "options": {
+      "1": "Not at all democratic",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5",
+      "6": "6",
+      "7": "7",
+      "8": "8",
+      "9": "9",
+      "10": "Completely democratic"
+    }
+  },
+  "Q252": {
+    "question_text": "How satisfied are you with how the political system is functioning in your country these days?",
+    "options": {
+      "1": "Not satisfied at all",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5",
+      "6": "6",
+      "7": "7",
+      "8": "8",
+      "9": "9",
+      "10": "Completely satisfied"
+    }
+  },
+  "Q253": {
+    "question_text": "How much respect is there for individual human rights nowadays in this country?",
+    "options": {
+      "1": "A great deal of respect",
+      "2": "Fairly much respect",
+      "3": "Not much respect",
+      "4": "No respect at all"
+    }
+  },
+  "Q254": {
+    "question_text": "How proud are you to be [country’s nationality]?",
+    "options": {
+      "1": "Very proud",
+      "2": "Quite proud",
+      "3": "Not very proud",
+      "4": "Not at all proud",
+      "5": "I am not [country’s nationality]"
+    }
+  },
+  "Q255": {
+    "question_text": "How close do you feel to your [village, town or city]?",
+    "options": {
+      "1": "Very close",
+      "2": "Close",
+      "3": "Not very close",
+      "4": "Not close at all"
+    }
+  },
+  "Q256": {
+    "question_text": "How close do you feel to your [county, region, district]?",
+    "options": {
+      "1": "Very close",
+      "2": "Close",
+      "3": "Not very close",
+      "4": "Not close at all"
+    }
+  },
+  "Q257": {
+    "question_text": "How close do you feel to your [country]?",
+    "options": {
+      "1": "Very close",
+      "2": "Close",
+      "3": "Not very close",
+      "4": "Not close at all"
+    }
+  },
+  "Q258": {
+    "question_text": "How close do you feel to [continent; e.g., Europe, Asia, etc.]?",
+    "options": {
+      "1": "Very close",
+      "2": "Close",
+      "3": "Not very close",
+      "4": "Not close at all"
+    }
+  },
+  "Q259": {
+    "question_text": "How close do you feel to the world?",
+    "options": {
+      "1": "Very close",
+      "2": "Close",
+      "3": "Not very close",
+      "4": "Not close at all"
+    }
+  },
+  "Q260": {
+    "question_text": "Respondent’s sex (Code respondent’s sex by observation, don’t ask about it!)",
+    "options": {
+      "1": "Male",
+      "2": "Female"
+    }
+  },
+  "Q261": {
+    "question_text": "Can you tell me your year of birth, please?",
+    "options": {}
+  },
+  "Q262": {
+    "question_text": "This means you are _______ years old (write in age in two digits).",
+    "options": {}
+  },
+  "Q263": {
+    "question_text": "Were you born in this country or are you an immigrant to this country?",
+    "options": {
+      "1": "Born in this country",
+      "2": "Immigrant to this country"
+    }
+  },
+  "Q264": {
+    "question_text": "Is your mother an immigrant to this country or not?",
+    "options": {
+      "1": "Born in this country",
+      "2": "Immigrant to this country"
+    }
+  },
+  "Q265": {
+    "question_text": "Is your father an immigrant to this country or not?",
+    "options": {
+      "1": "Born in this country",
+      "2": "Immigrant to this country"
+    }
+  },
+  "Q266": {
+    "question_text": "In which country were you born?",
+    "options": {}
+  },
+  "Q267": {
+    "question_text": "In which country was your mother born?",
+    "options": {}
+  },
+  "Q268": {
+    "question_text": "In which country was your father born?",
+    "options": {}
+  },
+  "Q269": {
+    "question_text": "Are you a citizen of this country?",
+    "options": {
+      "1": "Yes, I am a citizen of this country.",
+      "2": "No, I am not a citizen of this country."
+    }
+  },
+  "Q270": {
+    "question_text": "Including yourself, how many people – including children – live here regularly as members of this household?",
+    "options": {}
+  },
+  "Q271": {
+    "question_text": "Do you live with your parents or your parents-in-law?",
+    "options": {
+      "1": "No",
+      "2": "Yes, own parent(s)",
+      "3": "Yes, parent(s)-in-law",
+      "4": "Yes, both own parent(s) and parent(s)-in-law"
+    }
+  },
+  "Q272": {
+    "question_text": "What language do you normally speak at home?",
+    "options": {
+      "1": "Option 1",
+      "2": "Option 2",
+      "3": "Option 3",
+      "4": "Option 4",
+      "5": "Option 5"
+    }
+  },
+  "Q273": {
+    "question_text": "Are you currently (read out and code one answer only):",
+    "options": {
+      "1": "Married",
+      "2": "Living together as married",
+      "3": "Divorced",
+      "4": "Separated",
+      "5": "Widowed",
+      "6": "Single"
+    }
+  },
+  "Q274": {
+    "question_text": "Do you have any children?",
+    "options": {}
+  },
+  "Q275": {
+    "question_text": "What is the highest educational level that you have attained?",
+    "options": {
+      "0": "Early childhood education (ISCED 0) / no education",
+      "1": "Primary education (ISCED 1)",
+      "2": "Lower secondary education (ISCED 2)",
+      "3": "Upper secondary education (ISCED 3)",
+      "4": "Post-secondary non-tertiary education (ISCED 4)",
+      "5": "Short-cycle tertiary education (ISCED 5)",
+      "6": "Bachelor or equivalent (ISCED 6)",
+      "7": "Master or equivalent (ISCED 7)",
+      "8": "Doctoral or equivalent (ISCED 8)"
+    }
+  },
+  "Q276": {
+    "question_text": "What is the highest educational level that your spouse has attained?",
+    "options": {
+      "0": "Early childhood education (ISCED 0) / no education",
+      "1": "Primary education (ISCED 1)",
+      "2": "Lower secondary education (ISCED 2)",
+      "3": "Upper secondary education (ISCED 3)",
+      "4": "Post-secondary non-tertiary education (ISCED 4)",
+      "5": "Short-cycle tertiary education (ISCED 5)",
+      "6": "Bachelor or equivalent (ISCED 6)",
+      "7": "Master or equivalent (ISCED 7)",
+      "8": "Doctoral or equivalent (ISCED 8)"
+    }
+  },
+  "Q277": {
+    "question_text": "What is the highest educational level that your mother has attained?",
+    "options": {
+      "0": "Early childhood education (ISCED 0) / no education",
+      "1": "Primary education (ISCED 1)",
+      "2": "Lower secondary education (ISCED 2)",
+      "3": "Upper secondary education (ISCED 3)",
+      "4": "Post-secondary non-tertiary education (ISCED 4)",
+      "5": "Short-cycle tertiary education (ISCED 5)",
+      "6": "Bachelor or equivalent (ISCED 6)",
+      "7": "Master or equivalent (ISCED 7)",
+      "8": "Doctoral or equivalent (ISCED 8)"
+    }
+  },
+  "Q278": {
+    "question_text": "What is the highest educational level that your father has attained?",
+    "options": {
+      "0": "Early childhood education (ISCED 0) / no education",
+      "1": "Primary education (ISCED 1)",
+      "2": "Lower secondary education (ISCED 2)",
+      "3": "Upper secondary education (ISCED 3)",
+      "4": "Post-secondary non-tertiary education (ISCED 4)",
+      "5": "Short-cycle tertiary education (ISCED 5)",
+      "6": "Bachelor or equivalent (ISCED 6)",
+      "7": "Master or equivalent (ISCED 7)",
+      "8": "Doctoral or equivalent (ISCED 8)"
+    }
+  },
+  "Q279": {
+    "question_text": "Are you employed now or not? If yes, about how many hours a week? (If more than one job: only for the main job)",
+    "options": {
+      "1": "Full time employee (30 hours a week or more)",
+      "2": "Part time employee (less than 30 hours a week)",
+      "3": "Self-employed",
+      "4": "Retired/pensioned",
+      "5": "Housewife not otherwise employed",
+      "6": "Student",
+      "7": "Unemployed",
+      "8": "Other"
+    }
+  },
+  "Q280": {
+    "question_text": "Is your spouse employed? In his/her LAST job was he/she employed (either full time or part time) or was he/she self-employed?",
+    "options": {
+      "1": "Full time employee (30 hours a week or more)",
+      "2": "Part time employee (less than 30 hours a week)",
+      "3": "Self-employed",
+      "4": "Retired/pensioned",
+      "5": "Housewife not otherwise employed",
+      "6": "Student",
+      "7": "Unemployed",
+      "8": "Other"
+    }
+  },
+  "Q281": {
+    "question_text": "To which of the following occupational groups do you belong? (Respondent's current or last job, if unemployed)",
+    "options": {
+      "1": "Professional and technical (e.g.: doctor, teacher, engineer, artist, accountant, nurse)",
+      "2": "Higher administrative (e.g.: banker, executive in big business, high government official, union official)",
+      "3": "Clerical (e.g.: secretary, clerk, office manager, civil servant, bookkeeper)",
+      "4": "Sales (e.g.: sales manager, shop owner, shop assistant, insurance agent, buyer)",
+      "5": "Service (e.g.: restaurant owner, police officer, waitress, barber, caretaker)",
+      "6": "Skilled worker (e.g.: foreman, motor mechanic, printer, seamstress, tool and die maker, electrician)",
+      "7": "Semi-skilled worker (e.g.: bricklayer, bus driver, cannery worker, carpenter, sheet metal worker, baker)",
+      "8": "Unskilled worker (e.g.: laborer, porter, unskilled factory worker, cleaner)",
+      "9": "Farm worker (e.g.: farm laborer, tractor driver)",
+      "10": "Farm proprietor, farm manager",
+      "0": "Never had a job"
+    }
+  },
+  "Q282": {
+    "question_text": "To which of the following occupational groups does your spouse belong? (Spouse's current or last job, if unemployed)",
+    "options": {
+      "1": "Professional and technical (e.g.: doctor, teacher, engineer, artist, accountant, nurse)",
+      "2": "Higher administrative (e.g.: banker, executive in big business, high government official, union official)",
+      "3": "Clerical (e.g.: secretary, clerk, office manager, civil servant, bookkeeper)",
+      "4": "Sales (e.g.: sales manager, shop owner, shop assistant, insurance agent, buyer)",
+      "5": "Service (e.g.: restaurant owner, police officer, waitress, barber, caretaker)",
+      "6": "Skilled worker (e.g.: foreman, motor mechanic, printer, seamstress, tool and die maker, electrician)",
+      "7": "Semi-skilled worker (e.g.: bricklayer, bus driver, cannery worker, carpenter, sheet metal worker, baker)",
+      "8": "Unskilled worker (e.g.: laborer, porter, unskilled factory worker, cleaner)",
+      "9": "Farm worker (e.g.: farm laborer, tractor driver)",
+      "10": "Farm proprietor, farm manager",
+      "0": "Never had a job"
+    }
+  },
+  "Q283": {
+    "question_text": "To which of the following occupational groups did your father belong when you were 14 years old?",
+    "options": {
+      "1": "Professional and technical (e.g.: doctor, teacher, engineer, artist, accountant, nurse)",
+      "2": "Higher administrative (e.g.: banker, executive in big business, high government official, union official)",
+      "3": "Clerical (e.g.: secretary, clerk, office manager, civil servant, bookkeeper)",
+      "4": "Sales (e.g.: sales manager, shop owner, shop assistant, insurance agent, buyer)",
+      "5": "Service (e.g.: restaurant owner, police officer, waitress, barber, caretaker)",
+      "6": "Skilled worker (e.g.: foreman, motor mechanic, printer, seamstress, tool and die maker, electrician)",
+      "7": "Semi-skilled worker (e.g.: bricklayer, bus driver, cannery worker, carpenter, sheet metal worker, baker)",
+      "8": "Unskilled worker (e.g.: laborer, porter, unskilled factory worker, cleaner)",
+      "9": "Farm worker (e.g.: farm laborer, tractor driver)",
+      "10": "Farm proprietor, farm manager",
+      "0": "Never had a job"
+    }
+  },
+  "Q284": {
+    "question_text": "Do you or did you work for the government or public institution, for private business or industry, or for a private non-profit organization? (If not currently employed, characterize your major work in the past)",
+    "options": {
+      "1": "Government or public institution",
+      "2": "Private business or industry",
+      "3": "Private non-profit organization"
+    }
+  },
+  "Q285": {
+    "question_text": "Are you the chief wage earner in your household?",
+    "options": {
+      "1": "Yes",
+      "2": "No"
+    }
+  },
+  "Q286": {
+    "question_text": "During the past year, did your family save money, just get by, spent some savings, or spent savings and borrowed money?",
+    "options": {
+      "1": "Saved money",
+      "2": "Just get by",
+      "3": "Spent some savings",
+      "4": "Spent savings and borrowed money"
+    }
+  },
+  "Q287": {
+    "question_text": "Would you describe yourself as belonging to the upper class, upper middle class, lower middle class, working class, or lower class?",
+    "options": {
+      "1": "Upper class",
+      "2": "Upper middle class",
+      "3": "Lower middle class",
+      "4": "Working class",
+      "5": "Lower class"
+    }
+  },
+  "Q288": {
+    "question_text": "On this card is an income scale on which 1 indicates the lowest income group and 10 the highest income group in your country. Please, specify the appropriate number, counting all wages, salaries, pensions and other incomes that come in.",
+    "options": {
+      "1": "Lowest group",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5",
+      "6": "6",
+      "7": "7",
+      "8": "8",
+      "9": "9",
+      "10": "Highest group"
+    }
+  },
+  "Q289": {
+    "question_text": "Do you belong to a religion or religious denomination? If yes, which one?",
+    "options": {
+      "0": "No: do not belong to a denomination",
+      "1": "Roman Catholic",
+      "2": "Protestant",
+      "3": "Orthodox (Russian/Greek/etc.)",
+      "4": "Jew",
+      "5": "Muslim",
+      "6": "Hindu",
+      "7": "Buddhist",
+      "8": "Other (write in)"
+    }
+  },
+  "Q290": {
+    "question_text": "Respondent’s ethnic group (Modify the list for your country/society)",
+    "options": {
+      "1": "White",
+      "2": "Black",
+      "3": "South Asian Indian, Pakistani, etc.",
+      "4": "East Asian Chinese, Japanese, etc.",
+      "5": "Arabic, Central Asian",
+      "6": "Other (write in)"
+    }
+  }
+  }
